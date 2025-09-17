@@ -1,4 +1,4 @@
-# SDG Data Repositoryy
+# SDG Data Repositoryyy
 
 
 [![Build Status](https://travis-ci.org/ONSdigital/sdg-data.svg?branch=develop)](https://travis-ci.org/ONSdigital/sdg-data)
