@@ -20,37 +20,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) acute respiratory infections",
-                "b) diarrhoea",
-                "c) intestinal nematode infections",
-                "d) protein-energy malnutrition",
+                "a) Akute Atemwegsinfektionen",
+                "b) Durchfallerkrankungen",
+                "c) Intestinale Nematodeninfektionen",
+                "d) Energie- und Eiweißmangelernährung",
                 ""
               ]
             },
-            "title": "disease"
+            "title": "Erkrankung"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Männlich",
+                "Weiblich",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "4 years and younger",
+                "4 Jahre und jünger",
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Altersklasse"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -88,7 +88,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

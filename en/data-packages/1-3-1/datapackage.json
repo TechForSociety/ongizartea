@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population covered by health insurance",
-                "unemployed persons with unemployment benefits",
+                "Population covered by health insurance",
+                "Unemployed persons with unemployment benefits",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "dtp vaccination coverage at school entry",
-                "measles vaccination coverage at school entry",
-                "pneumococcal vaccination coverage at school entry",
-                "hpv vaccination coverages among 15 years old girls and boys",
+                "DTP vaccination coverage at school entry",
+                "Measles vaccination coverage at school entry",
+                "Pneumococcal vaccination coverage at school entry",
+                "HPV vaccination coverages among 15 years old girls and boys",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",

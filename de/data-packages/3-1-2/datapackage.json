@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "child deliveries in hospitals",
-                "live births in total",
+                "Entbindungen in Krankenhäusern",
+                "Lebendgeborene insgesamt",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

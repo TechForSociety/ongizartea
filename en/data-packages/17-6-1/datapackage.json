@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) over 144 kbps to under 2 mbps",
+                "a) Over 144 kbps to under 2 mbps",
                 "b) 2 mbps to under 10 mbps",
                 "c) 10 mbps to under 30 mbps",
                 "d) 30 mbps to under 100 mbps",
@@ -28,7 +28,7 @@
                 ""
               ]
             },
-            "title": "speed"
+            "title": "Speed"
           },
           {
             "name": "COMMENT_OBS_0",

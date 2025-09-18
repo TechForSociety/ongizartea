@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fatal occupational accidents",
-                "non-fatal occupational accidents",
+                "Fatal occupational accidents",
+                "Non-fatal occupational accidents",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",

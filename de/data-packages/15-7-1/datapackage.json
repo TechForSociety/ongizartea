@@ -52,18 +52,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "documents issued for the import and export of protected species",
-                "seizures by customs authorities concerning the protection of species",
-                "authorized imports and exports of protected species",
+                "Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten",
+                "Beschlagnahmen durch Zollbehörden im Rahmen des Artenschutzes",
+                "Genehmigte Ein- und Ausfuhren geschützter Arten",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

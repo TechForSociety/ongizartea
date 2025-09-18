@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "data from na from federal statistical office",
-                "data from lfs from federal statistical office",
+                "Data from NA from Federal Statistical Office",
+                "Data from LFS from Federal Statistical Office",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number of pieces of platic waste per 100 meters of beach length",
-                "percentage",
+                "Anzahl der Müllteile aus Plastik pro 100 m Küstenlinie",
+                "Prozent",
                 ""
               ]
             },
@@ -63,17 +63,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "plastic waste on the beaches of the german north sea coast",
-                "plastic particles in fulmar stomachs",
+                "Plastikmüll an Stränden der deutschen Nordsee-Küste",
+                "Plastikmüll in Mägen von Eissturmvögeln",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

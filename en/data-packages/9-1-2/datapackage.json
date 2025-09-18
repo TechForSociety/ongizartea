@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million passenger-kilometre",
-                "million tonne-kilometres",
+                "Million passenger-kilometre",
+                "Million tonne-kilometres",
                 ""
               ]
             },
@@ -32,16 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "road transport",
-                "rail transport",
-                "air transport",
-                "motorised private transport",
-                "inland waterway transport",
-                "pipelines: crude oil",
+                "Road transport",
+                "Rail transport",
+                "Air transport",
+                "Motorised private transport",
+                "Inland waterway transport",
+                "Pipelines: crude oil",
                 ""
               ]
             },
-            "title": "mode of transport"
+            "title": "Mode of transport"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -81,12 +81,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "passenger transport",
-                "freight transport",
+                "Passenger transport",
+                "Freight transport",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

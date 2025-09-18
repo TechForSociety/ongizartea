@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million eur",
-                "million usd, constant prices (2023)",
-                "million usd, constant prices (2022)",
+                "Million EUR",
+                "Million USD, constant prices (2023)",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments) for biodiversity",
-                "oda (gross disbursements) for biodiversity",
-                "oda (gross disbursements) to the forestry sector",
+                "ODA (commitments) for biodiversity",
+                "ODA (gross disbursements) for biodiversity",
+                "ODA (gross disbursements) to the forestry sector",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

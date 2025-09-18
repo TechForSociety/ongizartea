@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1,000 tonnes",
-                "kilogram per capita",
+                "1 000 Tonnen",
+                "Kilogramm pro Kopf",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "restaurants and food services",
-                "private households",
-                "retail and other distribution of food",
+                "Gaststätten und Verpflegungsdienstleistungen",
+                "Private Haushalte",
+                "Einzelhandel und andere Formen des Vertriebs",
                 ""
               ]
             },
-            "title": "stages of the food chain"
+            "title": "Stufen der Lebensmittelkette"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -73,7 +73,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

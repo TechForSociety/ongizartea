@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pharmacists",
-                "medical doctors",
-                "nursing and midwifery personnel",
-                "dentists",
+                "Apotheker",
+                "Ärzte",
+                "Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe",
+                "Zahnärzte",
                 ""
               ]
             },
-            "title": "profession"
+            "title": "Beruf"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -64,7 +64,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

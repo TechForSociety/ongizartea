@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
-                "14 to under 18 years",
+                "13 Jahre und jünger",
+                "14 bis unter 18 Jahre",
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -73,7 +73,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "no unit",
+                "Percentage",
+                "No unit",
                 ""
               ]
             },
@@ -32,42 +32,42 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "working-age population",
-                "german bundestag (lower chamber)",
-                "bundesrat (upper chamber)",
-                "public service",
-                "judiciary",
+                "Working-age population",
+                "German Bundestag (lower chamber)",
+                "Bundesrat (upper chamber)",
+                "Public service",
+                "Judiciary",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "fields of work",
             "type": "string",
             "constraints": {
               "enum": [
-                "political leadership and central administration, foreign affairs",
-                "police",
-                "education, science, research, cultural affairs",
-                "health, environment, sports and recreation",
+                "Political leadership and central administration, foreign affairs",
+                "Police",
+                "Education, science, research, cultural affairs",
+                "Health, environment, sports and recreation",
                 ""
               ]
             },
-            "title": "fields of work"
+            "title": "Fields of work"
           },
           {
             "name": "level of court",
             "type": "string",
             "constraints": {
               "enum": [
-                "supreme/constitutional courts",
-                "higher-level courts",
-                "lower-level courts",
+                "Supreme/Constitutional courts",
+                "Higher-level courts",
+                "Lower-level courts",
                 ""
               ]
             },
-            "title": "level of court"
+            "title": "Level of court"
           },
           {
             "name": "COMMENT_OBS_0",

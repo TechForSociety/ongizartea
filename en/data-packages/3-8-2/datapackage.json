@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "greater 10 %",
-                "greater 25 %",
+                "Greater 10 %",
+                "Greater 25 %",
                 ""
               ]
             },
-            "title": "proportion of household expenditures on health"
+            "title": "Proportion of household expenditures on health"
           },
           {
             "name": "COMMENT_OBS_0",

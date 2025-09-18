@@ -20,36 +20,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fully disaggregated",
-                "partially disaggregated",
-                "not disaggregated",
+                "Vollständig disaggregiert",
+                "Teilweise disaggregiert",
+                "Nicht disaggregiert",
                 ""
               ]
             },
-            "title": "completeness of disaggregation"
+            "title": "Vollständigkeit der Disaggregation"
           },
           {
             "name": "goal",
             "type": "string",
             "constraints": {
               "enum": [
-                "1 - no poverty",
-                "2 - zero hunger",
-                "3 - good health and well-being",
-                "4 - quality education",
-                "5 - gender equality",
-                "8 - decent work and economic growth",
-                "9 - industry, innovation and infrastructure",
-                "10 - reduced inequalities",
-                "11 - sustainable cities and communities",
-                "12 - responsible consumption and production",
-                "15 - life on land",
-                "16 - peace and justice",
-                "17 - partnerships for the goals",
+                "1 - Keine Armut",
+                "2 - Kein Hunger",
+                "3 - Gesundheit und Wohlergehen",
+                "4 - Hochwertige Bildung",
+                "5 - Geschlechtergleichheit",
+                "8 - Menschenwürdige Arbeit und Wirtschaftswachstum",
+                "9 - Industrie, Innovation und Infrastruktur",
+                "10 - Weniger Ungleichheiten",
+                "11 - Nachhaltige Städte und Gemeinden",
+                "12 - Nachhaltige/r Konsum und Produktion",
+                "15 - Leben an Land",
+                "16 - Frieden, Gerechtigkeit und starke Institutionen",
+                "17 - Partnerschaften zur Erreichung der Ziele",
                 ""
               ]
             },
-            "title": "goal"
+            "title": "Ziel"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -86,7 +86,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

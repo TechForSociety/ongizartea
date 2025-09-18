@@ -20,40 +20,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "3g",
-                "lte",
-                "5g",
+                "3G",
+                "LTE",
+                "5G",
                 ""
               ]
             },
-            "title": "technology"
+            "title": "Technology"
           },
           {
             "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
-                "germany",
-                "baden-württemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
+                "Germany",
+                "Baden-Württemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "länder"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

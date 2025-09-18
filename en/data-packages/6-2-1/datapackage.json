@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population with (own) toilet",
-                "population with (own) bathtub or shower",
+                "Population with (own) toilet",
+                "Population with (own) bathtub or shower",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "availability",
             "type": "string",
             "constraints": {
               "enum": [
-                "yes",
-                "no",
+                "Yes",
+                "No",
                 ""
               ]
             },
-            "title": "availability"
+            "title": "Availability"
           },
           {
             "name": "COMMENT_OBS_0",

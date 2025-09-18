@@ -1,4 +1,4 @@
 From,To
-timeseries,age group
-timeseries,sex
-timeseries,COMMENT_OBS_0
+Zeitreihe,Altersklasse
+Zeitreihe,Geschlecht
+Zeitreihe,COMMENT_OBS_0

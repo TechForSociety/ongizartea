@@ -20,20 +20,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "exposure to excessive natural heat",
-                "exposure to excessive natural cold",
-                "exposure to sunlight",
-                "victim of lightning",
-                "victim of earthquake",
-                "victim of volcanic eruption",
-                "victim of avalanche, landslide and other earth movements",
-                "victim of cataclysmic storm",
-                "victim of flood",
-                "exposure to other and unspecified forces of nature",
+                "Exposition gegenüber übermäßiger natürlicher Hitze",
+                "Exposition gegenüber übermäßiger natürlicher Kälte",
+                "Exposition gegenüber Sonnenlicht",
+                "Opfer von Blitzschlag",
+                "Opfer von Erdbeben",
+                "Opfer von Vulkanausbruch",
+                "Opfer von Lawine, Erdrutsch oder anderen Erdoberflächenbewegungen",
+                "Opfer von Sturmkatastrophe",
+                "Opfer von Überschwemmung",
+                "Exposition gegenüber sonstigen oder nicht näher bezeichneten Naturkräften",
                 ""
               ]
             },
-            "title": "cause of death"
+            "title": "Todesursache"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -70,7 +70,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

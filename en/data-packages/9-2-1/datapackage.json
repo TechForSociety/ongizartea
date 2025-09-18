@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "eur",
+                "Percentage",
+                "EUR",
                 ""
               ]
             },
@@ -63,13 +63,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "manufacturing gross value added as a proportion of gdp",
-                "manufacturing gross value added as a proportion of total gross value added",
-                "manufacturing gross value added per capita",
+                "Manufacturing gross value added as a proportion of GDP",
+                "Manufacturing gross value added as a proportion of total gross value added",
+                "Manufacturing gross value added per capita",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

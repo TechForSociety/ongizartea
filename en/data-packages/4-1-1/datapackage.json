@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) at the end of primary education",
-                "c) at the end of lower secondary education",
+                "b) At the end of primary education",
+                "c) At the end of lower secondary education",
                 ""
               ]
             },
-            "title": "educational level"
+            "title": "Educational level"
           },
           {
             "name": "subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "reading",
-                "mathematics",
+                "Reading",
+                "Mathematics",
                 ""
               ]
             },
-            "title": "subject"
+            "title": "Subject"
           },
           {
             "name": "COMMENT_OBS_0",

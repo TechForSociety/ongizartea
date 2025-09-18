@@ -20,36 +20,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "fully disaggregated",
-                "partially disaggregated",
-                "not disaggregated",
+                "Fully disaggregated",
+                "Partially disaggregated",
+                "Not disaggregated",
                 ""
               ]
             },
-            "title": "completeness of disaggregation"
+            "title": "Completeness of disaggregation"
           },
           {
             "name": "goal",
             "type": "string",
             "constraints": {
               "enum": [
-                "1 - no poverty",
-                "2 - zero hunger",
-                "3 - good health and well-being",
-                "4 - quality education",
-                "5 - gender equality",
-                "8 - decent work and economic growth",
-                "9 - industry, innovation and infrastructure",
-                "10 - reduced inequalities",
-                "11 - sustainable cities and communities",
-                "12 - responsible consumption and production",
-                "15 - life on land",
-                "16 - peace and justice",
-                "17 - partnerships for the goals",
+                "1 - No poverty",
+                "2 - Zero hunger",
+                "3 - Good health and well-being",
+                "4 - Quality education",
+                "5 - Gender equality",
+                "8 - Decent work and economic Growth",
+                "9 - Industry, innovation and infrastructure",
+                "10 - Reduced inequalities",
+                "11 - Sustainable cities and communities",
+                "12 - Responsible consumption and production",
+                "15 - Life on land",
+                "16 - Peace and justice",
+                "17 - Partnerships for the goals",
                 ""
               ]
             },
-            "title": "goal"
+            "title": "Goal"
           },
           {
             "name": "COMMENT_OBS_0",

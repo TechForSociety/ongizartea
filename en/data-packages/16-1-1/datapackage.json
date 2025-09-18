@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 inhabitants",
-                "number",
+                "Per 100,000 inhabitants",
+                "Number",
                 ""
               ]
             },
@@ -40,19 +40,19 @@
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",

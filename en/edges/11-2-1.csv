@@ -1,6 +1,6 @@
 From,To
-time series,länder
-time series,disability status
-time series,age group
-time series,sex
-time series,COMMENT_OBS_0
+Time series,Länder
+Time series,Disability status
+Time series,Age group
+Time series,Sex
+Time series,COMMENT_OBS_0

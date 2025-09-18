@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million eur",
-                "million usd, constant prices (2023)",
-                "million usd, constant prices (2022)",
+                "Millionen EUR",
+                "Millionen USD, konstante Preise (2023)",
+                "Millionen USD, konstante Preise (2022)",
                 ""
               ]
             },
@@ -33,13 +33,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (commitments) for biodiversity",
-                "oda (gross disbursements) for biodiversity",
-                "environmental protection expenditure",
+                "Zusagen (ODA) für Biodiversität",
+                "Bruttoentwicklungsausgaben (ODA) für Biodiversität",
+                "Umweltschutzausgaben",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -76,7 +76,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

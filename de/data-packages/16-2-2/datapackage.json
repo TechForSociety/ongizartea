@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "per 100,000 inhabitants",
-                "number",
+                "Je 100 000 Einwohner/-innen",
+                "Anzahl",
                 ""
               ]
             },
@@ -32,41 +32,41 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "13 years and younger",
-                "14 to under 18 years",
-                "18 to under 21 years",
-                "21 to under 25 years",
-                "25 years and older",
-                "unknown age",
+                "13 Jahre und jünger",
+                "14 bis unter 18 Jahre",
+                "18 bis unter 21 Jahre",
+                "21 bis unter 25 Jahre",
+                "25 Jahre und älter",
+                "Alter unbekannt",
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
-                "unknown",
+                "Weiblich",
+                "Männlich",
+                "Unbekannt",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "form of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
-                "labour exploitation",
-                "sexual exploitation",
+                "Ausbeutung der Arbeitskraft",
+                "Sexuelle Ausbeutung",
                 ""
               ]
             },
-            "title": "form of exploitation"
+            "title": "Form der Ausbeutung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -102,7 +102,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

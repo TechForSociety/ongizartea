@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "houres per day",
+                "Prozent",
+                "Stunden pro Tag",
                 ""
               ]
             },
@@ -32,53 +32,53 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "domestic and care work",
-                "domestic work",
-                "care work",
+                "Haus- und Pflegearbeit",
+                "Hausarbeit",
+                "Pflegearbeit",
                 ""
               ]
             },
-            "title": "type of unpaid work"
+            "title": "Art der unbezahlten Arbeit"
           },
           {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural areas",
+                "Städte",
+                "Ländliche Gebiete",
                 ""
               ]
             },
-            "title": "degree of urbanisation"
+            "title": "Verstädterungsgrad"
           },
           {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 years and older",
-                "15 to under 25 years",
-                "25 to under 45 years",
-                "45 to under 55 years",
-                "55 to under 65 years",
-                "65 years and older",
+                "15 Jahre und älter",
+                "15 bis unter 25 Jahre",
+                "25 bis unter 45 Jahre",
+                "45 bis unter 55 Jahre",
+                "55 bis unter 65 Jahre",
+                "65 Jahre und älter",
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -113,7 +113,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

@@ -20,31 +20,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "copying or moving of files and folders",
-                "using copy or cut and paste tools to duplicate or move information on screen",
-                "writing code in a programming language",
-                "connecting and installing new devices, eg a printer or a modem",
-                "transferring files between computer and other devices",
-                "installing software or apps",
-                "creating electronic presentations with presentation software, including e.g. images, sound, video or charts",
-                "using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                "Kopieren oder Verschieben von Dateien und Ordnern",
+                "Verwendung von Werkzeugen zum Kopieren oder Ausschneiden und Einfügen, um Informationen auf dem Bildschirm zu duplizieren oder zu verschieben",
+                "Schreiben eines Programmes in einer Programmiersprache",
+                "Anschließen und Installieren neuer Geräte, z. B. eines Druckers oder eines Modems",
+                "Übertragung von Dateien zwischen Computern und anderen Geräten",
+                "Installation von Software oder Anwendungen (Apps)",
+                "Erstellung elektronischer Präsentationen mit Präsentationssoftware, z. B. mit Bildern, Ton, Video oder Diagrammen",
+                "Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken",
                 ""
               ]
             },
-            "title": "type of ict competence"
+            "title": "Art der IKT-Kompetenz"
           },
           {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 75 years",
-                "16 to under 25 years",
-                "25 to under 65 years",
+                "16 bis unter 75 Jahre",
+                "16 bis unter 25 Jahre",
+                "25 bis unter 65 Jahre",
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Altersklasse"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -81,7 +81,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "lower secondary education (isced level 2)",
-                "upper secondary education (isced level 3)",
+                "Lower secondary education (ISCED level 2)",
+                "Upper secondary education (ISCED level 3)",
                 ""
               ]
             },
-            "title": "educational level"
+            "title": "Educational level"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",

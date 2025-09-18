@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million eur",
-                "million usd, constant prices (2022)",
+                "Million EUR",
+                "Million USD, constant prices (2022)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "commitments (oda)",
-                "gross disbursements (oda)",
+                "Commitments (ODA)",
+                "Gross disbursements (ODA)",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "micrograms per m³",
-                "million inhabitants",
+                "Mikrogramm pro m³",
+                "Millionen Einwohner/-innen",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pm10",
-                "pm2.5",
+                "PM₁₀",
+                "PM₂,₅",
                 ""
               ]
             },
-            "title": "fine particulate matter"
+            "title": "Feinstaub"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -75,17 +75,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population weighted annual mean levels of fine particulate matter",
-                "population with excessive exposure to fine particulate matter",
+                "Bevölkerungsgewichtete Jahresmittelwerte von Feinstaub",
+                "Bevölkerung mit erhöhter Feinstaubexposition",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

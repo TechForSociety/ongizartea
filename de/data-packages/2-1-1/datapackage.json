@@ -20,34 +20,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "p5",
-                "p10",
-                "p25",
-                "p50",
-                "p75",
-                "p90",
-                "p95",
+                "P5",
+                "P10",
+                "P25",
+                "P50",
+                "P75",
+                "P90",
+                "P95",
                 ""
               ]
             },
-            "title": "percentile"
+            "title": "Perzentil"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "finale score",
-                "enabling environment",
-                "institutions and participation",
-                "management instruments",
-                "financing",
+                "Endbewertung",
+                "Rahmenbedingungen",
+                "Institutionen und Beteiligung",
+                "Managementinstrumente",
+                "Finanzierung",
                 ""
               ]
             },
-            "title": "section"
+            "title": "Abschnitt"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -63,7 +63,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

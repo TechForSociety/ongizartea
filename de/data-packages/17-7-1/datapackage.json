@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "general government",
-                "corporations",
+                "Staat",
+                "Unternehmen",
                 ""
               ]
             },
-            "title": "sector"
+            "title": "Sektor"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

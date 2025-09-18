@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "attributable deaths",
-                "dalys",
+                "Attributable Todesfälle",
+                "DALYs",
                 ""
               ]
             },
@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "chronic obstructive pulmonary disease (copd)",
-                "lung cancer",
-                "stroke",
-                "ischemic heart diseases",
-                "diabetes mellitus type 2",
+                "Chronisch obstruktive Lungenerkrankung (COPD)",
+                "Lungenkrebs",
+                "Schlaganfall",
+                "Ischämische Herzerkrankungen",
+                "Diabetes mellitus Typ 2",
                 ""
               ]
             },
-            "title": "disease"
+            "title": "Erkrankung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -77,19 +77,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
-                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
-                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
-                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "Attributable Todesfälle infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren",
+                "DALYs infolge einer Langzeit-Exposition gegenüber Feinstaub (PM₂,₅) in der Bevölkerung ab 25 Jahren nach Art der Erkrankung",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

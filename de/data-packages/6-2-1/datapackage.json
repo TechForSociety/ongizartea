@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population with (own) toilet",
-                "population with (own) bathtub or shower",
+                "Bevölkerung mit (eigener) Toilette",
+                "Bevölkerung mit (eigener) Badewanne oder Dusche",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "availability",
             "type": "string",
             "constraints": {
               "enum": [
-                "yes",
-                "no",
+                "Ja",
+                "Nein",
                 ""
               ]
             },
-            "title": "availability"
+            "title": "Verfügbarkeit"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -75,7 +75,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

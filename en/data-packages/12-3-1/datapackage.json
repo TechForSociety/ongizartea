@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "1,000 tonnes",
-                "kilogram per capita",
+                "Kilogram per capita",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "restaurants and food services",
-                "private households",
-                "retail and other distribution of food",
+                "Restaurants and food services",
+                "Private households",
+                "Retail and other distribution of food",
                 ""
               ]
             },
-            "title": "stages of the food chain"
+            "title": "Stages of the food chain"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "by un factors",
-                "by national factors",
+                "Nach UN-Faktoren",
+                "Nach nationalen Faktoren",
                 ""
               ]
             },
-            "title": "conversion"
+            "title": "Umrechnung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

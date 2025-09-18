@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number",
+                "Prozent",
+                "Anzahl",
                 ""
               ]
             },
@@ -32,28 +32,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "level of risk of extinction (according to fao classification)",
-                "local livestock breeds (horses, cows, pigs, sheep and goats)",
-                "level of risk of extinction (according to national classification)",
+                "Gefährdungskategorie (nach FAO-Klassifikation)",
+                "Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)",
+                "Gefährdungskategorie (nach nationaler Klassifikation)",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "level of risk of extinction",
             "type": "string",
             "constraints": {
               "enum": [
-                "at risk",
-                "not at risk",
-                "under observation",
-                "breeding programs for preservation",
-                "rudiments remaining",
+                "Gefährdet",
+                "Nicht gefährdet",
+                "Beobachtungspopulationen",
+                "Erhaltungspopulationen",
+                "Phänotypische Erhaltungspopulationen",
                 ""
               ]
             },
-            "title": "level of risk of extinction"
+            "title": "Gefährdungskategorie"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -90,7 +90,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

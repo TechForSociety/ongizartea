@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number",
+                "Percentage",
+                "Number",
                 ""
               ]
             },
@@ -32,40 +32,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "bundestag (lower chamber)",
-                "bundesrat (upper chamber)",
-                "länder parliaments",
-                "councils of districts and district-free cities",
+                "Bundestag (Lower chamber)",
+                "Bundesrat (upper chamber)",
+                "Länder parliaments",
+                "Councils of districts and district-free cities",
                 ""
               ]
             },
-            "title": "political institution"
+            "title": "Political institution"
           },
           {
             "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-württemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
+                "Baden-Württemberg",
+                "Bavaria",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hesse",
+                "Mecklenburg Western Pomerania",
+                "Lower Saxony",
+                "North Rhine-Westphalia",
+                "Rhineland Palatinate",
+                "Saarland",
+                "Saxony",
+                "Saxony-Anhalt",
+                "Schleswig-Holstein",
+                "Thuringia",
                 ""
               ]
             },
-            "title": "länder"
+            "title": "Länder"
           },
           {
             "name": "GeoCode",

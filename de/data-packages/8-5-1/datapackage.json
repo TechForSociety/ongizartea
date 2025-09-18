@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "eur per hour",
-                "percentage",
+                "EUR pro Stunde",
+                "Prozent",
                 ""
               ]
             },
@@ -32,38 +32,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
-                "baden-württemberg",
-                "bavaria",
-                "berlin",
-                "brandenburg",
-                "bremen",
-                "hamburg",
-                "hesse",
-                "mecklenburg western pomerania",
-                "lower saxony",
-                "north rhine-westphalia",
-                "rhineland palatinate",
-                "saarland",
-                "saxony",
-                "saxony-anhalt",
-                "schleswig-holstein",
-                "thuringia",
+                "Baden-Württemberg",
+                "Bayern",
+                "Berlin",
+                "Brandenburg",
+                "Bremen",
+                "Hamburg",
+                "Hessen",
+                "Mecklenburg-Vorpommern",
+                "Niedersachsen",
+                "Nordrhein-Westfalen",
+                "Rheinland-Pfalz",
+                "Saarland",
+                "Sachsen",
+                "Sachsen-Anhalt",
+                "Schleswig-Holstein",
+                "Thüringen",
                 ""
               ]
             },
-            "title": "länder"
+            "title": "Bundesland"
           },
           {
             "name": "GeoCode",
@@ -106,17 +106,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "average hourly earnings of employees",
-                "gender pay gap",
+                "Durchschnittlicher Stundenverdienst von Beschäftigten",
+                "Verdienstabstand",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

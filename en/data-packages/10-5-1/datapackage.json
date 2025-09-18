@@ -20,17 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio of regulatory capital to all weighted risk positions",
-                "ratio of regulatory (tier 1) capital to all weighted risk positions",
-                "ratio of non-performing loans (net of risk provisions) to balance sheet capital",
-                "non-performing loans to total gross loans",
-                "total return on assets",
-                "ratio of liquid assets to short-term liabilities",
-                "ratio of open foreign exchange position to regulatory capital",
+                "Ratio of regulatory capital to all weighted risk positions",
+                "Ratio of regulatory (tier 1) capital to all weighted risk positions",
+                "Ratio of non-performing loans (net of risk provisions) to balance sheet capital",
+                "Non-performing loans to total gross loans",
+                "Total return on assets",
+                "Ratio of liquid assets to short-term liabilities",
+                "Ratio of open foreign exchange position to regulatory capital",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

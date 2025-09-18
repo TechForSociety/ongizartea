@@ -1,57 +1,57 @@
-Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,million eur,water and sanitation,,,,486.1
-2011,million eur,water and sanitation,,,,563.5
-2012,million eur,water and sanitation,,,,497.0
-2013,million eur,water and sanitation,,,,552.9
-2014,million eur,water and sanitation,,,,748.5
-2015,million eur,water and sanitation,,,,827.6
-2016,million eur,water and sanitation,,,,835.0
-2017,million eur,water and sanitation,,,,856.6
-2018,million eur,water and sanitation,,,,894.9
-2019,million eur,water and sanitation,,,,823.0
-2020,million eur,water and sanitation,,,,874.2
-2021,million eur,water and sanitation,,,,771.8
-2022,million eur,water and sanitation,,,,815.6
-2023,million eur,water and sanitation,,,,932.9
-2010,million eur,other related purposes,,,,41.2
-2011,million eur,other related purposes,,,,76.4
-2012,million eur,other related purposes,,,,57.8
-2013,million eur,other related purposes,,,,51.8
-2014,million eur,other related purposes,,,,54.4
-2015,million eur,other related purposes,,,,21.9
-2016,million eur,other related purposes,,,,19.4
-2017,million eur,other related purposes,,,,7.0
-2018,million eur,other related purposes,,,,29.4
-2019,million eur,other related purposes,,,,10.9
-2020,million eur,other related purposes,,,,11.0
-2021,million eur,other related purposes,,,,16.8
-2022,million eur,other related purposes,,,,14.7
-2023,million eur,other related purposes,,,,24.3
-2010,"million usd, constant prices (2023)",water and sanitation,,,,717.5
-2011,"million usd, constant prices (2023)",water and sanitation,,,,821.6
-2012,"million usd, constant prices (2023)",water and sanitation,,,,714.3
-2013,"million usd, constant prices (2023)",water and sanitation,,,,779.2
-2014,"million usd, constant prices (2023)",water and sanitation,,,,1035.2
-2015,"million usd, constant prices (2023)",water and sanitation,,,,1125.6
-2016,"million usd, constant prices (2023)",water and sanitation,,,,1121.5
-2017,"million usd, constant prices (2023)",water and sanitation,,,,1133.9
-2018,"million usd, constant prices (2023)",water and sanitation,,,,1162.8
-2019,"million usd, constant prices (2023)",water and sanitation,,,,1048.4
-2020,"million usd, constant prices (2023)",water and sanitation,,,,1094.4
-2021,"million usd, constant prices (2023)",water and sanitation,,,,939.9
-2022,"million usd, constant prices (2023)",water and sanitation,,,,936.1
-2023,"million usd, constant prices (2023)",water and sanitation,,,,1008.8
-2010,"million usd, constant prices (2023)",other related purposes,,,,60.8
-2011,"million usd, constant prices (2023)",other related purposes,,,,111.5
-2012,"million usd, constant prices (2023)",other related purposes,,,,83.1
-2013,"million usd, constant prices (2023)",other related purposes,,,,73.0
-2014,"million usd, constant prices (2023)",other related purposes,,,,75.3
-2015,"million usd, constant prices (2023)",other related purposes,,,,29.8
-2016,"million usd, constant prices (2023)",other related purposes,,,,26.0
-2017,"million usd, constant prices (2023)",other related purposes,,,,9.2
-2018,"million usd, constant prices (2023)",other related purposes,,,,38.2
-2019,"million usd, constant prices (2023)",other related purposes,,,,13.8
-2020,"million usd, constant prices (2023)",other related purposes,,,,13.8
-2021,"million usd, constant prices (2023)",other related purposes,,,,20.5
-2022,"million usd, constant prices (2023)",other related purposes,,,,16.9
-2023,"million usd, constant prices (2023)",other related purposes,,,,26.2
+Year,Units,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Million EUR,Water and sanitation,,,,486.1
+2011,Million EUR,Water and sanitation,,,,563.5
+2012,Million EUR,Water and sanitation,,,,497.0
+2013,Million EUR,Water and sanitation,,,,552.9
+2014,Million EUR,Water and sanitation,,,,748.5
+2015,Million EUR,Water and sanitation,,,,827.6
+2016,Million EUR,Water and sanitation,,,,835.0
+2017,Million EUR,Water and sanitation,,,,856.6
+2018,Million EUR,Water and sanitation,,,,894.9
+2019,Million EUR,Water and sanitation,,,,823.0
+2020,Million EUR,Water and sanitation,,,,874.2
+2021,Million EUR,Water and sanitation,,,,771.8
+2022,Million EUR,Water and sanitation,,,,815.6
+2023,Million EUR,Water and sanitation,,,,932.9
+2010,Million EUR,Other related purposes,,,,41.2
+2011,Million EUR,Other related purposes,,,,76.4
+2012,Million EUR,Other related purposes,,,,57.8
+2013,Million EUR,Other related purposes,,,,51.8
+2014,Million EUR,Other related purposes,,,,54.4
+2015,Million EUR,Other related purposes,,,,21.9
+2016,Million EUR,Other related purposes,,,,19.4
+2017,Million EUR,Other related purposes,,,,7.0
+2018,Million EUR,Other related purposes,,,,29.4
+2019,Million EUR,Other related purposes,,,,10.9
+2020,Million EUR,Other related purposes,,,,11.0
+2021,Million EUR,Other related purposes,,,,16.8
+2022,Million EUR,Other related purposes,,,,14.7
+2023,Million EUR,Other related purposes,,,,24.3
+2010,"Million USD, constant prices (2023)",Water and sanitation,,,,717.5
+2011,"Million USD, constant prices (2023)",Water and sanitation,,,,821.6
+2012,"Million USD, constant prices (2023)",Water and sanitation,,,,714.3
+2013,"Million USD, constant prices (2023)",Water and sanitation,,,,779.2
+2014,"Million USD, constant prices (2023)",Water and sanitation,,,,1035.2
+2015,"Million USD, constant prices (2023)",Water and sanitation,,,,1125.6
+2016,"Million USD, constant prices (2023)",Water and sanitation,,,,1121.5
+2017,"Million USD, constant prices (2023)",Water and sanitation,,,,1133.9
+2018,"Million USD, constant prices (2023)",Water and sanitation,,,,1162.8
+2019,"Million USD, constant prices (2023)",Water and sanitation,,,,1048.4
+2020,"Million USD, constant prices (2023)",Water and sanitation,,,,1094.4
+2021,"Million USD, constant prices (2023)",Water and sanitation,,,,939.9
+2022,"Million USD, constant prices (2023)",Water and sanitation,,,,936.1
+2023,"Million USD, constant prices (2023)",Water and sanitation,,,,1008.8
+2010,"Million USD, constant prices (2023)",Other related purposes,,,,60.8
+2011,"Million USD, constant prices (2023)",Other related purposes,,,,111.5
+2012,"Million USD, constant prices (2023)",Other related purposes,,,,83.1
+2013,"Million USD, constant prices (2023)",Other related purposes,,,,73.0
+2014,"Million USD, constant prices (2023)",Other related purposes,,,,75.3
+2015,"Million USD, constant prices (2023)",Other related purposes,,,,29.8
+2016,"Million USD, constant prices (2023)",Other related purposes,,,,26.0
+2017,"Million USD, constant prices (2023)",Other related purposes,,,,9.2
+2018,"Million USD, constant prices (2023)",Other related purposes,,,,38.2
+2019,"Million USD, constant prices (2023)",Other related purposes,,,,13.8
+2020,"Million USD, constant prices (2023)",Other related purposes,,,,13.8
+2021,"Million USD, constant prices (2023)",Other related purposes,,,,20.5
+2022,"Million USD, constant prices (2023)",Other related purposes,,,,16.9
+2023,"Million USD, constant prices (2023)",Other related purposes,,,,26.2

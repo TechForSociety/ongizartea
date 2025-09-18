@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
-                "gini coefficient of equivalised disposable income (post-fiscal)",
-                "redistributive impact of fiscal policy",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens vor Sozialleistungen",
+                "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens",
+                "Umverteilende Wirkung der Fiskalpolitik",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

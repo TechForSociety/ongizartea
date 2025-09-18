@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "applications received",
-                "applications finally processed",
+                "Applications received",
+                "Applications finally processed",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "outcome of the application process",
             "type": "string",
             "constraints": {
               "enum": [
-                "admissible applications",
-                "rejected applications",
+                "Admissible applications",
+                "Rejected applications",
                 ""
               ]
             },
-            "title": "outcome of the application process"
+            "title": "Outcome of the application process"
           },
           {
             "name": "COMMENT_OBS_0",

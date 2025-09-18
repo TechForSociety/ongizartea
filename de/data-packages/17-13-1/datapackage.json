@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "billion eur",
-                "million hours",
+                "Prozent",
+                "Milliarden EUR",
+                "Millionen Stunden",
                 "2020 = 100",
-                "number in 1,000",
+                "Anzahl in 1 000",
                 ""
               ]
             },
@@ -35,23 +35,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "annual growth rate of real gdp",
-                "available income of private households",
-                "consumption by private households",
-                "debts of the total public budget",
-                "government fiscal balance",
-                "gross fixed capital formation",
-                "hours worked by employees",
-                "hours worked by persons employed",
-                "labour productivity per hour worked by employee",
-                "labour productivity per hour worked by persons employed",
-                "persons employed",
-                "real gdp per capita",
-                "trade balance",
+                "Jährliche Wachstumsrate des realen BIP",
+                "Verfügbares Einkommen privater Haushalte",
+                "Konsum privater Haushalte",
+                "Schulden des Öffentlichen Gesamthaushalts",
+                "Finanzierungssaldo des Staates",
+                "Bruttoanlageinvestitionen",
+                "Geleistete Arbeitsstunden der Arbeitnehmer",
+                "Geleistete Arbeitsstunden der Erwerbstätigen",
+                "Arbeitsproduktivität je geleisteter Arbeitnehmerstunde",
+                "Arbeitsproduktivität je geleisteter Erwerbstätigenstunde",
+                "Erwerbstätige",
+                "Reales BIP pro Kopf",
+                "Außenbeitrag",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -89,7 +89,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

@@ -51,17 +51,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "plant genetic resources",
-                "animal genetic resources",
+                "Pflanzengenetische Ressourcen",
+                "Tiergenetische Ressourcen",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

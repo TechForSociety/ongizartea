@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "owned and leased agricultural land",
-                "female owners of agricultural holdings with the legal form of a sole proprietorship",
-                "agricultural holdings with the legal form of a sole proprietorship",
+                "Owned and leased agricultural land",
+                "Female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "Agricultural holdings with the legal form of a sole proprietorship",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "property",
-                "leasehold",
+                "Property",
+                "Leasehold",
                 ""
               ]
             },
-            "title": "ownership"
+            "title": "Ownership"
           },
           {
             "name": "COMMENT_OBS_0",

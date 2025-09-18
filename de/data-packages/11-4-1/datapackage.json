@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "protection of biodiversity and landscape (cofog 5.4)",
-                "cultural services (cofog 8.2)",
+                "Arten- und Landschaftsschutz (COFOG 5.4)",
+                "Kultur (COFOG 8.2)",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

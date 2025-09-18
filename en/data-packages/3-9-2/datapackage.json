@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) acute respiratory infections",
-                "b) diarrhoea",
-                "c) intestinal nematode infections",
-                "d) protein-energy malnutrition",
+                "a) Acute respiratory infections",
+                "b) Diarrhoea",
+                "c) Intestinal nematode infections",
+                "d) Protein-energy malnutrition",
                 ""
               ]
             },
-            "title": "disease"
+            "title": "Disease"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "age group",
@@ -50,7 +50,7 @@
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Age group"
           },
           {
             "name": "COMMENT_OBS_0",

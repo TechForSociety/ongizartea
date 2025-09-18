@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "schools with access to electricity",
-                "schools with access to basic drinking water",
-                "schools with access to single-sex basic sanitation facilities",
-                "schools with access to basic handwashing facilities",
+                "Schulen mit Zugang zu Elektrizität",
+                "Schulen mit Zugang zu Trinkwasser",
+                "Schulen mit Zugang zu geschlechterspezifischen, grundlegenden sanitären Anlagen",
+                "Schulen mit Zugang zu grundlegenden Einrichtungen zum Händewaschen",
                 ""
               ]
             },
-            "title": "type of service"
+            "title": "Versorgungsleistung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -63,7 +63,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

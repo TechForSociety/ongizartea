@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million tonnes",
-                "tonnes per capita",
+                "Million tonnes",
+                "Tonnes per capita",
                 "2020 = 100",
                 ""
               ]
@@ -65,12 +65,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "domestic material consumption (dmc)",
-                "domestic material consumption per real gdp",
+                "Domestic material consumption (DMC)",
+                "Domestic material consumption per real GDP",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

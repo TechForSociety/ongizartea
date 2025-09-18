@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to under 75 years",
-                "16 to under 25 years",
-                "25 to under 65 years",
-                "65 to under 75 years",
+                "16 bis unter 75 Jahre",
+                "16 bis unter 25 Jahre",
+                "25 bis unter 65 Jahre",
+                "65 bis unter 75 Jahre",
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Altersklasse"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -75,7 +75,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

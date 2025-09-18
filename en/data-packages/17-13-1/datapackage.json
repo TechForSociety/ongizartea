@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "billion eur",
-                "million hours",
+                "Percentage",
+                "Billion EUR",
+                "Million hours",
                 "2020 = 100",
                 "number in 1,000",
                 ""
@@ -35,23 +35,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "annual growth rate of real gdp",
-                "available income of private households",
-                "consumption by private households",
-                "debts of the total public budget",
-                "government fiscal balance",
-                "gross fixed capital formation",
-                "hours worked by employees",
-                "hours worked by persons employed",
-                "labour productivity per hour worked by employee",
-                "labour productivity per hour worked by persons employed",
-                "persons employed",
-                "real gdp per capita",
-                "trade balance",
+                "Annual growth rate of real GDP",
+                "Available income of private households",
+                "Consumption by private households",
+                "Debts of the total public budget",
+                "Government fiscal balance",
+                "Gross fixed capital formation",
+                "Hours worked by employees",
+                "Hours worked by persons employed",
+                "Labour productivity per hour worked by employee",
+                "Labour productivity per hour worked by persons employed",
+                "Persons employed",
+                "Real GDP per capita",
+                "Trade balance",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

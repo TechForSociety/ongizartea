@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Prozent",
                 "km²",
                 ""
               ]
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "lakes and rivers permanent water area",
-                "wetlands area",
-                "large artificial or heavily modified lakes",
+                "Permanente Wasserfläche der Seen und Flüsse",
+                "Feuchtgebiete",
+                "Künstliche oder erheblich veränderte große Seen",
                 ""
               ]
             },
-            "title": "ecosystem"
+            "title": "Ökosystem"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -75,18 +75,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "area change in comparison to 2015",
-                "area",
-                "area as a proportion of total land area",
+                "Veränderung der Fläche im Vergleich zu 2015",
+                "Fläche",
+                "Fläche im Verhältnis zur gesamten Landfläche",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

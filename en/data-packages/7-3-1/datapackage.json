@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "megajoule per eur",
+                "Megajoule per EUR",
                 "2020 = 100",
                 ""
               ]

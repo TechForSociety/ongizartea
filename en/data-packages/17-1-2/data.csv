@@ -1,31 +1,31 @@
-Year,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,national taxes,,,,45.1
-2011,national taxes,,,,49.5
-2012,national taxes,,,,50.9
-2013,national taxes,,,,51.5
-2014,national taxes,,,,52.0
-2015,national taxes,,,,52.5
-2016,national taxes,,,,52.9
-2017,national taxes,,,,53.4
-2018,national taxes,,,,53.9
-2019,national taxes,,,,52.9
-2020,national taxes,,,,45.4
-2021,national taxes,p,,,48.1
-2022,national taxes,p,,,49.6
-2023,national taxes,p,,,47.5
-2024,national taxes,p,,,46.5
-2010,national taxes and insurance contributions,,,,79.0
-2011,national taxes and insurance contributions,,,,85.0
-2012,national taxes and insurance contributions,,,,86.9
-2013,national taxes and insurance contributions,,,,87.4
-2014,national taxes and insurance contributions,,,,88.4
-2015,national taxes and insurance contributions,,,,89.0
-2016,national taxes and insurance contributions,,,,89.6
-2017,national taxes and insurance contributions,,,,90.4
-2018,national taxes and insurance contributions,,,,91.2
-2019,national taxes and insurance contributions,,,,90.1
-2020,national taxes and insurance contributions,,,,79.8
-2021,national taxes and insurance contributions,p,,,82.1
-2022,national taxes and insurance contributions,p,,,84.0
-2023,national taxes and insurance contributions,p,,,82.5
-2024,national taxes and insurance contributions,p,,,81.9
+Year,Time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,National taxes,,,,45.1
+2011,National taxes,,,,49.5
+2012,National taxes,,,,50.9
+2013,National taxes,,,,51.5
+2014,National taxes,,,,52.0
+2015,National taxes,,,,52.5
+2016,National taxes,,,,52.9
+2017,National taxes,,,,53.4
+2018,National taxes,,,,53.9
+2019,National taxes,,,,52.9
+2020,National taxes,,,,45.4
+2021,National taxes,p,,,48.1
+2022,National taxes,p,,,49.6
+2023,National taxes,p,,,47.5
+2024,National taxes,p,,,46.5
+2010,National taxes and insurance contributions,,,,79.0
+2011,National taxes and insurance contributions,,,,85.0
+2012,National taxes and insurance contributions,,,,86.9
+2013,National taxes and insurance contributions,,,,87.4
+2014,National taxes and insurance contributions,,,,88.4
+2015,National taxes and insurance contributions,,,,89.0
+2016,National taxes and insurance contributions,,,,89.6
+2017,National taxes and insurance contributions,,,,90.4
+2018,National taxes and insurance contributions,,,,91.2
+2019,National taxes and insurance contributions,,,,90.1
+2020,National taxes and insurance contributions,,,,79.8
+2021,National taxes and insurance contributions,p,,,82.1
+2022,National taxes and insurance contributions,p,,,84.0
+2023,National taxes and insurance contributions,p,,,82.5
+2024,National taxes and insurance contributions,p,,,81.9

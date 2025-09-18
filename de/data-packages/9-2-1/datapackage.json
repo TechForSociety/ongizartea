@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "eur",
+                "Prozent",
+                "EUR",
                 ""
               ]
             },
@@ -63,18 +63,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "manufacturing gross value added as a proportion of gdp",
-                "manufacturing gross value added as a proportion of total gross value added",
-                "manufacturing gross value added per capita",
+                "Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP",
+                "Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zur Bruttowertschöpfung insgesamt",
+                "Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

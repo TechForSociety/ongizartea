@@ -20,31 +20,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "people requiring interventions",
-                "inpatient treatment",
+                "Personen mit Behandlungsbedarf",
+                "Stationäre Behandlung",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Zeitreihe"
           },
           {
             "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "dengue",
-                "echinococcosis",
-                "leprosy",
-                "buruli ulcer",
-                "human african trypanosomiasis",
-                "leishmaniases",
-                "rabies",
-                "yaws",
-                "dracunculiasis",
+                "Dengue",
+                "Echinokokkose",
+                "Lepra",
+                "Buruli-Ulkus",
+                "Afrikanische Trypanosomiasis",
+                "Leishmaniose",
+                "Tollwut",
+                "Frambösie",
+                "Drakunkulose",
                 ""
               ]
             },
-            "title": "disease"
+            "title": "Erkrankung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -83,7 +83,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

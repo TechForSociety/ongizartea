@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) over 144 kbps to under 2 mbps",
-                "b) 2 mbps to under 10 mbps",
-                "c) 10 mbps to under 30 mbps",
-                "d) 30 mbps to under 100 mbps",
-                "e) 100 mbps and over",
+                "a) Über 144 kbit/s bis unter 2 Mbit/s",
+                "b) 2 Mbit/s bis unter 10 Mbit/s",
+                "c) 10 Mbit/s bis unter 30 Mbit/s",
+                "d) 30 Mbit/s bis unter 100 Mbit/s",
+                "e) 100 Mbit/s und mehr",
                 ""
               ]
             },
-            "title": "speed"
+            "title": "Geschwindigkeit"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -64,7 +64,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

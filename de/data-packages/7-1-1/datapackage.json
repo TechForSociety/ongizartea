@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number in 1,000",
+                "Prozent",
+                "Anzahl in 1 000",
                 ""
               ]
             },
@@ -62,17 +62,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population with access to electricity",
-                "households and small-sized enterprises connected to the electricity network",
+                "Bevölkerung mit Zugang zu Elektrizität",
+                "Haushalte und Kleinbetriebe mit Zugang zu Elektrizitätsnetzwerken",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

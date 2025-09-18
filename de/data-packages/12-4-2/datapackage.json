@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kilogram per capita",
-                "percentage",
+                "Kilogramm pro Kopf",
+                "Prozent",
                 ""
               ]
             },
@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "energy recovery",
-                "incineration",
-                "recovery other than energy recovery",
-                "deposit onto or into land and land treatment and release into water bodies",
+                "Energierückgewinnung",
+                "Verbrennung",
+                "Verwertung anderer als die der Energierückgewinnung",
+                "Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern",
                 ""
               ]
             },
-            "title": "type of waste treatment"
+            "title": "Art der Abfallbehandlung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -78,17 +78,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
+                "a) Aufkommen gefährlicher Abfälle",
+                "b) Behandelte gefährliche Abfälle",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

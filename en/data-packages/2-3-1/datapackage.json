@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture",
-                "forestry",
+                "Agriculture",
+                "Forestry",
                 ""
               ]
             },
-            "title": "economic activity"
+            "title": "Economic activity"
           },
           {
             "name": "COMMENT_OBS_0",

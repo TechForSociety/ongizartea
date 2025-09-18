@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million tonnes carbon",
-                "percentage",
+                "Million tonnes carbon",
+                "Percentage",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "standig wood",
-                "other woody biomass",
-                "other biomass in forests",
+                "Standig wood",
+                "Other woody biomass",
+                "Other biomass in forests",
                 ""
               ]
             },
-            "title": "type of biomass"
+            "title": "Type of biomass"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -79,14 +79,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "above-ground biomass stock in forest",
-                "forest area located within protected areas",
-                "forest area net change rate",
-                "forest area under an independently verified forest management certification scheme",
+                "Above-ground biomass stock in forest",
+                "Forest area located within protected areas",
+                "Forest area net change rate",
+                "Forest area under an independently verified forest management certification scheme",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

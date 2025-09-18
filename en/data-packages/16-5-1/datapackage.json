@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "number",
+                "Percentage",
+                "Number",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
-                "divers",
+                "Female",
+                "Male",
+                "Divers",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -77,12 +77,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
-                "private persons (donors) suspected in the context of corruption offences",
+                "Population who had the impression that public officials are corruptible during their interactions with public agencies in the previous two years",
+                "Private persons (donors) suspected in the context of corruption offences",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

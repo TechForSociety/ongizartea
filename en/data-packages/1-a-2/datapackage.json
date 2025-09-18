@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "health",
-                "education",
-                "social protection",
+                "Health",
+                "Education",
+                "Social protection",
                 ""
               ]
             },
-            "title": "function"
+            "title": "Function"
           },
           {
             "name": "COMMENT_OBS_0",

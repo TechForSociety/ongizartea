@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "no unit",
+                "Keine Einheit",
                 "2015 = 100",
-                "percentage",
+                "Prozent",
                 ""
               ]
             },
@@ -33,26 +33,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio of land consumption rate to population growth rate",
-                "proportion of settlement and transport areas to population",
-                "land consumption rate",
-                "population growth rate",
+                "Verhältnis der Flächennutzungsrate zur Bevölkerungsentwicklung",
+                "Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung",
+                "Flächennutzungssrate",
+                "Bevölkerungsentwicklung",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "presentation",
             "type": "string",
             "constraints": {
               "enum": [
-                "annual values",
-                "moving four-year average",
+                "Jährliche Werte",
+                "Gleitender Vierjahresdurchschnitt",
                 ""
               ]
             },
-            "title": "presentation"
+            "title": "Darstellung"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -93,7 +93,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

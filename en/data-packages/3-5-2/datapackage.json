@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "by un factors",
-                "by national factors",
+                "By UN factors",
+                "By national factors",
                 ""
               ]
             },
-            "title": "conversion"
+            "title": "Conversion"
           },
           {
             "name": "COMMENT_OBS_0",

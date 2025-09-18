@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national taxes",
-                "national taxes and insurance contributions",
+                "National taxes",
+                "National taxes and insurance contributions",
                 ""
               ]
             },
-            "title": "time series"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "euro per m³",
+                "Prozent",
+                "Euro pro m³",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "agriculture, forestry and fishing",
-                "mimec",
-                "services",
+                "Land- und Forstwirtschaft, Fischerei",
+                "MIMEC",
+                "Dienstleistungen",
                 ""
               ]
             },
-            "title": "economic activity"
+            "title": "Wirtschaftszweig"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -77,17 +77,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "change in water-use efficiency",
-                "water-use efficiency",
+                "Veränderung der Wassernutzungseffizienz",
+                "Wassernutzungseffizienz",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

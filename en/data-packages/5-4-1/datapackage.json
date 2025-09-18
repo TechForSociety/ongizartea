@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "houres per day",
+                "Percentage",
+                "Houres per day",
                 ""
               ]
             },
@@ -32,25 +32,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "domestic and care work",
-                "domestic work",
-                "care work",
+                "Domestic and care work",
+                "Domestic work",
+                "Care work",
                 ""
               ]
             },
-            "title": "type of unpaid work"
+            "title": "Type of unpaid work"
           },
           {
             "name": "degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural areas",
+                "Urban",
+                "Rural areas",
                 ""
               ]
             },
-            "title": "degree of urbanisation"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "age group",
@@ -66,19 +66,19 @@
                 ""
               ]
             },
-            "title": "age group"
+            "title": "Age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) national education policies",
-                "(b) curricula",
-                "(c) teacher education",
-                "(d) student assessment",
+                "a) Nationale Bildungspolitik",
+                "b) Lehrpläne",
+                "c) Ausbildung von Lehrkräften",
+                "d) Leistungsbewertung der Lernenden",
                 ""
               ]
             },
-            "title": "area2"
+            "title": "Bereich"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

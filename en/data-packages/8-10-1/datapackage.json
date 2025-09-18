@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) branches of payment service providers",
-                "b) atms of national payment service providers",
+                "a) Branches of payment service providers",
+                "b) ATMs of national payment service providers",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "COMMENT_OBS_0",

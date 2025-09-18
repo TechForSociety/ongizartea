@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Percentage",
                 "1,000 tonnes",
                 ""
               ]
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "municipal waste",
-                "total waste",
+                "Municipal waste",
+                "Total waste",
                 ""
               ]
             },
-            "title": "type of waste"
+            "title": "Type of waste"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -74,12 +74,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "national recycling rate",
-                "material recovery",
+                "National recycling rate",
+                "Material recovery",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

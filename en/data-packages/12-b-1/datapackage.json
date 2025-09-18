@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "seea tables",
-                "tsa tables",
+                "SEEA tables",
+                "TSA tables",
                 ""
               ]
             },
-            "title": "standard accounting system"
+            "title": "Standard accounting system"
           },
           {
             "name": "COMMENT_OBS_0",

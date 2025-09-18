@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "schools with access to electricity",
-                "schools with access to basic drinking water",
-                "schools with access to single-sex basic sanitation facilities",
-                "schools with access to basic handwashing facilities",
+                "Schools with access to electricity",
+                "Schools with access to basic drinking water",
+                "Schools with access to single-sex basic sanitation facilities",
+                "Schools with access to basic handwashing facilities",
                 ""
               ]
             },
-            "title": "type of service"
+            "title": "Type of service"
           },
           {
             "name": "COMMENT_OBS_0",

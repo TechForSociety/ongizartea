@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "kilogram per capita",
-                "percentage",
+                "Kilogram per capita",
+                "Percentage",
                 ""
               ]
             },
@@ -32,14 +32,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "energy recovery",
-                "incineration",
-                "recovery other than energy recovery",
-                "deposit onto or into land and land treatment and release into water bodies",
+                "Energy recovery",
+                "Incineration",
+                "Recovery other than energy recovery",
+                "Deposit onto or into land and land treatment and release into water bodies",
                 ""
               ]
             },
-            "title": "type of waste treatment"
+            "title": "Type of waste treatment"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -78,12 +78,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
+                "a) Hazardous waste generated per capita",
+                "b) Hazardous waste treated",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

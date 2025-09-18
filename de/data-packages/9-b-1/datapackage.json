@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "legal entities",
-                "eu enterprise definition",
+                "Rechtliche Einheiten",
+                "EU-Unternehmensdefinition",
                 ""
               ]
             },
-            "title": "enterprise definition"
+            "title": "Unternehmensdefinition"
           },
           {
             "name": "technology sectors",
             "type": "string",
             "constraints": {
               "enum": [
-                "medium-high-tech",
-                "high-tech",
+                "Medium-High-Tech",
+                "High-Tech",
                 ""
               ]
             },
-            "title": "technology sectors"
+            "title": "Technologiesektoren"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -75,7 +75,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

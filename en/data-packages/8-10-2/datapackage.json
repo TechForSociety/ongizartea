@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "online accounts",
-                "current accounts",
+                "Online accounts",
+                "Current accounts",
                 ""
               ]
             },
-            "title": "type of account"
+            "title": "Type of account"
           },
           {
             "name": "COMMENT_OBS_0",

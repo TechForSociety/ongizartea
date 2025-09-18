@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
-                "hectare",
+                "Prozent",
+                "Hektar",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "terrestrial and freshwater key biodiversity areas (kbas) covered by protected areas",
-                "terrestrial and freshwater areas covered by protected areas",
-                "terrestrial and freshwater areas covered by effective protected areas",
+                "Schlüsselgebiete der biologischen Vielfalt der Land- und Süßwasserökosysteme, die unter Schutz stehen",
+                "Fläche der Land- und Süßwasserökosysteme, die unter Schutz steht",
+                "Fläche der Land- und Süßwasserökosysteme, die unter effektivem Schutz steht",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -73,7 +73,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

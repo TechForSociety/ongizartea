@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million passenger-kilometre",
-                "million tonne-kilometres",
+                "Millionen Personenkilometer",
+                "Millionen Tonnenkilometer",
                 ""
               ]
             },
@@ -32,16 +32,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "road transport",
-                "rail transport",
-                "air transport",
-                "motorised private transport",
-                "inland waterway transport",
-                "pipelines: crude oil",
+                "Straßenverkehr",
+                "Eisenbahnverkehr",
+                "Luftverkehr",
+                "Motorisierter Individualverkehr",
+                "Binnenschifffahrt",
+                "Rohrfernleitungen: Rohöl",
                 ""
               ]
             },
-            "title": "mode of transport"
+            "title": "Verkehrsträger"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -81,17 +81,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "passenger transport",
-                "freight transport",
+                "Personenverkehr",
+                "Güterverkehr",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

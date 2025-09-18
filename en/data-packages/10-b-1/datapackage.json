@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "million eur",
-                "million usd, constant prices (2023)",
+                "Million EUR",
+                "Million USD, constant prices (2023)",
                 ""
               ]
             },
@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "oda (net disbursements)",
-                "oof (net disbursements)",
-                "officially supported export credits (net disbursements)",
-                "private sector flows at market terms (net disbursement)",
-                "private concessional flows (net disbursements)",
+                "ODA (net disbursements)",
+                "OOF (net disbursements)",
+                "Officially supported export credits (net disbursements)",
+                "Private sector flows at market terms (net disbursement)",
+                "Private concessional flows (net disbursements)",
                 ""
               ]
             },
-            "title": "type of flow"
+            "title": "Type of flow"
           },
           {
             "name": "COMMENT_OBS_0",

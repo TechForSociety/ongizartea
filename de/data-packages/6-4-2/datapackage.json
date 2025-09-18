@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "share of withdrawal in renewable water resources",
-                "share of withdrawal in renewable water resources (excluding cooling water)",
+                "Anteil der Entnahme an den erneuerbaren Wasserressourcen",
+                "Anteil der Entnahme an den erneuerbaren Wasserressourcen (ohne Kühlwasser)",
                 ""
               ]
             },
-            "title": "water use index"
+            "title": "Wassernutzungsindex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

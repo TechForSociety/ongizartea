@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "percentage",
+                "Percentage",
                 "1,000 tonnes",
                 ""
               ]
@@ -63,12 +63,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "municipal solid waste regularly collected and treated",
-                "municipal solid waste in total",
+                "Municipal solid waste regularly collected and treated",
+                "Municipal solid waste in total",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

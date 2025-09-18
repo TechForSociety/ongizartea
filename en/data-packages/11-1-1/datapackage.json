@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "cities",
-                "towns and suburbs",
-                "rural areas",
+                "Cities",
+                "Towns and suburbs",
+                "Rural areas",
                 ""
               ]
             },
-            "title": "degree of urbanisation"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -79,16 +79,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "overcrowding rate",
-                "housing cost overburden rate",
-                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
-                "population having neither a bath, nor a shower in their dwelling",
-                "population not having indoor flushing toilet for the sole use of their household",
-                "population considering their dwelling as too dark",
+                "Overcrowding rate",
+                "Housing cost overburden rate",
+                "Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "Population having neither a bath, nor a shower in their dwelling",
+                "Population not having indoor flushing toilet for the sole use of their household",
+                "Population considering their dwelling as too dark",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Time series"
           },
           {
             "name": "Value",

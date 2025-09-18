@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "persons at risk of poverty or social exclusion",
-                "at-risk-of-poverty rate",
-                "persons living in households with very low work intensity",
-                "severely materially and socially deprived persons",
+                "Von Armut oder sozialer Ausgrenzung bedrohte Personen",
+                "Armutsgefährdungsquote",
+                "In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen",
+                "Unter erheblicher materieller und sozialer Deprivation leidende Personen",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Zeitreihe"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Weiblich",
+                "Männlich",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Geschlecht"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -77,7 +77,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }

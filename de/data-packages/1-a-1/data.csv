@@ -1,57 +1,57 @@
-Year,Units,time series,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
-2010,million eur,commitments (oda),,,,841.3
-2011,million eur,commitments (oda),,,,1037.4
-2012,million eur,commitments (oda),,,,1532.1
-2013,million eur,commitments (oda),,,,1318.0
-2014,million eur,commitments (oda),,,,1293.6
-2015,million eur,commitments (oda),,,,1514.9
-2016,million eur,commitments (oda),,,,1676.8
-2017,million eur,commitments (oda),,,,2097.2
-2018,million eur,commitments (oda),,,,2348.3
-2019,million eur,commitments (oda),,,,2500.7
-2020,million eur,commitments (oda),,,,3455.1
-2021,million eur,commitments (oda),,,,4384.1
-2022,million eur,commitments (oda),,,,4442.6
-2023,million eur,commitments (oda),,,,2077.0
-2010,million eur,gross disbursements (oda),,,,778.1
-2011,million eur,gross disbursements (oda),,,,800.4
-2012,million eur,gross disbursements (oda),,,,815.8
-2013,million eur,gross disbursements (oda),,,,828.7
-2014,million eur,gross disbursements (oda),,,,1094.8
-2015,million eur,gross disbursements (oda),,,,1299.0
-2016,million eur,gross disbursements (oda),,,,1657.0
-2017,million eur,gross disbursements (oda),,,,1632.4
-2018,million eur,gross disbursements (oda),,,,1681.2
-2019,million eur,gross disbursements (oda),,,,1864.7
-2020,million eur,gross disbursements (oda),,,,3189.8
-2021,million eur,gross disbursements (oda),,,,3363.4
-2022,million eur,gross disbursements (oda),,,,4472.9
-2023,million eur,gross disbursements (oda),,,,2506.2
-2010,"million usd, constant prices (2023)",commitments (oda),,,,1241.8
-2011,"million usd, constant prices (2023)",commitments (oda),,,,1512.6
-2012,"million usd, constant prices (2023)",commitments (oda),,,,2202.2
-2013,"million usd, constant prices (2023)",commitments (oda),,,,1857.5
-2014,"million usd, constant prices (2023)",commitments (oda),,,,1789.1
-2015,"million usd, constant prices (2023)",commitments (oda),,,,2060.5
-2016,"million usd, constant prices (2023)",commitments (oda),,,,2252.3
-2017,"million usd, constant prices (2023)",commitments (oda),,,,2776.1
-2018,"million usd, constant prices (2023)",commitments (oda),,,,3051.5
-2019,"million usd, constant prices (2023)",commitments (oda),,,,3185.5
-2020,"million usd, constant prices (2023)",commitments (oda),,,,4325.2
-2021,"million usd, constant prices (2023)",commitments (oda),,,,5338.7
-2022,"million usd, constant prices (2023)",commitments (oda),,,,5098.9
-2023,"million usd, constant prices (2023)",commitments (oda),,,,2245.8
-2010,"million usd, constant prices (2023)",gross disbursements (oda),,,,1148.4
-2011,"million usd, constant prices (2023)",gross disbursements (oda),,,,1167.0
-2012,"million usd, constant prices (2023)",gross disbursements (oda),,,,1172.6
-2013,"million usd, constant prices (2023)",gross disbursements (oda),,,,1167.8
-2014,"million usd, constant prices (2023)",gross disbursements (oda),,,,1514.1
-2015,"million usd, constant prices (2023)",gross disbursements (oda),,,,1766.8
-2016,"million usd, constant prices (2023)",gross disbursements (oda),,,,2225.7
-2017,"million usd, constant prices (2023)",gross disbursements (oda),,,,2160.7
-2018,"million usd, constant prices (2023)",gross disbursements (oda),,,,2184.6
-2019,"million usd, constant prices (2023)",gross disbursements (oda),,,,2375.3
-2020,"million usd, constant prices (2023)",gross disbursements (oda),,,,3993.1
-2021,"million usd, constant prices (2023)",gross disbursements (oda),,,,4095.8
-2022,"million usd, constant prices (2023)",gross disbursements (oda),,,,5133.7
-2023,"million usd, constant prices (2023)",gross disbursements (oda),,,,2710.0
+Year,Units,Zeitreihe,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+2010,Millionen EUR,Zusagen (ODA),,,,841.3
+2011,Millionen EUR,Zusagen (ODA),,,,1037.4
+2012,Millionen EUR,Zusagen (ODA),,,,1532.1
+2013,Millionen EUR,Zusagen (ODA),,,,1318.0
+2014,Millionen EUR,Zusagen (ODA),,,,1293.6
+2015,Millionen EUR,Zusagen (ODA),,,,1514.9
+2016,Millionen EUR,Zusagen (ODA),,,,1676.8
+2017,Millionen EUR,Zusagen (ODA),,,,2097.2
+2018,Millionen EUR,Zusagen (ODA),,,,2348.3
+2019,Millionen EUR,Zusagen (ODA),,,,2500.7
+2020,Millionen EUR,Zusagen (ODA),,,,3455.1
+2021,Millionen EUR,Zusagen (ODA),,,,4384.1
+2022,Millionen EUR,Zusagen (ODA),,,,4442.6
+2023,Millionen EUR,Zusagen (ODA),,,,2077.0
+2010,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,778.1
+2011,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,800.4
+2012,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,815.8
+2013,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,828.7
+2014,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,1094.8
+2015,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,1299.0
+2016,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,1657.0
+2017,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,1632.4
+2018,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,1681.2
+2019,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,1864.7
+2020,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,3189.8
+2021,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,3363.4
+2022,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,4472.9
+2023,Millionen EUR,Bruttoentwicklungsausgaben (ODA),,,,2506.2
+2010,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,1241.8
+2011,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,1512.6
+2012,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,2202.2
+2013,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,1857.5
+2014,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,1789.1
+2015,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,2060.5
+2016,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,2252.3
+2017,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,2776.1
+2018,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,3051.5
+2019,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,3185.5
+2020,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,4325.2
+2021,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,5338.7
+2022,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,5098.9
+2023,"Millionen USD, konstante Preise (2023)",Zusagen (ODA),,,,2245.8
+2010,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,1148.4
+2011,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,1167.0
+2012,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,1172.6
+2013,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,1167.8
+2014,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,1514.1
+2015,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,1766.8
+2016,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,2225.7
+2017,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,2160.7
+2018,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,2184.6
+2019,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,2375.3
+2020,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,3993.1
+2021,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,4095.8
+2022,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,5133.7
+2023,"Millionen USD, konstante Preise (2023)",Bruttoentwicklungsausgaben (ODA),,,,2710.0

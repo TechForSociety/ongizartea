@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "no unit",
+                "No unit",
                 "2015 = 100",
-                "percentage",
+                "Percentage",
                 ""
               ]
             },
@@ -33,26 +33,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ratio of land consumption rate to population growth rate",
-                "proportion of settlement and transport areas to population",
-                "land consumption rate",
-                "population growth rate",
+                "Ratio of land consumption rate to population growth rate",
+                "Proportion of settlement and transport areas to population",
+                "Land consumption rate",
+                "Population growth rate",
                 ""
               ]
             },
-            "title": "timeseries"
+            "title": "Time series"
           },
           {
             "name": "presentation",
             "type": "string",
             "constraints": {
               "enum": [
-                "annual values",
-                "moving four-year average",
+                "Annual values",
+                "Moving four-year average",
                 ""
               ]
             },
-            "title": "presentation"
+            "title": "Presentation"
           },
           {
             "name": "COMMENT_OBS_0",

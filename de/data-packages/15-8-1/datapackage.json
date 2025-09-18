@@ -50,17 +50,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) national legislation and policy relevant to ias",
-                "b) align the nbsap targets with aichi target 9 of the strategic plan for biodiversity",
+                "a) Nationale Strategien zur Bekämpfung oder Kontrolle IAS",
+                "b) Angleichung der Ziele des NBSAP an das Aichi-Ziel 9 des NSB",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Zeitreihe"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }
