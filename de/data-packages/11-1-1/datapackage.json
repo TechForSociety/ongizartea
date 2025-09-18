@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Städte",
-                "Kleinere Städte und Vororte",
-                "Ländliche Gebiete",
+                "cities",
+                "towns and suburbs",
+                "rural areas",
                 ""
               ]
             },
-            "title": "Verstädterungsgrad"
+            "title": "degree of urbanisation"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -79,21 +79,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Überbelegungsquote",
-                "Quote der Überbelastung durch Wohnkosten",
-                "Bevölkerung, die in einer Wohnung mit undichtem Dach, Feuchtigkeit in den Wänden, in den Böden, im Fundament oder Fäulnis in den Fensterrahmen oder im Boden lebt",
-                "Bevölkerung, die weder ein Bad, noch eine Dusche in ihrer Wohnung hat",
-                "Bevölkerung, die kein WC für den alleinigen Gebrauch ihres Haushalts hat",
-                "Bevölkerung, die ihre Unterkunft als zu dunkel betrachtet",
+                "overcrowding rate",
+                "housing cost overburden rate",
+                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "population having neither a bath, nor a shower in their dwelling",
+                "population not having indoor flushing toilet for the sole use of their household",
+                "population considering their dwelling as too dark",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

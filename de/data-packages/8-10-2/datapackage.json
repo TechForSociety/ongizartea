@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Online-Konten",
-                "Girokonten",
+                "online accounts",
+                "current accounts",
                 ""
               ]
             },
-            "title": "Kontenart"
+            "title": "type of account"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -63,7 +63,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

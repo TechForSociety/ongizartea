@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamtbevölkerung",
-                "Ärmsten 40 Prozent der Bevölkerung",
+                "population total",
+                "poorest 40 percent of the population",
                 ""
               ]
             },
-            "title": "Bevölkerung"
+            "title": "population"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

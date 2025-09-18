@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tabakkonsum",
-                "Tabakkonsum (altersstandardisiert auf die WHO-Standardbevölkerung)",
+                "current tobacco use",
+                "current tobacco use (age-standardised to who standard population)",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -72,7 +72,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

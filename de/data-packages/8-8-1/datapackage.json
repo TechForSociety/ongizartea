@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tödliche Arbeitsunfälle",
-                "Nicht-tödliche Arbeitsunfälle",
+                "fatal occupational accidents",
+                "non-fatal occupational accidents",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -73,7 +73,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

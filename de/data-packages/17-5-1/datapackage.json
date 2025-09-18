@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
-                "EUR",
+                "number",
+                "eur",
                 ""
               ]
             },
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

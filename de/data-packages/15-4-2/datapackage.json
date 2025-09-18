@@ -50,17 +50,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Index der Grünbedeckung in Gebirgen",
-                "b) Anteil der degradierten Gebirgsfläche",
+                "(a) mountain green cover index",
+                "(b) proportion of degraded mountain area",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

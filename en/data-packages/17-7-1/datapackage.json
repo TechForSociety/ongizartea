@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "General government",
-                "Corporations",
+                "general government",
+                "corporations",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "sector"
           },
           {
             "name": "COMMENT_OBS_0",

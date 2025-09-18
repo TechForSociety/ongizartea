@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Victims of non-sexual harassment",
-                "Victims of sexual harassment",
+                "victims of non-sexual harassment",
+                "victims of sexual harassment",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "age group",
@@ -40,19 +40,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",

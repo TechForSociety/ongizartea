@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Landwirtschaft",
-                "Forstwirtschaft",
+                "agriculture",
+                "forestry",
                 ""
               ]
             },
-            "title": "Wirtschaftszweig"
+            "title": "economic activity"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

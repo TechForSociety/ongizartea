@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "million eur",
+                "million usd, constant prices (2023)",
                 ""
               ]
             },
@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Öffentliche Nettoentwicklungsausgaben (ODA)",
-                "Sonstige öffentliche Nettoausgaben (OOF)",
-                "Öffentlich unterstützte Exportkredite (Nettoausgaben)",
-                "Private Leistungen zu marktüblichen Bedingungen (Nettoausgaben)",
-                "Leistungen von Nichtregierungsorganisationen aus Eigenmitteln (Nettoausgaben)",
+                "oda (net disbursements)",
+                "oof (net disbursements)",
+                "officially supported export credits (net disbursements)",
+                "private sector flows at market terms (net disbursement)",
+                "private concessional flows (net disbursements)",
                 ""
               ]
             },
-            "title": "Art des Finanzstroms"
+            "title": "type of flow"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -76,7 +76,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

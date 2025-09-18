@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "percentage",
                 "1 000 m³",
                 ""
               ]
@@ -32,24 +32,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamtes produziertes Abwasser aus öffentlicher und nichtöffentlicher Entsorgung",
-                "Kühlwasser",
+                "total wastewater produced from public and non-public disposal",
+                "cooling water",
                 ""
               ]
             },
-            "title": "Art des Abwassers"
+            "title": "type of waste water"
           },
           {
             "name": "treatment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Unbehandeltes Abwasser",
-                "Behandeltes Abwasser",
+                "untreated wastewater",
+                "treated wastewater",
                 ""
               ]
             },
-            "title": "Behandlung"
+            "title": "treatment"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -88,17 +88,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Abwasser, das sicher behandelt wird oder nicht behandlungsbedürftig ist",
-                "Abwasser und Kühlwasser",
+                "wastewater that is safely treated or does not require treatment",
+                "wastewater and cooling water",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

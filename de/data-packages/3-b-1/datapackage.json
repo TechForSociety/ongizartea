@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "DTP-Impfquote zum Schuleintritt",
-                "Masern-Impfquote zum Schuleintritt",
-                "Pneumokokken-Impfquote zum Schuleintritt",
-                "HPV-Impfquoten bei 15-jährigen Mädchen und Jungen",
+                "dtp vaccination coverage at school entry",
+                "measles vaccination coverage at school entry",
+                "pneumococcal vaccination coverage at school entry",
+                "hpv vaccination coverages among 15 years old girls and boys",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -77,7 +77,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Größer 10 %",
-                "Größer 25 %",
+                "greater 10 %",
+                "greater 25 %",
                 ""
               ]
             },
-            "title": "Anteil der Haushaltsausgaben für Gesundheit"
+            "title": "proportion of household expenditures on health"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

@@ -20,31 +20,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "People requiring interventions",
-                "Inpatient treatment",
+                "people requiring interventions",
+                "inpatient treatment",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "Dengue",
-                "Echinococcosis",
-                "Leprosy",
-                "Buruli ulcer",
-                "Human African Trypanosomiasis",
-                "Leishmaniases",
-                "Rabies",
-                "Yaws",
-                "Dracunculiasis",
+                "dengue",
+                "echinococcosis",
+                "leprosy",
+                "buruli ulcer",
+                "human african trypanosomiasis",
+                "leishmaniases",
+                "rabies",
+                "yaws",
+                "dracunculiasis",
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "disease"
           },
           {
             "name": "COMMENT_OBS_0",

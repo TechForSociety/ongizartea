@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Child deliveries in hospitals",
-                "Live births in total",
+                "child deliveries in hospitals",
+                "live births in total",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",

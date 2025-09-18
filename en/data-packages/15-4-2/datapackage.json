@@ -50,12 +50,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "(a) Mountain Green Cover Index",
-                "(b) Proportion of degraded mountain area",
+                "(a) mountain green cover index",
+                "(b) proportion of degraded mountain area",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

@@ -1,4 +1,4 @@
-Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,age group,sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,13 years and younger,,,,,11.0
 2011,13 years and younger,,,,,29.0
 2012,13 years and younger,,,,,19.0
@@ -14,36 +14,36 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,13 years and younger,,,,,20.0
 2023,13 years and younger,,,,,13.0
 2024,13 years and younger,,,,,17.0
-2010,13 years and younger,Female,,,,2.0
-2011,13 years and younger,Female,,,,13.0
-2012,13 years and younger,Female,,,,11.0
-2013,13 years and younger,Female,,,,6.0
-2014,13 years and younger,Female,,,,9.0
-2015,13 years and younger,Female,,,,7.0
-2016,13 years and younger,Female,,,,15.0
-2017,13 years and younger,Female,,,,16.0
-2018,13 years and younger,Female,,,,9.0
-2019,13 years and younger,Female,,,,9.0
-2020,13 years and younger,Female,,,,10.0
-2021,13 years and younger,Female,,,,17.0
-2022,13 years and younger,Female,,,,13.0
-2023,13 years and younger,Female,,,,8.0
-2024,13 years and younger,Female,,,,11.0
-2010,13 years and younger,Male,,,,9.0
-2011,13 years and younger,Male,,,,16.0
-2012,13 years and younger,Male,,,,8.0
-2013,13 years and younger,Male,,,,12.0
-2014,13 years and younger,Male,,,,13.0
-2015,13 years and younger,Male,,,,12.0
-2016,13 years and younger,Male,,,,21.0
-2017,13 years and younger,Male,,,,51.0
-2018,13 years and younger,Male,,,,9.0
-2019,13 years and younger,Male,,,,6.0
-2020,13 years and younger,Male,,,,21.0
-2021,13 years and younger,Male,,,,19.0
-2022,13 years and younger,Male,,,,7.0
-2023,13 years and younger,Male,,,,5.0
-2024,13 years and younger,Male,…,,,
+2010,13 years and younger,female,,,,2.0
+2011,13 years and younger,female,,,,13.0
+2012,13 years and younger,female,,,,11.0
+2013,13 years and younger,female,,,,6.0
+2014,13 years and younger,female,,,,9.0
+2015,13 years and younger,female,,,,7.0
+2016,13 years and younger,female,,,,15.0
+2017,13 years and younger,female,,,,16.0
+2018,13 years and younger,female,,,,9.0
+2019,13 years and younger,female,,,,9.0
+2020,13 years and younger,female,,,,10.0
+2021,13 years and younger,female,,,,17.0
+2022,13 years and younger,female,,,,13.0
+2023,13 years and younger,female,,,,8.0
+2024,13 years and younger,female,,,,11.0
+2010,13 years and younger,male,,,,9.0
+2011,13 years and younger,male,,,,16.0
+2012,13 years and younger,male,,,,8.0
+2013,13 years and younger,male,,,,12.0
+2014,13 years and younger,male,,,,13.0
+2015,13 years and younger,male,,,,12.0
+2016,13 years and younger,male,,,,21.0
+2017,13 years and younger,male,,,,51.0
+2018,13 years and younger,male,,,,9.0
+2019,13 years and younger,male,,,,6.0
+2020,13 years and younger,male,,,,21.0
+2021,13 years and younger,male,,,,19.0
+2022,13 years and younger,male,,,,7.0
+2023,13 years and younger,male,,,,5.0
+2024,13 years and younger,male,…,,,
 2010,14 to under 18 years,,,,,108.0
 2011,14 to under 18 years,,,,,95.0
 2012,14 to under 18 years,,,,,96.0
@@ -59,36 +59,36 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,14 to under 18 years,,,,,86.0
 2023,14 to under 18 years,,,,,67.0
 2024,14 to under 18 years,,,,,70.0
-2010,14 to under 18 years,Female,,,,97.0
-2011,14 to under 18 years,Female,,,,82.0
-2012,14 to under 18 years,Female,,,,88.0
-2013,14 to under 18 years,Female,,,,79.0
-2014,14 to under 18 years,Female,,,,66.0
-2015,14 to under 18 years,Female,,,,80.0
-2016,14 to under 18 years,Female,,,,100.0
-2017,14 to under 18 years,Female,,,,49.0
-2018,14 to under 18 years,Female,,,,96.0
-2019,14 to under 18 years,Female,,,,74.0
-2020,14 to under 18 years,Female,,,,62.0
-2021,14 to under 18 years,Female,,,,64.0
-2022,14 to under 18 years,Female,,,,72.0
-2023,14 to under 18 years,Female,,,,61.0
-2024,14 to under 18 years,Female,,,,55.0
-2010,14 to under 18 years,Male,,,,11.0
-2011,14 to under 18 years,Male,,,,13.0
-2012,14 to under 18 years,Male,,,,8.0
-2013,14 to under 18 years,Male,,,,13.0
-2014,14 to under 18 years,Male,,,,10.0
-2015,14 to under 18 years,Male,,,,7.0
-2016,14 to under 18 years,Male,,,,11.0
-2017,14 to under 18 years,Male,,,,4.0
-2018,14 to under 18 years,Male,,,,16.0
-2019,14 to under 18 years,Male,,,,15.0
-2020,14 to under 18 years,Male,,,,24.0
-2021,14 to under 18 years,Male,,,,18.0
-2022,14 to under 18 years,Male,,,,14.0
-2023,14 to under 18 years,Male,,,,6.0
-2024,14 to under 18 years,Male,,,,15.0
+2010,14 to under 18 years,female,,,,97.0
+2011,14 to under 18 years,female,,,,82.0
+2012,14 to under 18 years,female,,,,88.0
+2013,14 to under 18 years,female,,,,79.0
+2014,14 to under 18 years,female,,,,66.0
+2015,14 to under 18 years,female,,,,80.0
+2016,14 to under 18 years,female,,,,100.0
+2017,14 to under 18 years,female,,,,49.0
+2018,14 to under 18 years,female,,,,96.0
+2019,14 to under 18 years,female,,,,74.0
+2020,14 to under 18 years,female,,,,62.0
+2021,14 to under 18 years,female,,,,64.0
+2022,14 to under 18 years,female,,,,72.0
+2023,14 to under 18 years,female,,,,61.0
+2024,14 to under 18 years,female,,,,55.0
+2010,14 to under 18 years,male,,,,11.0
+2011,14 to under 18 years,male,,,,13.0
+2012,14 to under 18 years,male,,,,8.0
+2013,14 to under 18 years,male,,,,13.0
+2014,14 to under 18 years,male,,,,10.0
+2015,14 to under 18 years,male,,,,7.0
+2016,14 to under 18 years,male,,,,11.0
+2017,14 to under 18 years,male,,,,4.0
+2018,14 to under 18 years,male,,,,16.0
+2019,14 to under 18 years,male,,,,15.0
+2020,14 to under 18 years,male,,,,24.0
+2021,14 to under 18 years,male,,,,18.0
+2022,14 to under 18 years,male,,,,14.0
+2023,14 to under 18 years,male,,,,6.0
+2024,14 to under 18 years,male,,,,15.0
 2010,,,,,,119.0
 2011,,,,,,124.0
 2012,,,,,,115.0
@@ -104,33 +104,33 @@ Year,Age group,Sex,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,,,,,106.0
 2023,,,,,,80.0
 2024,,,,,,87.0
-2010,,Female,,,,99.0
-2011,,Female,,,,95.0
-2012,,Female,,,,99.0
-2013,,Female,,,,85.0
-2014,,Female,,,,75.0
-2015,,Female,,,,87.0
-2016,,Female,,,,115.0
-2017,,Female,,,,65.0
-2018,,Female,,,,105.0
-2019,,Female,,,,83.0
-2020,,Female,,,,72.0
-2021,,Female,,,,81.0
-2022,,Female,,,,85.0
-2023,,Female,,,,69.0
-2024,,Female,,,,66.0
-2010,,Male,,,,20.0
-2011,,Male,,,,29.0
-2012,,Male,,,,16.0
-2013,,Male,,,,25.0
-2014,,Male,,,,23.0
-2015,,Male,,,,19.0
-2016,,Male,,,,32.0
-2017,,Male,,,,55.0
-2018,,Male,,,,25.0
-2019,,Male,,,,21.0
-2020,,Male,,,,45.0
-2021,,Male,,,,37.0
-2022,,Male,,,,21.0
-2023,,Male,,,,11.0
-2024,,Male,,,,21.0
+2010,,female,,,,99.0
+2011,,female,,,,95.0
+2012,,female,,,,99.0
+2013,,female,,,,85.0
+2014,,female,,,,75.0
+2015,,female,,,,87.0
+2016,,female,,,,115.0
+2017,,female,,,,65.0
+2018,,female,,,,105.0
+2019,,female,,,,83.0
+2020,,female,,,,72.0
+2021,,female,,,,81.0
+2022,,female,,,,85.0
+2023,,female,,,,69.0
+2024,,female,,,,66.0
+2010,,male,,,,20.0
+2011,,male,,,,29.0
+2012,,male,,,,16.0
+2013,,male,,,,25.0
+2014,,male,,,,23.0
+2015,,male,,,,19.0
+2016,,male,,,,32.0
+2017,,male,,,,55.0
+2018,,male,,,,25.0
+2019,,male,,,,21.0
+2020,,male,,,,45.0
+2021,,male,,,,37.0
+2022,,male,,,,21.0
+2023,,male,,,,11.0
+2024,,male,,,,21.0

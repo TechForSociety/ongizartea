@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
-                "Prozent des BIP",
+                "million eur",
+                "percent of gdp",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "Steuervergünstigungen",
-                "Direkte finanzielle Beihilfen",
+                "total",
+                "tax breaks",
+                "direct transfers of funds",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -76,7 +76,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

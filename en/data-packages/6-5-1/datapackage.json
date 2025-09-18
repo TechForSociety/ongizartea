@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Finale Score",
-                "Enabling environment",
-                "Institutions and participation",
-                "Management Instruments",
-                "Financing",
+                "finale score",
+                "enabling environment",
+                "institutions and participation",
+                "management instruments",
+                "financing",
                 ""
               ]
             },
-            "title": "Section"
+            "title": "section"
           },
           {
             "name": "COMMENT_OBS_0",

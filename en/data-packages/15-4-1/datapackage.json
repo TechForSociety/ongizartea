@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Hectare",
+                "percentage",
+                "hectare",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mountain Key Biodiversity Areas (KBAs) covered by protected areas",
-                "Mountain regions, covered by protected areas",
-                "Mountain regions, covered by effective protected areas",
+                "mountain key biodiversity areas (kbas) covered by protected areas",
+                "mountain regions, covered by protected areas",
+                "mountain regions, covered by effective protected areas",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",

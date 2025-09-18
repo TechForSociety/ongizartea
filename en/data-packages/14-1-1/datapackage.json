@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of pieces of platic waste per 100 meters of beach length",
-                "Percentage",
+                "number of pieces of platic waste per 100 meters of beach length",
+                "percentage",
                 ""
               ]
             },
@@ -63,12 +63,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Plastic waste on the beaches of the German North Sea coast",
-                "Plastic particles in fulmar stomachs",
+                "plastic waste on the beaches of the german north sea coast",
+                "plastic particles in fulmar stomachs",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

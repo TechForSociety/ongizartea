@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesundheit",
-                "Bildung",
-                "Soziale Sicherung",
+                "health",
+                "education",
+                "social protection",
                 ""
               ]
             },
-            "title": "Aufgabenbereich"
+            "title": "function"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

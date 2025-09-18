@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
-                "Hektar",
+                "percentage",
+                "hectare",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen",
-                "Meeresfläche, die unter Schutz steht",
-                "Meeresfläche, die unter effektivem Schutz steht",
+                "marine key biodiversity areas (kbas) covered by protected areas",
+                "marine areas covered by protected areas",
+                "marine areas covered by effective protected areas",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -73,7 +73,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

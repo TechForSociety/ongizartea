@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Cities",
-                "Towns and suburbs",
-                "Rural areas",
+                "cities",
+                "towns and suburbs",
+                "rural areas",
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "degree of urbanisation"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -79,16 +79,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overcrowding rate",
-                "Housing cost overburden rate",
-                "Population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
-                "Population having neither a bath, nor a shower in their dwelling",
-                "Population not having indoor flushing toilet for the sole use of their household",
-                "Population considering their dwelling as too dark",
+                "overcrowding rate",
+                "housing cost overburden rate",
+                "population living in a dwelling with a leaking roof, damp walls, floors or foundation, or rot in window frames or floor",
+                "population having neither a bath, nor a shower in their dwelling",
+                "population not having indoor flushing toilet for the sole use of their household",
+                "population considering their dwelling as too dark",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

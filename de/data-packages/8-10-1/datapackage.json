@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Zweigstellen von Zahlungsverkehrsdienstleistern",
-                "b) Bankautomaten von inländischen Zahlungsdienstleistern",
+                "a) branches of payment service providers",
+                "b) atms of national payment service providers",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

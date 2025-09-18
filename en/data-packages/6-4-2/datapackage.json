@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of withdrawal in renewable water resources",
-                "Share of withdrawal in renewable water resources (excluding cooling water)",
+                "share of withdrawal in renewable water resources",
+                "share of withdrawal in renewable water resources (excluding cooling water)",
                 ""
               ]
             },
-            "title": "Water use index"
+            "title": "water use index"
           },
           {
             "name": "COMMENT_OBS_0",

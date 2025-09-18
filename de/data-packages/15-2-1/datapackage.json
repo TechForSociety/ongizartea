@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen Tonnen Kohlenstoff",
-                "Prozent",
+                "million tonnes carbon",
+                "percentage",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stehendes Holz",
-                "Sonstige Holzbiomasse",
-                "Sonstige Biomasse in Wäldern",
+                "standig wood",
+                "other woody biomass",
+                "other biomass in forests",
                 ""
               ]
             },
-            "title": "Art der Biomasse"
+            "title": "type of biomass"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -79,19 +79,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gesamtbestand der obererdigen Biomasse in Wäldern",
-                "Waldfläche in Schutzgebieten",
-                "Jährliche Veränderung der Waldfläche",
-                "Waldflächen mit einem unabhängig geprüften Wald-Management-System",
+                "above-ground biomass stock in forest",
+                "forest area located within protected areas",
+                "forest area net change rate",
+                "forest area under an independently verified forest management certification scheme",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

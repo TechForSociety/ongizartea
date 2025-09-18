@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age group",
@@ -42,21 +42,21 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "feelings of insecurity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Very safe",
-                "Safe",
-                "Unsafe",
-                "Very unsafe",
+                "very safe",
+                "safe",
+                "unsafe",
+                "very unsafe",
                 ""
               ]
             },
-            "title": "Feelings of insecurity"
+            "title": "feelings of insecurity"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -97,13 +97,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Feeling of (in)security of the population in its neighbourhood (after dark)",
-                "Feeling of (in)security of the population in its neighbourhood (during the day)",
-                "Population not living in an area with crime, violence or vandalism",
+                "feeling of (in)security of the population in its neighbourhood (after dark)",
+                "feeling of (in)security of the population in its neighbourhood (during the day)",
+                "population not living in an area with crime, violence or vandalism",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

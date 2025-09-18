@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                "Divers",
+                "female",
+                "male",
+                "divers",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",

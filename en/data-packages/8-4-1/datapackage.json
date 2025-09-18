@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million tonnes",
-                "Tonnes per capita",
+                "million tonnes",
+                "tonnes per capita",
                 "2020 = 100",
                 ""
               ]
@@ -65,12 +65,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Raw material consumption (RMC)",
-                "Raw material consumption per real GDP",
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
-                "Millionen USD, konstante Preise (2023)",
+                "million eur",
+                "million usd, constant prices (2023)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stipendien",
-                "Kalkulatorische Studienplatzkosten",
+                "scholarships",
+                "imputed student costs",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -73,7 +73,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Protection of biodiversity and landscape (COFOG 5.4)",
-                "Cultural services (COFOG 8.2)",
+                "protection of biodiversity and landscape (cofog 5.4)",
+                "cultural services (cofog 8.2)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",

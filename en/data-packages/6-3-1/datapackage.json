@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "percentage",
                 "1 000 m³",
                 ""
               ]
@@ -32,24 +32,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total wastewater produced from public and non-public disposal",
-                "Cooling water",
+                "total wastewater produced from public and non-public disposal",
+                "cooling water",
                 ""
               ]
             },
-            "title": "Type of waste water"
+            "title": "type of waste water"
           },
           {
             "name": "treatment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Untreated wastewater",
-                "Treated wastewater",
+                "untreated wastewater",
+                "treated wastewater",
                 ""
               ]
             },
-            "title": "Treatment"
+            "title": "treatment"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -88,12 +88,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Wastewater that is safely treated or does not require treatment",
-                "Wastewater and cooling water",
+                "wastewater that is safely treated or does not require treatment",
+                "wastewater and cooling water",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

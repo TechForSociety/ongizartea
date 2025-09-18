@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Objectives",
-                "Indicators",
-                "Data",
+                "objectives",
+                "indicators",
+                "data",
                 ""
               ]
             },
-            "title": "Level"
+            "title": "level"
           },
           {
             "name": "COMMENT_OBS_0",

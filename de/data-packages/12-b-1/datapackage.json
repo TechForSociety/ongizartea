@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SEEA Tabellen",
-                "TSA Tabellen",
+                "seea tables",
+                "tsa tables",
                 ""
               ]
             },
-            "title": "Standard Gesamtrechnungssystem"
+            "title": "standard accounting system"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

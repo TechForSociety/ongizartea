@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bereich 1: Mutterschaftsvorsorge",
-                "Bereich 2: Empfängnisverhütung und Familienplanung",
-                "Bereich 3: Umfassende Sexualerziehung und Information",
-                "Bereich 4: HIV und HPV",
+                "section 1: maternity care",
+                "section 2: contraception and family planning",
+                "section 3: comprehensive sexuality education and information",
+                "section 4: hiv and hpv",
                 ""
               ]
             },
-            "title": "Themenbereich"
+            "title": "thematic area"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -63,7 +63,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

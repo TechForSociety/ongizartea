@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Literacy skills",
-                "b) Numeracy skills",
+                "a) literacy skills",
+                "b) numeracy skills",
                 ""
               ]
             },
-            "title": "Skill"
+            "title": "skill"
           },
           {
             "name": "level of proficiency",
             "type": "string",
             "constraints": {
               "enum": [
-                "Minimum requirement level I",
-                "Minimum requirement level II",
+                "minimum requirement level i",
+                "minimum requirement level ii",
                 ""
               ]
             },
-            "title": "Level of proficiency"
+            "title": "level of proficiency"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "attributable deaths",
+                "dalys",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "chronic obstructive pulmonary disease (copd)",
+                "lung cancer",
+                "stroke",
+                "ischemic heart diseases",
+                "diabetes mellitus type 2",
+                ""
+              ]
+            },
+            "title": "disease"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
+                "attributable deaths due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
+                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older",
+                "dalys due to long-term exposure to fine particulate matter (pm2.5) in the population aged 25 years and older by type of disease",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-9-1",
+  "title": "Sterblichkeitsrate infolge von Verschmutzung der Raum- bzw. Außenluft"
+}
