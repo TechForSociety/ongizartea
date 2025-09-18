@@ -50,7 +50,7 @@ jobs:
         sleep 240
     - name: Rebuild site
       run: |
-        curl -X POST https://api.github.com/repos/G205SDGs/sdg-data/dispatches \
+        curl -X POST https://auto.itcons.app/webhook/e0482cf9-0237-450c-9b63-e5d7767582a9 \
         -H "Accept: application/vnd.github.everest-preview+json" \
         -H "Authorization: token ${{secrets.token}}" \
         --data '{"event_type": "rebuild-staging"}'
