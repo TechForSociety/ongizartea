@@ -1,0 +1,73 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "(a) implementation of national targets in accordance with aichi biodiversity target 2 of the strategic plan for biodiversity 2011-2020",
+                "(b) implementation of the principles of biodiversity in the seea",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-9-1",
+  "title": "a) Anzahl der Staaten, die nationale Zielvorgaben im Einklang mit oder vergleichbar zu Handlungsziel 14 des Globalen Biodiversitätsrahmens von Kunming-Montreal in ihre nationalen Strategien und Aktionspläne zugunsten der Biodiversität aufgenommen haben, und die bei der Umsetzung dieser Zielvorgaben gemeldeten Fortschritte; und b) Integration der Biodiversität in die nationalen Systeme der volkswirtschaftlichen Gesamtrechnung und Berichterstattung, gemessen an der Umsetzung des Systems der Umweltökonomischen Gesamtrechnungen (SEEA)"
+}

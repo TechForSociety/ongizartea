@@ -1,0 +1,110 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "1 000 m³",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "type of waste water",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total wastewater produced from public and non-public disposal",
+                "cooling water",
+                ""
+              ]
+            },
+            "title": "type of waste water"
+          },
+          {
+            "name": "treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "untreated wastewater",
+                "treated wastewater",
+                ""
+              ]
+            },
+            "title": "treatment"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s",
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "wastewater that is safely treated or does not require treatment",
+                "wastewater and cooling water",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-1",
+  "title": "Anteil der sicher behandelten Haushalts- und Industrieabwässer"
+}

@@ -1,0 +1,114 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per 100,000 inhabitants",
+                "number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13 years and younger",
+                "14 to under 18 years",
+                "18 to under 21 years",
+                "21 to under 25 years",
+                "25 years and older",
+                "unknown age",
+                ""
+              ]
+            },
+            "title": "age group"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                "unknown",
+                ""
+              ]
+            },
+            "title": "sex"
+          },
+          {
+            "name": "form of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "labour exploitation",
+                "sexual exploitation",
+                ""
+              ]
+            },
+            "title": "form of exploitation"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-2",
+  "title": "Anzahl der Opfer von Menschenhandel je 100&nbsp;000 Einwohner/-innen, nach Geschlecht, Alter und Form der Ausbeutung"
+}

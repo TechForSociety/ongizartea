@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "type of ict competence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "copying or moving of files and folders",
+                "using copy or cut and paste tools to duplicate or move information on screen",
+                "writing code in a programming language",
+                "connecting and installing new devices, eg a printer or a modem",
+                "transferring files between computer and other devices",
+                "installing software or apps",
+                "creating electronic presentations with presentation software, including e.g. images, sound, video or charts",
+                "using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                ""
+              ]
+            },
+            "title": "type of ict competence"
+          },
+          {
+            "name": "age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 to under 75 years",
+                "16 to under 25 years",
+                "25 to under 65 years",
+                ""
+              ]
+            },
+            "title": "age group"
+          },
+          {
+            "name": "COMMENT_OBS_0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ".",
+                "|",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_0"
+          },
+          {
+            "name": "COMMENT_OBS_1",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_1"
+          },
+          {
+            "name": "COMMENT_OBS_2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS_2"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
+}
