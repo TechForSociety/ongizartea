@@ -1,8 +1,6 @@
-heading: "Datos de %country.name para los indicadores de los Objetivos de Desarrollo
-  Sostenible"
-instructions: Haga clic en un objetivo o utilice la %before_link búsqueda %after_link
-  para acceder a los indicadores globales de %country.name de los Objetivos de Desarrollo
-  Sostenible.
+heading: "Monitor del Bienestar Integral"
+instructions: El Monitor del Bienestar Integral se define como una herramienta para hacer seguimiento a la situación del Bienestar Integral en Gipuzkoa y, principalmente, de su comunidad. Basado en indicadores objetivos y subjetivos el monitor tiene la intención de reflejar los resultados y la evolución del territorio en diferentes dimensiones: el Bienestar Individual y Colectivo; la
+Gobernanza para el Bienestar; la Vitalidad Comunitaria. 
 download_all: Descargar todos los datos (.zip)
 zip_file: archivo zip
 intro_title: 17 objetivos para transformar nuestro mundo
@@ -12,8 +10,8 @@ intro_body: Los <a href="https://www.un.org/sustainabledevelopment/es">Objetivos
   en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros
   de las Naciones Unidas en 2015, como parte de la <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&Lang=S">Agenda
   2030 para el Desarrollo Sostenible</a>.
-heading_short: Datos de %country.name para los Objetivos de Desarrollo Sostenible
-instructions_short: Haga clic en cada objetivo para ver los datos del indicador global
-  de los Objetivos de Desarrollo Sostenible de %country.name.
-instructions_shorter: Seleccione cada objetivo para los datos del indicador.
+heading_short: Monitor del Bienestar Integral
+instructions_short: El Monitor del Bienestar Integral se define como una herramienta para hacer seguimiento a la situación del Bienestar Integral en Gipuzkoa y, principalmente, de su comunidad. Basado en indicadores objetivos y subjetivos el monitor tiene la intención de reflejar los resultados y la evolución del territorio en diferentes dimensiones: el Bienestar Individual y Colectivo; la
+Gobernanza para el Bienestar; la Vitalidad Comunitaria. 
+instructions_shorter: Seleccione cada dimensión para los datos del indicador.
 file_size: Tamaño
