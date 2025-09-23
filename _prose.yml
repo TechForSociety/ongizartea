@@ -1326,28 +1326,30 @@ prose:
             scope: source_6
       - name: reporting_format
         field:
-            translation_key: indicator.reporting_format
-            scope: national
-            element: text
-            label: Formato 
+          label: Formato
+          translation_key: indicator.reporting_format
+          scope: national
+          element: text
+
       - name: reporting_periodicity
-      field:
-            label: Periodicidad
-            translation_key: indicator.reporting_periodicity
-            scope: national
-            element: text
+        field:
+          label: Periodicidad
+          translation_key: indicator.reporting_periodicity
+          scope: national
+          element: text
 
       - name: last_update
-      field:
-            label: Última actualización
-            translation_key: indicator.last_update
-            scope: national
-            element: text
+        field:
+          label: Última actualización
+          translation_key: indicator.last_update
+          scope: national
+          element: text
 
       - name: evaluation_type
-      field:
-            label: Tipo de valoración
-            translation_key: indicator.evaluation_type
-            scope: national
-            element: text
+        field:
+          label: Tipo de valoración
+          translation_key: indicator.evaluation_type
+          scope: national
+          element: text
+
   ignore: ['/scripts', '/.github']
