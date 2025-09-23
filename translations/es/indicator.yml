@@ -24,22 +24,14 @@ edit_data: Editar datos
 edit_metadata: Editar metadatos
 footnote: Nota
 geographical_area: Área geográfica
-global_metadata: Metadatos globales
-global_metadata_blurb: Esta tabla proporciona información sobre los metadatos para
-  los indicadores de los ODS tal como los define la Comisión de Estadística de la
-  ONU. La <a href="https://unstats.un.org/sdgs/metadata/">División de Estadística
-  de las Naciones Unidas proporciona</a> los metadatos globales completos .
+global_metadata: Otros
+global_metadata_blurb: 
 legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
 loading: Cargando
 loading_map: Cargando mapa
 map: Mapa
-national_metadata: Metadatos nacionales
-national_metadata_blurb: Esta tabla proporciona metadatos para el indicador real disponible
-  a partir de las estadísticas de %country.name más cercanas al correspondiente indicador
-  global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté
-  totalmente disponible a partir de las estadísticas de %country.adjective, se debe
-  consultar esta tabla para obtener información sobre la metodología nacional y otra
-  información de metadatos específicos de %country.adjective.
+national_metadata: Metadatos generales
+national_metadata_blurb: 
 no_data_hint: No hay opciones disponibles debido a los filtros anteriores
 select_all: Seleccionar todo
 series: Serie
