@@ -73,8 +73,8 @@ source_url_3: Enlace a la fuente de datos
 source_url_4: Enlace a la fuente de datos
 source_url_5: Enlace a la fuente de datos
 source_url_6: Enlace a la fuente de datos
-target: Nombre del objetivo
-target_id: Número meta
+target: Nombre de la subdimensión
+target_id: Número de subdimensión
 un_custodian_agency: Agencia de custodia de la ONU
 un_designated_tier: Nivel designado por la ONU
 quality_assurance: Seguro de calidad
@@ -126,8 +126,8 @@ SDG_RELATED_INDICATORS: Indicadores relacionados
 META_LAST_UPDATE: Actualización de metadatos
 SDG_SERIES_DESCR: Series
 SDG_INDICATOR: Indicador
-SDG_TARGET: Meta
-SDG_GOAL: Objetivo
+SDG_TARGET: Subdimensión
+SDG_GOAL: Dimensión
 SDG_INDICATOR_INFO: Información del indicador
 indicator:
   reporting_format: "Formato"
