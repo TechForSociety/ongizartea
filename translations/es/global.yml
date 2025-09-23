@@ -1,1 +1,5 @@
-
+indicator:
+  reporting_format: "Formato"
+  reporting_periodicity: "Periodicidad"
+  last_update: "Última actualización"
+  evaluation_type: "Tipo de valoración"
