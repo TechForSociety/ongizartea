@@ -1324,4 +1324,31 @@ prose:
             help: Additional link to data source text
             value: "Link to source"
             scope: source_6
+      - name: reporting_format
+  label: Formato
+  translation_key: indicator.reporting_format
+  scope: national
+  field:
+    element: text
+
+- name: reporting_periodicity
+  label: Periodicidad
+  translation_key: indicator.reporting_periodicity
+  scope: national
+  field:
+    element: text
+
+- name: last_update
+  label: Última actualización
+  translation_key: indicator.last_update
+  scope: national
+  field:
+    element: text
+
+- name: evaluation_type
+  label: Tipo de valoración
+  translation_key: indicator.evaluation_type
+  scope: national
+  field:
+    element: text
   ignore: ['/scripts', '/.github']
