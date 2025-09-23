@@ -7,8 +7,8 @@ loading: Cargando resultados de búsqueda
 opens_new_window: Se abre en una nueva ventana
 hide: Ocultar
 sdg: Objetivos de Desarrollo Sostenible
-target: Meta
-targets: Metas
+target: Subdimensión
+targets: Subdimensiones
 twitter: Twitter
 facebook: Facebook
 built_using_open_sdg: Construido usando Open SDG
@@ -16,5 +16,5 @@ page: página web
 pages: páginas web
 site_title: Monitor del Bienestar Integral
 label_warning: 'Advertencia:'
-targets_and_indicators: Metas e indicadores
+targets_and_indicators: Subdimensiones e indicadores
 back_to_top: Volver arriba
