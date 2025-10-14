@@ -148,3 +148,7 @@ QUALITY_ASSMNT: Quality assessment
 COVERAGE: Data availability and disaggregation
 COMPARABILITY: Comparability/deviation from international standards
 OTHER_DOC: References and Documentation
+indicator_reporting_format: Formato
+indicator_reporting_periodicity: Periodicidad
+indicator_last_update: Última actualización
+indicator_evaluation_type: Tipo de valoración
