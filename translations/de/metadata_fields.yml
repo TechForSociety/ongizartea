@@ -128,3 +128,7 @@ SDG_INDICATOR: Indikator
 SDG_TARGET: Ziel
 SDG_GOAL: Ziel
 SDG_INDICATOR_INFO: Informationen zum Indikator
+indicator_reporting_format: Formato
+indicator_reporting_periodicity: Periodicidad
+indicator_last_update: Última actualización
+indicator_evaluation_type: Tipo de valoración
