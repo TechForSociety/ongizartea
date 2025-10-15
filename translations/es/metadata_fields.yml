@@ -75,7 +75,7 @@ source_url_5: Enlace a la fuente de datos
 source_url_6: Enlace a la fuente de datos
 target: Nombre de la subdimensión
 target_id: Número de subdimensión
-un_custodian_agency: Agencia de custodia de la ONU
+un_custodian_agency: Tipo de valoración
 un_designated_tier: Nivel designado por la ONU
 quality_assurance: Seguro de calidad
 international_comparability: Comparabilidad con datos / estándares internacionales
@@ -133,4 +133,5 @@ indicator_reporting_format: Formato
 indicator_reporting_periodicity: Periodicidad
 indicator_last_update: Última actualización
 indicator_evaluation_type: Tipo de valoración
+data_last_update: Última actualización
 
