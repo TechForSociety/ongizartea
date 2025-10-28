@@ -130,6 +130,7 @@ SDG_TARGET: Meta
 SDG_GOAL: Objetivo
 SDG_INDICATOR_INFO: Información del indicador
 indicator_reporting_format: Formatua
-indicator_reporting_periodicity: Maiztasuan
-indicator_last_update: Última actualización
+indicator_reporting_periodicity: Maiztasuna
+indicator_last_update: Azken eguneratzea
 indicator_evaluation_type: Tipo de valoración
+metadata_fields.comparison_sdg: Neurri-unitatea
