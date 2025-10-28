@@ -7036,7 +7036,7 @@
             "constraints": {
               "enum": [
                 "Daten des Statistischen Bundesamtes",
-                "Daten des BMEL",
+                "Daten des BMLEH",
                 ""
               ]
             },
