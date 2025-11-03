@@ -12841,7 +12841,7 @@
           }
         ]
       },
-      "title": "Behandlungsumfang (pharmakologische, psychosoziale sowie Rehabilitations- und Nachsorgeleistungen) bei Störungen durch Substanzgebrauch"
+      "title": "3-5-1"
     },
     {
       "path": "7-2-1/data.csv",
@@ -13444,7 +13444,7 @@
           }
         ]
       },
-      "title": "Sterblichkeitsrate infolge von Straßenverkehrsunfällen"
+      "title": "3-6-1"
     },
     {
       "path": "3-4-2/data.csv",
@@ -13498,7 +13498,7 @@
           }
         ]
       },
-      "title": "Sterblichkeitsrate infolge von Suizid"
+      "title": "3-4-2"
     },
     {
       "path": "8-2-1/data.csv",
@@ -15823,7 +15823,7 @@
           }
         ]
       },
-      "title": "Alkoholkonsum pro Kopf (im Alter von 15 Jahren und älter) innerhalb eines Kalenderjahres in Litern reinen Alkohols"
+      "title": "3-5-2"
     },
     {
       "path": "4-2-2/data.csv",
