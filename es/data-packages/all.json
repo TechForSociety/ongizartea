@@ -1208,7 +1208,7 @@
           }
         ]
       },
-      "title": "Produktionsvolumen je Arbeitseinheit, nach Größenklassen der Land-/ Weide-/ Forstwirtschaftsbetriebe"
+      "title": "2-3-1"
     },
     {
       "path": "3-3-1/data.csv",
@@ -3203,7 +3203,7 @@
           }
         ]
       },
-      "title": "Durchschnittliches Einkommen kleiner Nahrungsmittelproduzenten, nach Geschlecht und Zugehörigkeit zu einer indigenen Bevölkerungsgruppe"
+      "title": "2-3-2"
     },
     {
       "path": "15-9-1/data.csv",
@@ -6606,7 +6606,7 @@
           }
         ]
       },
-      "title": "Prävalenz von Anämie bei Frauen im Alter von 15-49 Jahren, nach Schwangerschaftsstatus (in Prozent)"
+      "title": "2-2-3"
     },
     {
       "path": "2-5-2/data.csv",
@@ -16395,30 +16395,6 @@
         ]
       },
       "title": "Anteil der Frauen im Alter von 20-24 Jahren, die vor dem vollendeten 15. bzw. 18. Lebensjahr verheiratet waren oder in einer vergleichbaren Verbindung lebten"
-    },
-    {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prävalenz minimaler Ernährungsvielfalt, nach Bevölkerungsgruppen (Kinder im Alter von 6 bis 23,9 Monaten und nicht schwangere Frauen im Alter von 15 bis 49 Jahren)"
     },
     {
       "path": "8-9-2/data.csv",
