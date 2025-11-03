@@ -1566,7 +1566,7 @@
           }
         ]
       },
-      "title": "Gesamtwert der ein- und ausgehenden illegalen Finanzströme (in aktuellen US-Dollar)"
+      "title": "16-4-1"
     },
     {
       "path": "8-4-1/data.csv",
@@ -10400,7 +10400,7 @@
           }
         ]
       },
-      "title": "Nicht strafrechtlich verurteilte Inhaftierte im Verhältnis zur gesamten Gefängnisbevölkerung"
+      "title": "16-3-2"
     },
     {
       "path": "17-8-1/data.csv",
@@ -11301,7 +11301,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der in den vorangegangenen zwei Jahren eine Streitigkeit durchlebt und einen formellen oder informellen Streitbeilegungsmechanismus in Anspruch genommen hat, nach Art des Mechanismus"
+      "title": "16-3-3"
     },
     {
       "path": "10-6-1/data.csv",
