@@ -752,7 +752,7 @@
           }
         ]
       },
-      "title": "Anteil der Gemeinden, die lokale Strategien zur Katastrophenvorsorge im Einklang mit nationalen Strategien zur Katastrophenvorsorge beschließen und umsetzen"
+      "title": "1-5-4"
     },
     {
       "path": "8-a-1/data.csv",
@@ -1794,7 +1794,7 @@
           }
         ]
       },
-      "title": "Gesamtumfang der Zuschüsse im Rahmen der öffentlichen Entwicklungszusammenarbeit (ODA) mit Schwerpunkt auf der Minderung der Armut, gemessen am Bruttonationaleinkommen (BNE) des Empfängerlands"
+      "title": "1-a-1"
     },
     {
       "path": "4-3-1/data.csv",
@@ -4346,7 +4346,7 @@
           }
         ]
       },
-      "title": "Anteil der Gesamtausgaben des Staates für Grundleistungen (Bildung, Gesundheit und soziale Sicherung)"
+      "title": "1-a-2"
     },
     {
       "path": "8-4-2/data.csv",
@@ -6074,7 +6074,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der sich in den vorangegangenen 12 Monaten wegen eines nach den internationalen Menschenrechtsnormen verbotenen Diskriminierungsgrunds persönlich diskriminiert oder belästigt gefühlt hat"
+      "title": "10-3-1"
     },
     {
       "path": "14-1-1/data.csv",
@@ -7183,7 +7183,7 @@
           }
         ]
       },
-      "title": "Anteil der Staaten mit einer Migrationspolitik, die eine geordnete, sichere, reguläre und verantwortungsvolle Migration und Mobilität von Menschen ermöglicht"
+      "title": "10-7-2"
     },
     {
       "path": "5-1-1/data.csv",
@@ -7575,7 +7575,7 @@
           }
         ]
       },
-      "title": "Anteil des Arbeitseinkommens am BIP"
+      "title": "10-4-1"
     },
     {
       "path": "16-1-2/data.csv",
@@ -7907,7 +7907,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmen für Katastrophenvorsorge 2015-2030 beschließen und umsetzen"
+      "title": "1-5-3"
     },
     {
       "path": "16-4-2/data.csv",
@@ -8990,7 +8990,7 @@
           }
         ]
       },
-      "title": "Indikatoren zur Finanzstabilität"
+      "title": "10-5-1"
     },
     {
       "path": "5-6-2/data.csv",
@@ -10740,7 +10740,7 @@
           }
         ]
       },
-      "title": "Armutsorientierte öffentliche Sozialausgaben"
+      "title": "1-b-1"
     },
     {
       "path": "5-3-2/data.csv",
@@ -11337,7 +11337,7 @@
           }
         ]
       },
-      "title": "Mitglieder- und Stimmrechtsanteil von Entwicklungsländern in internationalen Organisationen"
+      "title": "10-6-1"
     },
     {
       "path": "5-5-2/data.csv",
@@ -12059,7 +12059,7 @@
           }
         ]
       },
-      "title": "Umverteilende Wirkung der Fiskalpolitik auf den Gini-Index"
+      "title": "10-4-2"
     },
     {
       "path": "11-1-1/data.csv",
@@ -14112,7 +14112,7 @@
           }
         ]
       },
-      "title": "Von Beschäftigten getragene Einstellungskosten im Verhältnis zum Monatseinkommen im Zielland"
+      "title": "10-7-1"
     },
     {
       "path": "12-2-1/data.csv",
