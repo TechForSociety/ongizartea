@@ -69,9 +69,11 @@ Indicator,Disaggregations,Number of disaggregations
 #16-1-2,COMMENT_OBS_0,1
 #16-1-3,"timeseries, COMMENT_OBS_0, age group, sex",4
 #16-1-4,"COMMENT_OBS_0, age group, sex, feelings of insecurity",4
+#16-10-1,Group,1
 #16-10-2,COMMENT_OBS_0,1
 #16-2-1,"COMMENT_OBS_0, sex, form of abuse",3
 #16-2-2,"COMMENT_OBS_0, age group, sex, form of exploitation",4
+#16-2-3,Group,1
 #16-3-1,"timeseries, COMMENT_OBS_0, age group, sex",4
 #16-3-2,"COMMENT_OBS_0, sex",2
 #16-3-3,"COMMENT_OBS_0, time series, outcome of the application process",3
