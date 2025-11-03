@@ -586,7 +586,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die über eine nationale Städtepolitik oder regionale Entwicklungsplanung verfügen, welche a) auf die Bevölkerungsdynamik reagiert, b) eine ausgewogene Raumentwicklung gewährleistet und c) den lokalen Haushaltsspielraum vergrößert"
+      "title": "11-a-1"
     },
     {
       "path": "8-6-1/data.csv",
@@ -3317,7 +3317,7 @@
           }
         ]
       },
-      "title": "Bevölkerungsgewichtete Jahresmittelwerte der Feinstaubkonzentration (z. B. PM₂,₅ und PM₁₀) in Städten"
+      "title": "11-6-2"
     },
     {
       "path": "12-a-1/data.csv",
@@ -3558,7 +3558,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die nationale Strategien zur Katastrophenvorsorge im Einklang mit dem Sendai-Rahmen für Katastrophenvorsorge 2015-2030 beschließen und umsetzen"
+      "title": "11-b-1"
     },
     {
       "path": "15-1-2/data.csv",
@@ -11925,7 +11925,7 @@
           }
         ]
       },
-      "title": "Anteil der Personen, die in den vorangegangenen 12 Monaten Opfer nicht-sexueller oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus und Tatort"
+      "title": "11-7-2"
     },
     {
       "path": "10-b-1/data.csv",
@@ -13292,7 +13292,7 @@
           }
         ]
       },
-      "title": "Durchschnittlicher Anteil der bebauten Fläche in Städten, der für alle Personen nach Geschlecht, Alter und Menschen mit Behinderungen als Freifläche öffentlich zugänglich ist"
+      "title": "11-7-1"
     },
     {
       "path": "9-1-2/data.csv",
