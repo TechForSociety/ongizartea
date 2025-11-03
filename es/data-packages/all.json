@@ -166,7 +166,7 @@
           }
         ]
       },
-      "title": "Verhältnis der Flächennutzungs- zur Bevölkerungswachstumsrate"
+      "title": "11-3-1"
     },
     {
       "path": "9-3-1/data.csv",
@@ -884,7 +884,7 @@
           }
         ]
       },
-      "title": "Rücküberweisungskosten im Verhältnis zum überwiesenen Betrag"
+      "title": "10-c-1"
     },
     {
       "path": "17-17-1/data.csv",
@@ -1794,7 +1794,7 @@
           }
         ]
       },
-      "title": "Gesamtumfang der Zuschüsse im Rahmen der öffentlichen Entwicklungszusammenarbeit (ODA) mit Schwerpunkt auf der Minderung der Armut, gemessen am Bruttonationaleinkommen (BNE) des Empfängerlands"
+      "title": "1-a-1"
     },
     {
       "path": "4-3-1/data.csv",
@@ -4346,7 +4346,7 @@
           }
         ]
       },
-      "title": "Anteil der Gesamtausgaben des Staates für Grundleistungen (Bildung, Gesundheit und soziale Sicherung)"
+      "title": "1-a-2"
     },
     {
       "path": "8-4-2/data.csv",
@@ -4481,7 +4481,7 @@
           }
         ]
       },
-      "title": "Anteil der Flüchtlinge an der Bevölkerung, nach Herkunftsland"
+      "title": "10-7-4"
     },
     {
       "path": "8-8-1/data.csv",
@@ -6074,7 +6074,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung, der sich in den vorangegangenen 12 Monaten wegen eines nach den internationalen Menschenrechtsnormen verbotenen Diskriminierungsgrunds persönlich diskriminiert oder belästigt gefühlt hat"
+      "title": "10-3-1"
     },
     {
       "path": "14-1-1/data.csv",
@@ -7183,7 +7183,7 @@
           }
         ]
       },
-      "title": "Anteil der Staaten mit einer Migrationspolitik, die eine geordnete, sichere, reguläre und verantwortungsvolle Migration und Mobilität von Menschen ermöglicht"
+      "title": "10-7-2"
     },
     {
       "path": "5-1-1/data.csv",
@@ -7575,7 +7575,7 @@
           }
         ]
       },
-      "title": "Anteil des Arbeitseinkommens am BIP"
+      "title": "10-4-1"
     },
     {
       "path": "16-1-2/data.csv",
@@ -8632,7 +8632,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung mit bequemem Zugang zu öffentlichen Verkehrsmitteln, nach Geschlecht, Alter und Menschen mit Behinderungen"
+      "title": "11-2-1"
     },
     {
       "path": "5-2-1/data.csv",
@@ -8990,7 +8990,7 @@
           }
         ]
       },
-      "title": "Indikatoren zur Finanzstabilität"
+      "title": "10-5-1"
     },
     {
       "path": "5-6-2/data.csv",
@@ -9697,7 +9697,7 @@
           }
         ]
       },
-      "title": "Anteil der Zolltarifpositionen, die auf Importe aus den am wenigsten entwickelten Ländern und Entwicklungsländern mit Zollfreiheit angewandt werden"
+      "title": "10-a-1"
     },
     {
       "path": "13-b-1/data.csv",
@@ -10110,7 +10110,7 @@
           }
         ]
       },
-      "title": "Anzahl der Menschen, die im Laufe ihrer Migration zu einem internationalen Zielort gestorben oder verschwunden sind"
+      "title": "10-7-3"
     },
     {
       "path": "2-a-1/data.csv",
@@ -10740,7 +10740,7 @@
           }
         ]
       },
-      "title": "Armutsorientierte öffentliche Sozialausgaben"
+      "title": "1-b-1"
     },
     {
       "path": "5-3-2/data.csv",
@@ -11337,7 +11337,7 @@
           }
         ]
       },
-      "title": "Mitglieder- und Stimmrechtsanteil von Entwicklungsländern in internationalen Organisationen"
+      "title": "10-6-1"
     },
     {
       "path": "5-5-2/data.csv",
@@ -12059,7 +12059,7 @@
           }
         ]
       },
-      "title": "Umverteilende Wirkung der Fiskalpolitik auf den Gini-Index"
+      "title": "10-4-2"
     },
     {
       "path": "11-1-1/data.csv",
@@ -12158,7 +12158,7 @@
           }
         ]
       },
-      "title": "Anteil der städtischen Bevölkerung, der in Slums, informellen Siedlungen oder unzureichendem Wohnraum lebt"
+      "title": "11-1-1"
     },
     {
       "path": "6-b-1/data.csv",
@@ -13141,7 +13141,7 @@
           }
         ]
       },
-      "title": "Gesamte Finanzströme für Entwicklung (z. B. öffentliche Entwicklungszusammenarbeit (ODA), ausländische Direktinvestitionen und sonstige Finanzströme)"
+      "title": "10-b-1"
     },
     {
       "path": "6-1-1/data.csv",
@@ -14112,7 +14112,7 @@
           }
         ]
       },
-      "title": "Von Beschäftigten getragene Einstellungskosten im Verhältnis zum Monatseinkommen im Zielland"
+      "title": "10-7-1"
     },
     {
       "path": "12-2-1/data.csv",
