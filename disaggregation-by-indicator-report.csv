@@ -30,6 +30,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-6-1,COMMENT_OBS_0,1
 #11-6-2,"COMMENT_OBS_0, fine particulate matter",2
 #11-7-2,"timeseries, COMMENT_OBS_0, age group, sex",4
+#11-c-1,Group,1
 #12-2-1,COMMENT_OBS_0,1
 #12-2-2,COMMENT_OBS_0,1
 #12-3-1,stages of the food chain,1
