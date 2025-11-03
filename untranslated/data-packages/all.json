@@ -364,7 +364,7 @@
           }
         ]
       },
-      "title": "Ausgaben für Forschung und Entwicklung im Verhältnis zum BIP"
+      "title": "9-5-1"
     },
     {
       "path": "10-2-1/data.csv",
@@ -6807,7 +6807,7 @@
           }
         ]
       },
-      "title": "Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA) und sonstige öffentliche Leistungen) für Infrastruktur"
+      "title": "9-a-1"
     },
     {
       "path": "5-2-2/data.csv",
@@ -8144,7 +8144,7 @@
           }
         ]
       },
-      "title": "Anteil der Wertschöpfung der Medium- und High-Tech-Industrien an der Gesamtwertschöpfung"
+      "title": "9-b-1"
     },
     {
       "path": "10-5-1/data.csv",
@@ -9619,7 +9619,7 @@
           }
         ]
       },
-      "title": "Anzahl der in Forschung und Entwicklung tätigen Personen (in Vollzeitäquivalenten) je Million Einwohner/-innen"
+      "title": "9-5-2"
     },
     {
       "path": "6-2-1/data.csv",
