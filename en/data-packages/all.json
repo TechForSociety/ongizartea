@@ -1530,7 +1530,7 @@
           }
         ]
       },
-      "title": "a) Aufkommen gefährlicher Abfälle pro Kopf und b) Anteil der gefährlichen Abfälle, der behandelt wird, nach Art der Behandlung"
+      "title": "12-4-2"
     },
     {
       "path": "16-4-1/data.csv",
@@ -4242,7 +4242,7 @@
           }
         ]
       },
-      "title": "Anzahl der Vertragsparteien internationaler multilateraler Umweltübereinkommen über gefährliche Abfälle und andere Chemikalien, die ihre Zusagen und Verpflichtungen zur Übermittlung von Informationen nach den einschlägigen Übereinkommen einhalten"
+      "title": "12-4-1"
     },
     {
       "path": "3-8-1/data.csv",
@@ -8041,7 +8041,7 @@
           }
         ]
       },
-      "title": "a) Index der Lebensmittelverluste und b) Index der Lebensmittelabfälle"
+      "title": "12-3-1"
     },
     {
       "path": "3-d-2/data.csv",
@@ -9777,7 +9777,7 @@
           }
         ]
       },
-      "title": "Anzahl der Staaten, die politische Instrumente zur Unterstützung des Übergangs zu nachhaltigem Konsum und nachhaltiger Produktion entwickeln, beschließen und umsetzen"
+      "title": "12-1-1"
     },
     {
       "path": "3-8-2/data.csv",
@@ -14193,7 +14193,7 @@
           }
         ]
       },
-      "title": "Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck im Verhältnis zum BIP"
+      "title": "12-2-1"
     },
     {
       "path": "16-1-1/data.csv",
@@ -15560,7 +15560,7 @@
           }
         ]
       },
-      "title": "Inländische Materialnutzung, inländische Materialnutzung pro Kopf und inländische Materialnutzung im Verhältnis zum BIP"
+      "title": "12-2-2"
     },
     {
       "path": "16-5-2/data.csv",
@@ -15980,7 +15980,7 @@
           }
         ]
       },
-      "title": "Nationale Recyclingquote, Tonnen an recyceltem Material"
+      "title": "12-5-1"
     },
     {
       "path": "4-7-1/data.csv",
