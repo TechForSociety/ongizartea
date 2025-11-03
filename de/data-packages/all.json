@@ -166,7 +166,7 @@
           }
         ]
       },
-      "title": "Verhältnis der Flächennutzungs- zur Bevölkerungswachstumsrate"
+      "title": "11-3-1"
     },
     {
       "path": "9-3-1/data.csv",
@@ -311,7 +311,7 @@
           }
         ]
       },
-      "title": "Anteil der Städte mit einer regulär und demokratisch funktionierenden Struktur für die Direktbeteiligung der Zivilgesellschaft an Stadtplanung und -management"
+      "title": "11-3-2"
     },
     {
       "path": "9-5-1/data.csv",
@@ -2753,7 +2753,7 @@
           }
         ]
       },
-      "title": "Anzahl der Katastrophen zugeschriebenen Todesopfer, vermissten Personen und direkt betroffenen Personen je 100&nbsp;000 Einwohner/-innen"
+      "title": "11-5-1"
     },
     {
       "path": "17-19-2/data.csv",
@@ -3723,7 +3723,7 @@
           }
         ]
       },
-      "title": "Katastrophen zugeschriebene direkte wirtschaftliche Schäden im Verhältnis zum globalen Bruttoinlandsprodukt (BIP)"
+      "title": "11-5-2"
     },
     {
       "path": "6-4-1/data.csv",
@@ -4137,7 +4137,7 @@
           }
         ]
       },
-      "title": "Gesamtausgaben pro Kopf für die Erhaltung und den Schutz des gesamten Kultur- und Naturerbes, nach Finanzierungsquelle (öffentlich, privat), Art des Erbes (Kulturerbe, Naturerbe) und Verwaltungsebene (national, regional, lokal/ kommunal)"
+      "title": "11-4-1"
     },
     {
       "path": "16-8-1/data.csv",
@@ -8632,7 +8632,7 @@
           }
         ]
       },
-      "title": "Anteil der Bevölkerung mit bequemem Zugang zu öffentlichen Verkehrsmitteln, nach Geschlecht, Alter und Menschen mit Behinderungen"
+      "title": "11-2-1"
     },
     {
       "path": "5-2-1/data.csv",
@@ -12281,7 +12281,7 @@
           }
         ]
       },
-      "title": "Anteil der in kontrollierten Einrichtungen gesammelten und behandelten festen Siedlungsabfälle an den gesamten Siedlungsabfällen, nach Städten"
+      "title": "11-6-1"
     },
     {
       "path": "17-5-1/data.csv",
@@ -16419,30 +16419,6 @@
         ]
       },
       "title": "Prävalenz minimaler Ernährungsvielfalt, nach Bevölkerungsgruppen (Kinder im Alter von 6 bis 23,9 Monaten und nicht schwangere Frauen im Alter von 15 bis 49 Jahren)"
-    },
-    {
-      "path": "11-5-3/data.csv",
-      "name": "11-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Katastrophen zugeschriebene a) Schäden an kritischen Infrastrukturen und b) Zahl der Unterbrechungen der Grundversorgung"
     },
     {
       "path": "8-9-2/data.csv",

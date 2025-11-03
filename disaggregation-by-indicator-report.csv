@@ -26,6 +26,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-3-1,"timeseries, COMMENT_OBS_0, COMMENT_OBS_1, presentation",4
 #11-4-1,"COMMENT_OBS_0, time series",2
 #11-5-1,"COMMENT_OBS_0, cause of death",2
+#11-5-2,Group,1
 #11-6-1,COMMENT_OBS_0,1
 #11-6-2,"COMMENT_OBS_0, fine particulate matter",2
 #11-7-2,"timeseries, COMMENT_OBS_0, age group, sex",4
