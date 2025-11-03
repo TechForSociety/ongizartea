@@ -1345,7 +1345,7 @@
           }
         ]
       },
-      "title": "Anteil der Erwachsenen (im Alter von 15 Jahren und älter) mit einem Konto bei einer Bank oder einem anderen Finanzinstitut oder einem Anbieter mobiler Gelddienstleistungen"
+      "title": "8-10-2"
     },
     {
       "path": "14-6-1/data.csv",
@@ -1647,7 +1647,7 @@
           }
         ]
       },
-      "title": "Rohstoff-Fußabdruck, Rohstoff-Fußabdruck pro Kopf und Rohstoff-Fußabdruck im Verhältnis zum BIP"
+      "title": "8-4-1"
     },
     {
       "path": "6-5-1/data.csv",
@@ -2069,7 +2069,7 @@
           }
         ]
       },
-      "title": "Anteil der informellen Erwerbstätigkeit an der Erwerbstätigkeit insgesamt, nach Sektor und Geschlecht"
+      "title": "8-3-1"
     },
     {
       "path": "16-2-1/data.csv",
@@ -4427,7 +4427,7 @@
           }
         ]
       },
-      "title": "Inländische Materialnutzung, inländische Materialnutzung pro Kopf und inländische Materialnutzung im Verhältnis zum BIP"
+      "title": "8-4-2"
     },
     {
       "path": "10-7-4/data.csv",
@@ -13555,7 +13555,7 @@
           }
         ]
       },
-      "title": "Jährliche Wachstumsrate des realen BIP je Erwerbstätigen"
+      "title": "8-2-1"
     },
     {
       "path": "15-2-1/data.csv",
