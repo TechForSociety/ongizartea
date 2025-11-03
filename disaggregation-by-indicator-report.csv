@@ -146,6 +146,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-d-2,"COMMENT_OBS_0, pathogens and resistance",2
 #4-1-1,"COMMENT_OBS_0, educational level, subject",3
 #4-1-2,"COMMENT_OBS_0, sex, educational level",3
+#4-2-1,Group,1
 #4-2-2,"COMMENT_OBS_0, sex",2
 #4-3-1,"COMMENT_OBS_0, age group, sex",3
 #4-4-1,"COMMENT_OBS_0, age group, type of ict competence",3

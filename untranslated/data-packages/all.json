@@ -1724,7 +1724,7 @@
           }
         ]
       },
-      "title": "Teilnahmequote von Jugendlichen und Erwachsenen an formaler und non-formaler Bildung und Ausbildung in den vorangegangenen 12 Monaten, nach Geschlecht"
+      "title": "4-3-1"
     },
     {
       "path": "2-2-2/data.csv",
@@ -4664,7 +4664,7 @@
           }
         ]
       },
-      "title": "Anteil der Jugendlichen und Erwachsenen mit Kompetenzen in Informations- und Kommunikationstechnologie (IKT), nach Art der Kompetenz"
+      "title": "4-4-1"
     },
     {
       "path": "16-5-1/data.csv",
@@ -5081,7 +5081,7 @@
           }
         ]
       },
-      "title": "Anteil der Kinder im Alter von 24-59 Monaten mit altersgemäßer Entwicklung hinsichtlich Gesundheit, Lernens und psychosozialen Wohlbefindens, nach Geschlecht"
+      "title": "4-2-1"
     },
     {
       "path": "16-6-2/data.csv",
@@ -13710,7 +13710,7 @@
           }
         ]
       },
-      "title": "Paritätsindizes (weiblich/ männlich, ländlich/ städtisch, unterstes/ oberstes Vermögensquintil und sonstige, wie Behinderungsstatus, Zugehörigkeit zu einer indigenen Bevölkerungsgruppe und Beeinträchtigung durch Konflikte, je nach Datenverfügbarkeit) für alle genannten Bildungsindikatoren, die sich aufschlüsseln lassen"
+      "title": "4-5-1"
     },
     {
       "path": "3-1-1/data.csv",
@@ -14510,7 +14510,7 @@
           }
         ]
       },
-      "title": "Teilnahmequote an organisiertem Lernen (ein Jahr vor dem offiziellen Einschulungsalter), nach Geschlecht"
+      "title": "4-2-2"
     },
     {
       "path": "12-5-1/data.csv",
