@@ -4070,7 +4070,7 @@
           }
         ]
       },
-      "title": "Sterblichkeitsrate infolge von Verschmutzung der Raum- bzw. Außenluft"
+      "title": "3-9-1"
     },
     {
       "path": "11-4-1/data.csv",
@@ -6934,7 +6934,7 @@
           }
         ]
       },
-      "title": "Sterblichkeitsrate infolge von Kontakt mit verunreinigtem Wasser, unzureichenden sanitären Verhältnissen und mangelnder Hygiene (Gefährdung durch unzureichende Leistungen im Bereich „Wasser, Sanitärversorgung und Hygiene (WASH)“ für alle)"
+      "title": "3-9-2"
     },
     {
       "path": "4-b-1/data.csv",
