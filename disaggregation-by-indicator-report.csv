@@ -15,8 +15,6 @@ Indicator,Disaggregations,Number of disaggregations
 #10-4-1,COMMENT_OBS_0,1
 #10-4-2,"timeseries, COMMENT_OBS_0",2
 #10-5-1,"timeseries, COMMENT_OBS_0",2
-#10-6-1,Group,1
-#10-7-1,Group,1
 #10-7-2,policy area,1
 #10-7-3,COMMENT_OBS_0,1
 #10-b-1,"COMMENT_OBS_0, type of flow",2
