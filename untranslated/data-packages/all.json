@@ -14994,28 +14994,6 @@
       "title": "Azken 12 hilabeteetan diskriminazio motaren bat pairatu dutela adierazi duten helduen ehunekoa"
     },
     {
-      "path": "2-3-20/data.csv",
-      "name": "2-3-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Jasangarritasuna"
-    },
-    {
       "path": "2-3-28/data.csv",
       "name": "2-3-28",
       "profile": "tabular-data-resource",
@@ -15236,28 +15214,6 @@
       "title": "Etxebizitza"
     },
     {
-      "path": "2-3-21/data.csv",
-      "name": "2-3-21",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Hezkuntza"
-    },
-    {
       "path": "2-3-7/data.csv",
       "name": "2-3-7",
       "profile": "tabular-data-resource",
@@ -15344,28 +15300,6 @@
         ]
       },
       "title": "Komunitatearen parte izatearen sentimendua dutela adierazten duten biztanleen ehunekoa"
-    },
-    {
-      "path": "2-3-19/data.csv",
-      "name": "2-3-19",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Bat ere ez"
     },
     {
       "path": "3-2-5/data.csv",
