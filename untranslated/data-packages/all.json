@@ -14992,50 +14992,6 @@
         ]
       },
       "title": "Gizarte-erakunderen bateko bazkide edota afiliatu diren pertsonen ehunekoa"
-    },
-    {
-      "path": "3-2-4/data.csv",
-      "name": "3-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Hirugarren sektoreko erakundeetako boluntarioen proportzioa"
-    },
-    {
-      "path": "3-2-3/data.csv",
-      "name": "3-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Genero berdintasunaren indizea"
     }
   ]
 }
