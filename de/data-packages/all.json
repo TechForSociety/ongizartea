@@ -17381,30 +17381,6 @@
       "title": "Etxeguneetan etxebizitzan egindako gastuen banaketa"
     },
     {
-      "path": "1-1-6/data.csv",
-      "name": "1-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Eguneroko bizitzako jarduerak egiteko zailtasunak dituzten biztanleen banaketa"
-    },
-    {
       "path": "3-5-3/data.csv",
       "name": "3-5-3",
       "profile": "tabular-data-resource",
@@ -17813,30 +17789,6 @@
       "title": "Genero berdintasunaren indizea"
     },
     {
-      "path": "1-1-8/data.csv",
-      "name": "1-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "\"Erretzaile\" gisa sailkatutako biztanleen banaketa"
-    },
-    {
       "path": "2-4-10/data.csv",
       "name": "2-4-10",
       "profile": "tabular-data-resource",
@@ -18005,30 +17957,6 @@
       "title": "Etxebizitza"
     },
     {
-      "path": "1-1-7/data.csv",
-      "name": "1-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Osakidetzak bere osasun-behar guztiak betetzen ez dituela uste duten biztanleen banaketa"
-    },
-    {
       "path": "1-7-1/data.csv",
       "name": "1-7-1",
       "profile": "tabular-data-resource",
@@ -18123,30 +18051,6 @@
         ]
       },
       "title": "Gizarte-gaiak orokorrean"
-    },
-    {
-      "path": "1-1-9/data.csv",
-      "name": "1-1-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Alkohol-kontsumoaren ondorioz osasun-arazoak izateko arrisku handia duten biztanleen banaketa"
     },
     {
       "path": "1-6-4/data.csv",
