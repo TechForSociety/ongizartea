@@ -13822,7 +13822,7 @@
           }
         ]
       },
-      "title": "Hirugarren sektoreko erakundeetako boluntarioen proportzioa"
+      "title": "3-2-1"
     },
     {
       "path": "12-c-1/data.csv",
@@ -16397,30 +16397,6 @@
       "title": "5-3-1"
     },
     {
-      "path": "3-1-5/data.csv",
-      "name": "3-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Pertsonekiko konfiantza"
-    },
-    {
       "path": "3-5-4/data.csv",
       "name": "3-5-4",
       "profile": "tabular-data-resource",
@@ -16467,30 +16443,6 @@
         ]
       },
       "title": "Enpresa kooperatiboen kontzentrazioa"
-    },
-    {
-      "path": "3-1-4/data.csv",
-      "name": "3-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Gipuzkoa haren parte izateko komunitate ona dela pentsatzen duten biztanleen ehunekoa"
     },
     {
       "path": "3-5-3/data.csv",
@@ -16563,30 +16515,6 @@
         ]
       },
       "title": "Gipuzkoako enpresetan gizon eta emakumeen ehunekoa"
-    },
-    {
-      "path": "3-1-6/data.csv",
-      "name": "3-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Genero berdintasunaren indizea"
     },
     {
       "path": "3-5-6/data.csv",
