@@ -16397,6 +16397,30 @@
       "title": "5-3-1"
     },
     {
+      "path": "1-1-5/data.csv",
+      "name": "1-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Osasun-arazo kronikorik ez duten biztanleen banaketa"
+    },
+    {
       "path": "1-1-2/data.csv",
       "name": "1-1-2",
       "profile": "tabular-data-resource",
@@ -16419,6 +16443,54 @@
         ]
       },
       "title": "Bizi-itxaropena jaiotzean"
+    },
+    {
+      "path": "1-1-6/data.csv",
+      "name": "1-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Eguneroko bizitzako jarduerak egiteko zailtasunak dituzten biztanleen banaketa"
+    },
+    {
+      "path": "1-1-7/data.csv",
+      "name": "1-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Osakidetzak bere osasun-behar guztiak betetzen ez dituela uste duten biztanleen banaketa"
     },
     {
       "path": "1-1-4/data.csv",
