@@ -5498,7 +5498,7 @@
           }
         ]
       },
-      "title": "1-1-1"
+      "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
     },
     {
       "path": "10-3-1/data.csv",
@@ -14972,8 +14972,8 @@
       "title": "5-3-1"
     },
     {
-      "path": "3-2-5/data.csv",
-      "name": "3-2-5",
+      "path": "1-1-2/data.csv",
+      "name": "1-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -14991,7 +14991,7 @@
           }
         ]
       },
-      "title": "Gizarte-erakunderen bateko bazkide edota afiliatu diren pertsonen ehunekoa"
+      "title": "Bizi-itxaropena jaiotzean"
     }
   ]
 }

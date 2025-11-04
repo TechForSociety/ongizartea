@@ -13,18 +13,18 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Año"
+            "title": "Jahr"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Wert"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "3-2-5",
-  "title": "Gizarte-erakunderen bateko bazkide edota afiliatu diren pertsonen ehunekoa"
+  "name": "1-1-2",
+  "title": "Bizi-itxaropena jaiotzean"
 }

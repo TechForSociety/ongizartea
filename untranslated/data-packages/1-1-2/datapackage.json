@@ -12,19 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
-            "title": "Año"
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "3-2-5",
-  "title": "Gizarte-erakunderen bateko bazkide edota afiliatu diren pertsonen ehunekoa"
+  "name": "1-1-2",
+  "title": "Bizi-itxaropena jaiotzean"
 }
