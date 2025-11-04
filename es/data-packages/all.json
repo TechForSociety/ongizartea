@@ -16805,30 +16805,6 @@
       "title": "Osasuna/osasun publikoa"
     },
     {
-      "path": "1-6-3/data.csv",
-      "name": "1-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
-    },
-    {
       "path": "2-4-12/data.csv",
       "name": "2-4-12",
       "profile": "tabular-data-resource",
@@ -17309,30 +17285,6 @@
       "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
     },
     {
-      "path": "1-6-1/data.csv",
-      "name": "1-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
-    },
-    {
       "path": "2-3-3/data.csv",
       "name": "2-3-3",
       "profile": "tabular-data-resource",
@@ -17693,30 +17645,6 @@
       "title": "Gizarte-gaiak orokorrean"
     },
     {
-      "path": "1-6-4/data.csv",
-      "name": "1-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Zainketa pertsonalean emandako denborarekiko gogobetetze-maila (batez bestekoa)"
-    },
-    {
       "path": "3-2-5/data.csv",
       "name": "3-2-5",
       "profile": "tabular-data-resource",
@@ -17811,30 +17739,6 @@
         ]
       },
       "title": "Ongintzazko edo irabazi-asmorik gabeko erakunderen bati donazioak maiz egiten dizkioten biztanleen ehunekoa"
-    },
-    {
-      "path": "1-6-2/data.csv",
-      "name": "1-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
     }
   ]
 }
