@@ -16541,6 +16541,30 @@
       "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
     },
     {
+      "path": "1-2-9/data.csv",
+      "name": "1-2-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Erabilgarri dauden gelen batezbestekoa / etxebizitzan bizi diren pertsonak"
+    },
+    {
       "path": "1-1-2/data.csv",
       "name": "1-1-2",
       "profile": "tabular-data-resource",
@@ -16563,6 +16587,30 @@
         ]
       },
       "title": "Bizi-itxaropena jaiotzean"
+    },
+    {
+      "path": "1-2-8/data.csv",
+      "name": "1-2-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Etxeguneetan etxebizitzan egindako gastuen banaketa"
     },
     {
       "path": "1-1-6/data.csv",
