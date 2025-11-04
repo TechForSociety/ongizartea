@@ -16469,30 +16469,6 @@
       "title": "Politika eta Administrazio Publikoa"
     },
     {
-      "path": "2-3-26/data.csv",
-      "name": "2-3-26",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Hirigintza/azpiegiturak"
-    },
-    {
       "path": "2-4-2/data.csv",
       "name": "2-4-2",
       "profile": "tabular-data-resource",
@@ -16515,30 +16491,6 @@
         ]
       },
       "title": "ED/EE"
-    },
-    {
-      "path": "2-3-25/data.csv",
-      "name": "2-3-25",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Wert"
-          }
-        ]
-      },
-      "title": "Enplegua eta gai ekonomikoak"
     },
     {
       "path": "3-1-4/data.csv",
