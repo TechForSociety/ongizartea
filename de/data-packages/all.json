@@ -6019,7 +6019,7 @@
           }
         ]
       },
-      "title": "1-1-1"
+      "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
     },
     {
       "path": "10-3-1/data.csv",
@@ -16395,6 +16395,30 @@
         ]
       },
       "title": "5-3-1"
+    },
+    {
+      "path": "1-1-2/data.csv",
+      "name": "1-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Bizi-itxaropena jaiotzean"
     }
   ]
 }
