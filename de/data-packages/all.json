@@ -16493,6 +16493,30 @@
       "title": "Emantzipatuta dauden pertsonen banaketa (18-44 urte)"
     },
     {
+      "path": "1-2-7/data.csv",
+      "name": "1-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Wert"
+          }
+        ]
+      },
+      "title": "Alokairuan bizitzearekiko batez besteko gogobetetze-maila"
+    },
+    {
       "path": "1-1-12/data.csv",
       "name": "1-1-12",
       "profile": "tabular-data-resource",
