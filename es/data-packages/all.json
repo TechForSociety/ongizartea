@@ -752,7 +752,7 @@
           }
         ]
       },
-      "title": "Hurbileko pertsonen sarea tamaina txikikoa duten biztanleen %"
+      "title": "1-5-4"
     },
     {
       "path": "8-a-1/data.csv",
@@ -2677,7 +2677,7 @@
           }
         ]
       },
-      "title": "Sortutako eta tratatutako hondakinekiko birziklatze-tasa"
+      "title": "1-4-1"
     },
     {
       "path": "11-5-1/data.csv",
@@ -7907,7 +7907,7 @@
           }
         ]
       },
-      "title": "Pobrezia- edo bazterketa-arriskuan dauden biztanleen % (AROPE)"
+      "title": "1-5-3"
     },
     {
       "path": "16-4-2/data.csv",
@@ -10872,7 +10872,7 @@
           }
         ]
       },
-      "title": "Batez besteko pertsona-errenta 18 urte edo gehiagoko pertsonen artean"
+      "title": "1-5-1"
     },
     {
       "path": "15-b-1/data.csv",
@@ -12488,7 +12488,7 @@
           }
         ]
       },
-      "title": "Banku komertzialen sukurtsalen kopurua 100.000 biztanleko (15 urte edo gehiago)"
+      "title": "1-4-2"
     },
     {
       "path": "1-5-2/data.csv",
@@ -12524,7 +12524,7 @@
           }
         ]
       },
-      "title": "Aitortutako murriztapen ekonomikoak dituzten familien %"
+      "title": "1-5-2"
     },
     {
       "path": "16-3-1/data.csv",
@@ -16565,30 +16565,6 @@
       "title": "Zainketa pertsonalean emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
-      "path": "1-6-5/data.csv",
-      "name": "1-6-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
-    },
-    {
       "path": "1-6-8/data.csv",
       "name": "1-6-8",
       "profile": "tabular-data-resource",
@@ -16659,30 +16635,6 @@
         ]
       },
       "title": "Osasuna/osasun publikoa"
-    },
-    {
-      "path": "1-4-4/data.csv",
-      "name": "1-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Eguneko zentroen (3. adinekoak eta desgaituak) betetze-maila"
     },
     {
       "path": "2-3-12/data.csv",
@@ -16851,54 +16803,6 @@
         ]
       },
       "title": "ED/EE"
-    },
-    {
-      "path": "1-6-3/data.csv",
-      "name": "1-6-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Nahi izan gabeko bakardadea pairatzen dutela adierazten duten biztanleen %"
-    },
-    {
-      "path": "1-4-3/data.csv",
-      "name": "1-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Posta bulegoak 10.000 biztanleko"
     },
     {
       "path": "2-3-25/data.csv",
@@ -17261,54 +17165,6 @@
       "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
-      "path": "1-6-6/data.csv",
-      "name": "1-6-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
-    },
-    {
-      "path": "1-6-1/data.csv",
-      "name": "1-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Adingabeko seme-alaben zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
-    },
-    {
       "path": "2-3-17/data.csv",
       "name": "2-3-17",
       "profile": "tabular-data-resource",
@@ -17331,30 +17187,6 @@
         ]
       },
       "title": "Zahartzea eta zainketak"
-    },
-    {
-      "path": "1-5-5/data.csv",
-      "name": "1-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Mendekotasuna duten pertsonen zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
       "path": "1-8-3/data.csv",
@@ -17621,30 +17453,6 @@
       "title": "Lantokira/ikaslekura iristeko normalean 30 minutu edo gutxiago behar izaten duten pertsonen %"
     },
     {
-      "path": "1-6-4/data.csv",
-      "name": "1-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
-    },
-    {
       "path": "3-2-5/data.csv",
       "name": "3-2-5",
       "profile": "tabular-data-resource",
@@ -17763,30 +17571,6 @@
         ]
       },
       "title": "Genero berdintasunaren indizea"
-    },
-    {
-      "path": "1-6-2/data.csv",
-      "name": "1-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Lagun minik ez dutela adierazi duten biztanleen %"
     }
   ]
 }
