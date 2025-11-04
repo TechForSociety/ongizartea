@@ -15522,28 +15522,6 @@
       "title": "Etxebizitza"
     },
     {
-      "path": "2-3-5/data.csv",
-      "name": "2-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Politika eta Administrazio Publikoa"
-    },
-    {
       "path": "2-3-6/data.csv",
       "name": "2-3-6",
       "profile": "tabular-data-resource",
