@@ -15808,28 +15808,6 @@
       "title": "Baja eragindako lan-istripuak Gipuzkoan"
     },
     {
-      "path": "1-1-12/data.csv",
-      "name": "1-1-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
-    },
-    {
       "path": "1-2-9/data.csv",
       "name": "1-2-9",
       "profile": "tabular-data-resource",
@@ -15872,28 +15850,6 @@
         ]
       },
       "title": "Hezkuntza"
-    },
-    {
-      "path": "1-1-2/data.csv",
-      "name": "1-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Bizi-itxaropena jaiotzean"
     },
     {
       "path": "2-3-7/data.csv",
@@ -16598,28 +16554,6 @@
         ]
       },
       "title": "Osasun ona edo oso ona dutela nabaritzen duten biztanleen banaketa"
-    },
-    {
-      "path": "1-1-11/data.csv",
-      "name": "1-1-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Jarduera fisiko osasungarria egiten duten biztanleen banaketa"
     },
     {
       "path": "1-9-2/data.csv",
