@@ -15148,50 +15148,6 @@
       "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
-      "path": "1-6-7/data.csv",
-      "name": "1-6-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Gipuzkoako etxeguneek aisialdi eta kulturan egindako urteroko gastuaren %"
-    },
-    {
-      "path": "1-6-8/data.csv",
-      "name": "1-6-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Gipuzkoako etxeguneek jatetxe eta hoteletan egindako urteroko gastuaren %"
-    },
-    {
       "path": "2-4-11/data.csv",
       "name": "2-4-11",
       "profile": "tabular-data-resource",
@@ -15982,28 +15938,6 @@
         ]
       },
       "title": "Etxebizitza"
-    },
-    {
-      "path": "1-7-1/data.csv",
-      "name": "1-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Gehienez Bigarren Hezkuntzako behe-mailako ikasketak (DBH edo gutxiago) dituzten 25-64 urteko biztanleen %"
     },
     {
       "path": "2-3-5/data.csv",
