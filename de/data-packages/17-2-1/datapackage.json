@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Verhältnis der öffentlichen Nettoentwicklungsausgaben (ODA) zum BNE",
-                "Verhältnis der bilateralen sowie kalkulatorischen multilateralen öffentlichen Nettoentwicklungsausgaben (ODA) für die am wenigsten entwickelten Länder (LDCs) zum Bruttonationaleinkommen (BNE)",
+                "proportion of oda (net disbursements) to gni",
+                "proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni)",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

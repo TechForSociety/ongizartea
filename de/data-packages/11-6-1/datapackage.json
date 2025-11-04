@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
-                "1 000 Tonnen",
+                "percentage",
+                "1,000 tonnes",
                 ""
               ]
             },
@@ -63,17 +63,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden",
-                "Siedlungsabfälle insgesamt",
+                "municipal solid waste regularly collected and treated",
+                "municipal solid waste in total",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

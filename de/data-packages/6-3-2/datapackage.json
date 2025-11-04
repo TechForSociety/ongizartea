@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fließgewässer mit gutem ökologischem Zustand für Gesamt-Phosphor",
-                "Grundwassermessstellen unterhalb des Schwellenwertes für Nitrat",
+                "flowing water with good ecological status for total phosphorous",
+                "groundwater mesuring points below the threshold value for nitrate",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -60,7 +60,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

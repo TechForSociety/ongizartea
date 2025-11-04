@@ -20,25 +20,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eigene und gepachtete landwirtschaftlich genutzte Flächen",
-                "Weibliche Inhaber landwirtschaftlicher Betriebe der Rechtsform Einzelunternehmen",
-                "Landwirtschaftliche Betriebe der Rechtsform Einzelunternehmen",
+                "owned and leased agricultural land",
+                "female owners of agricultural holdings with the legal form of a sole proprietorship",
+                "agricultural holdings with the legal form of a sole proprietorship",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "ownership",
             "type": "string",
             "constraints": {
               "enum": [
-                "Eigentum",
-                "Pacht",
+                "property",
+                "leasehold",
                 ""
               ]
             },
-            "title": "Eigentumsverhältnis"
+            "title": "ownership"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -74,7 +74,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

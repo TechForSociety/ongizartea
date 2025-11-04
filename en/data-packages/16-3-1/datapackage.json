@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reporting rate for physical assault",
-                "Reporting rate for robbery",
+                "reporting rate for physical assault",
+                "reporting rate for robbery",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age group",
@@ -54,7 +54,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "COMMENT_OBS_0",

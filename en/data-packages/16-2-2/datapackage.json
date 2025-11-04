@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 inhabitants",
-                "Number",
+                "per 100,000 inhabitants",
+                "number",
                 ""
               ]
             },
@@ -37,36 +37,36 @@
                 "18 to under 21 years",
                 "21 to under 25 years",
                 "25 years and older",
-                "Unknown age",
+                "unknown age",
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
-                "Unknown",
+                "female",
+                "male",
+                "unknown",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "form of exploitation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Labour exploitation",
-                "Sexual exploitation",
+                "labour exploitation",
+                "sexual exploitation",
                 ""
               ]
             },
-            "title": "Form of exploitation"
+            "title": "form of exploitation"
           },
           {
             "name": "COMMENT_OBS_0",

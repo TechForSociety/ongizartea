@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Micrograms per m³",
-                "Million inhabitants",
+                "micrograms per m³",
+                "million inhabitants",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PM₁₀",
-                "PM₂.₅",
+                "pm10",
+                "pm2.5",
                 ""
               ]
             },
-            "title": "Fine particulate matter"
+            "title": "fine particulate matter"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -75,12 +75,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population weighted annual mean levels of fine particulate matter",
-                "Population with excessive exposure to fine particulate matter",
+                "population weighted annual mean levels of fine particulate matter",
+                "population with excessive exposure to fine particulate matter",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

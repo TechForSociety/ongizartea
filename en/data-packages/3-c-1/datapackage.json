@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pharmacists",
-                "Medical doctors",
-                "Nursing and midwifery personnel",
-                "Dentists",
+                "pharmacists",
+                "medical doctors",
+                "nursing and midwifery personnel",
+                "dentists",
                 ""
               ]
             },
-            "title": "Profession"
+            "title": "profession"
           },
           {
             "name": "COMMENT_OBS_0",

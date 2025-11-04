@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
-                "Anzahl",
+                "percentage",
+                "number",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "14 Jahre und jünger",
-                "17 Jahre und jünger",
+                "14 years and younger",
+                "17 years and younger",
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age group"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -74,7 +74,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

@@ -20,13 +20,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
-                "Gini coefficient of equivalised disposable income (post-fiscal)",
-                "Redistributive impact of fiscal policy",
+                "gini coefficient of equivalised disposable income before social transfers (pre-fiscal)",
+                "gini coefficient of equivalised disposable income (post-fiscal)",
+                "redistributive impact of fiscal policy",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",

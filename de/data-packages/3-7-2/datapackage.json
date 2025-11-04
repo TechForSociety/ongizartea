@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10 bis unter 15 Jahre",
-                "15 bis unter 20 Jahre",
+                "10 to under 15 years",
+                "15 to under 20 years",
                 ""
               ]
             },
-            "title": "Alter der Mutter"
+            "title": "age of mother"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -60,7 +60,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

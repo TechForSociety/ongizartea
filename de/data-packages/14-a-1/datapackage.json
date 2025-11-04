@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
-                "Prozent",
+                "million eur",
+                "percentage",
                 ""
               ]
             },
@@ -60,7 +60,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

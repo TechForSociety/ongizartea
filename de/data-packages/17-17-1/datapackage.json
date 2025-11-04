@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen EUR",
-                "Millionen USD, konstante Preise (2022)",
+                "million eur",
+                "million usd, constant prices (2022)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zusagen (ODA)",
-                "Bruttoentwicklungsausgaben (ODA)",
+                "commitments (oda)",
+                "gross disbursements (oda)",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -74,7 +74,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

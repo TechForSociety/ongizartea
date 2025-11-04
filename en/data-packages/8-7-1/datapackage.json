@@ -25,19 +25,19 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",

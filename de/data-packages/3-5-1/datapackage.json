@@ -20,37 +20,37 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Drogen",
-                "Alkohol und andere psychoaktive Substanzen",
+                "drugs",
+                "alcohol and other psychoactive substances",
                 ""
               ]
             },
-            "title": "Substanz"
+            "title": "substance"
           },
           {
             "name": "bound",
             "type": "string",
             "constraints": {
               "enum": [
-                "Obere Grenze",
-                "Untere Grenze",
+                "upper bound",
+                "lower bound",
                 ""
               ]
             },
-            "title": "Grenze"
+            "title": "bound"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
-                "Unbekannt",
+                "female",
+                "male",
+                "unknown",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -91,17 +91,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Stationäre Behandlung bei Störungen durch Substanzgebrauch",
-                "Schätzung des riskanten Konsums (auf Basis von Zugängen zu Behandlung) der Substanzen Opioide, Kokain und anderer Stimulanzien im Alter von 15 bis unter 65 Jahren",
+                "inpatient treatment of substance use disorders",
+                "estimate of high risk use (based on treatment entrants) of the substances opioids, cocaine, and other stimulants in the age group 15 to under 65 years",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

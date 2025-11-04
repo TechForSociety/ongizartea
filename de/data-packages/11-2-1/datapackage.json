@@ -20,38 +20,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erreichbarkeit innerhalb von 500 m",
-                "Erreichbarkeit innerhalb von 10 Minuten zu Fuß",
+                "accessibility within 500 m",
+                "accessibility within 10 minutes on foot",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "time series"
           },
           {
             "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bayern",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hessen",
-                "Mecklenburg-Vorpommern",
-                "Niedersachsen",
-                "Nordrhein-Westfalen",
-                "Rheinland-Pfalz",
-                "Saarland",
-                "Sachsen",
-                "Sachsen-Anhalt",
-                "Schleswig-Holstein",
-                "Thüringen",
+                "baden-württemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "länder"
           },
           {
             "name": "GeoCode",
@@ -63,38 +63,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Menschen mit Mobilitätseinschränkung",
+                "mobility impaired people",
                 ""
               ]
             },
-            "title": "Behinderungsstatus"
+            "title": "disability status"
           },
           {
             "name": "age group",
             "type": "string",
             "constraints": {
               "enum": [
-                "17 Jahre und jünger",
-                "18 bis unter 30 Jahre",
-                "30 bis unter 45 Jahre",
-                "45 bis unter 65 Jahre",
-                "65 Jahre und älter",
+                "17 years and younger",
+                "18 to under 30 years",
+                "30 to under 45 years",
+                "45 to under 65 years",
+                "65 years and older",
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age group"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -131,7 +131,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

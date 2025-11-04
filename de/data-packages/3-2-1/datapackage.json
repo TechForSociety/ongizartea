@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "11 Monate und jünger",
-                "4 Jahre und jünger",
+                "11 months and younger",
+                "4 years and younger",
                 ""
               ]
             },
-            "title": "Altersklasse"
+            "title": "age group"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -60,7 +60,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

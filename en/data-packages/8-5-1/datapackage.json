@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EUR per hour",
-                "Percentage",
+                "eur per hour",
+                "percentage",
                 ""
               ]
             },
@@ -32,38 +32,38 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "länder",
             "type": "string",
             "constraints": {
               "enum": [
-                "Baden-Württemberg",
-                "Bavaria",
-                "Berlin",
-                "Brandenburg",
-                "Bremen",
-                "Hamburg",
-                "Hesse",
-                "Mecklenburg Western Pomerania",
-                "Lower Saxony",
-                "North Rhine-Westphalia",
-                "Rhineland Palatinate",
-                "Saarland",
-                "Saxony",
-                "Saxony-Anhalt",
-                "Schleswig-Holstein",
-                "Thuringia",
+                "baden-württemberg",
+                "bavaria",
+                "berlin",
+                "brandenburg",
+                "bremen",
+                "hamburg",
+                "hesse",
+                "mecklenburg western pomerania",
+                "lower saxony",
+                "north rhine-westphalia",
+                "rhineland palatinate",
+                "saarland",
+                "saxony",
+                "saxony-anhalt",
+                "schleswig-holstein",
+                "thuringia",
                 ""
               ]
             },
-            "title": "Länder"
+            "title": "länder"
           },
           {
             "name": "GeoCode",
@@ -106,12 +106,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Average hourly earnings of employees",
-                "Gender Pay Gap",
+                "average hourly earnings of employees",
+                "gender pay gap",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

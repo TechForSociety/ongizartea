@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "b) Am Ende der Grundschule",
-                "c) Am Ende der Sekundarstufe I",
+                "b) at the end of primary education",
+                "c) at the end of lower secondary education",
                 ""
               ]
             },
-            "title": "Bildungsstand"
+            "title": "educational level"
           },
           {
             "name": "subject",
             "type": "string",
             "constraints": {
               "enum": [
-                "Lesen",
-                "Mathematik",
+                "reading",
+                "mathematics",
                 ""
               ]
             },
-            "title": "Schulfach"
+            "title": "subject"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -74,7 +74,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

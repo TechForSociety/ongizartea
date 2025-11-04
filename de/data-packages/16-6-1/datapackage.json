@@ -20,19 +20,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Allgemeine Dienste",
-                "Bildungswesen, Wissenschaft, Forschung, kulturelle Angelegenheiten",
-                "Energie- und Wasserwirtschaft, Gewerbe, Dienstleistungen",
-                "Ernährung, Landwirtschaft und Forsten",
-                "Finanzwirtschaft",
-                "Gesundheit, Umwelt, Sport und Erholung",
-                "Soziale Sicherung, Familie und Jugend, Arbeitsmarktpolitik",
-                "Verkehrs- und Nachrichtenwesen",
-                "Wohnungswesen, Städtebau, Raumordnung und kommunale Gemeinschaftsdienste",
+                "general services",
+                "education, science, research, cultural affairs",
+                "energy and water management, trade, services",
+                "food, agriculture and forestry",
+                "financial services",
+                "health, environment, sport and recreation",
+                "social security, family and youth, labour market policy",
+                "transport and communications",
+                "housing, urban development, regional planning and municipal community services",
                 ""
               ]
             },
-            "title": "Sektor"
+            "title": "sector"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -68,7 +68,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

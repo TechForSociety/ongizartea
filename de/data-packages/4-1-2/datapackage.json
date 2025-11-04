@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sekundarstufe I (ISCED-Stufe 2)",
-                "Sekundarstufe II (ISCED-Stufe 3)",
+                "lower secondary education (isced level 2)",
+                "upper secondary education (isced level 3)",
                 ""
               ]
             },
-            "title": "Bildungsstand"
+            "title": "educational level"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Weiblich",
-                "Männlich",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -75,7 +75,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

@@ -33,12 +33,12 @@
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "Value",
             "type": "string",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

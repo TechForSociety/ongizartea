@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung mit Krankenversicherungsschutz",
-                "Arbeitslose Leistungsbezieher",
+                "population covered by health insurance",
+                "unemployed persons with unemployment benefits",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

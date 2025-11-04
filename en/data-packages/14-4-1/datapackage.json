@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Greater North Sea",
-                "Baltic sea",
+                "greater north sea",
+                "baltic sea",
                 ""
               ]
             },
-            "title": "Sea"
+            "title": "sea"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,12 +62,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sustainably managed fish stocks in the North and Baltic Seas on all MSY examined stocks",
-                "MSY examined fish stocks in all managed stocks",
+                "sustainably managed fish stocks in the north and baltic seas on all msy examined stocks",
+                "msy examined fish stocks in all managed stocks",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

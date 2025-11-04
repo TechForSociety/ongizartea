@@ -20,18 +20,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Copying or moving of files and folders",
-                "Using copy or cut and paste tools to duplicate or move information on screen",
-                "Writing code in a programming language",
-                "Connecting and installing new devices, eg a printer or a modem",
-                "Transferring files between computer and other devices",
-                "Installing software or apps",
-                "Creating electronic presentations with presentation software, including e.g. images, sound, video or charts",
-                "Using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
+                "copying or moving of files and folders",
+                "using copy or cut and paste tools to duplicate or move information on screen",
+                "writing code in a programming language",
+                "connecting and installing new devices, eg a printer or a modem",
+                "transferring files between computer and other devices",
+                "installing software or apps",
+                "creating electronic presentations with presentation software, including e.g. images, sound, video or charts",
+                "using spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts",
                 ""
               ]
             },
-            "title": "Type of ICT competence"
+            "title": "type of ict competence"
           },
           {
             "name": "age group",
@@ -44,7 +44,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "COMMENT_OBS_0",

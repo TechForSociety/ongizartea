@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million EUR",
-                "Million USD, constant prices (2023)",
+                "million eur",
+                "million usd, constant prices (2023)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Water and sanitation",
-                "Other related purposes",
+                "water and sanitation",
+                "other related purposes",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",

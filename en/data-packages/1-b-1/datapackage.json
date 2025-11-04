@@ -52,12 +52,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "At-risk-of-poverty rate",
-                "Government expenditure on social protection",
+                "at-risk-of-poverty rate",
+                "government expenditure on social protection",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

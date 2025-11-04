@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ja=1, nein=0",
-                "Prozent",
+                "yes=1, no=0",
+                "percentage",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren",
-                "Registrierung der Geburten",
-                "Registrierung der Sterbefälle",
+                "at least one population and housing census in the last 10 years conducted",
+                "birth registration",
+                "death registration",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -74,7 +74,7 @@
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

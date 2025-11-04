@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
-                "1 000 Tonnen",
+                "percentage",
+                "1,000 tonnes",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Siedlungsabfälle insgesamt",
-                "Abfallaufkommen insgesamt",
+                "municipal waste",
+                "total waste",
                 ""
               ]
             },
-            "title": "Abfallart"
+            "title": "type of waste"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -74,17 +74,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nationale Recyclingquote",
-                "Stoffliche Verwertung",
+                "national recycling rate",
+                "material recovery",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

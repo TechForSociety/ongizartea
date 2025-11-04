@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basel Convention",
-                "Montreal Protocol",
-                "Rotterdam Convention",
-                "Stockholm Convention",
-                "Minamata Convention",
+                "basel convention",
+                "montreal protocol",
+                "rotterdam convention",
+                "stockholm convention",
+                "minamata convention",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",

@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "form of abuse",
             "type": "string",
             "constraints": {
               "enum": [
-                "Physical abuse",
-                "Psychological abuse",
+                "physical abuse",
+                "psychological abuse",
                 ""
               ]
             },
-            "title": "Form of abuse"
+            "title": "form of abuse"
           },
           {
             "name": "COMMENT_OBS_0",

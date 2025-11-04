@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "percentage",
+                "number",
                 ""
               ]
             },
@@ -32,26 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Population who were exposed to physical violence",
-                "Population who were victims of criminal offences",
-                "Victims of criminal offences",
-                "Population who were exposed to sexual violence",
+                "population who were exposed to physical violence",
+                "population who were victims of criminal offences",
+                "victims of criminal offences",
+                "population who were exposed to sexual violence",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "age group",
@@ -73,7 +73,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "COMMENT_OBS_0",

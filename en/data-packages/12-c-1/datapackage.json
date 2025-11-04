@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million EUR",
-                "Percent of GDP",
+                "million eur",
+                "percent of gdp",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Tax breaks",
-                "Direct transfers of funds",
+                "total",
+                "tax breaks",
+                "direct transfers of funds",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",

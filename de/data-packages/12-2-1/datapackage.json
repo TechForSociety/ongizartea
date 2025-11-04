@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Millionen Tonnen",
-                "Tonnen pro Kopf",
+                "million tonnes",
+                "tonnes per capita",
                 "2020 = 100",
                 ""
               ]
@@ -65,17 +65,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC)",
-                "Inländische Rohstoffverwendung pro realem BIP",
+                "raw material consumption (rmc)",
+                "raw material consumption per real gdp",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

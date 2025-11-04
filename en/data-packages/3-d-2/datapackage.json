@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Escherichia coli, 3GCR",
-                "Staphylococcus aureus, MR",
+                "escherichia coli, 3gcr",
+                "staphylococcus aureus, mr",
                 ""
               ]
             },
-            "title": "Pathogens and resistance"
+            "title": "pathogens and resistance"
           },
           {
             "name": "COMMENT_OBS_0",

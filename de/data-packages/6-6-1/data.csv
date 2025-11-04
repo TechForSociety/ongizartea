@@ -1,25 +1,25 @@
-Year,Units,Ökosystem,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
-2018,Prozent,Permanente Wasserfläche der Seen und Flüsse,,,,Veränderung der Fläche im Vergleich zu 2015,0.72
-2021,Prozent,Permanente Wasserfläche der Seen und Flüsse,,,,Veränderung der Fläche im Vergleich zu 2015,0.84
-2018,Prozent,Feuchtgebiete,,,,Veränderung der Fläche im Vergleich zu 2015,0.85
-2021,Prozent,Feuchtgebiete,,,,Veränderung der Fläche im Vergleich zu 2015,1.93
-2018,Prozent,Künstliche oder erheblich veränderte große Seen,,,,Veränderung der Fläche im Vergleich zu 2015,-1.38
-2021,Prozent,Künstliche oder erheblich veränderte große Seen,,,,Veränderung der Fläche im Vergleich zu 2015,2.79
-2015,km²,Permanente Wasserfläche der Seen und Flüsse,,,,Fläche,5446.0
-2018,km²,Permanente Wasserfläche der Seen und Flüsse,,,,Fläche,5485.0
-2021,km²,Permanente Wasserfläche der Seen und Flüsse,,,,Fläche,5491.0
-2015,km²,Feuchtgebiete,,,,Fläche,1568.0
-2018,km²,Feuchtgebiete,,,,Fläche,1581.0
-2021,km²,Feuchtgebiete,,,,Fläche,1598.0
-2015,km²,Künstliche oder erheblich veränderte große Seen,,,,Fläche,637.0
-2018,km²,Künstliche oder erheblich veränderte große Seen,,,,Fläche,628.0
-2021,km²,Künstliche oder erheblich veränderte große Seen,,,,Fläche,655.0
-2015,Prozent,Permanente Wasserfläche der Seen und Flüsse,,,,Fläche im Verhältnis zur gesamten Landfläche,1.52
-2018,Prozent,Permanente Wasserfläche der Seen und Flüsse,,,,Fläche im Verhältnis zur gesamten Landfläche,1.53
-2021,Prozent,Permanente Wasserfläche der Seen und Flüsse,,,,Fläche im Verhältnis zur gesamten Landfläche,1.54
-2015,Prozent,Feuchtgebiete,,,,Fläche im Verhältnis zur gesamten Landfläche,0.44
-2018,Prozent,Feuchtgebiete,,,,Fläche im Verhältnis zur gesamten Landfläche,0.44
-2021,Prozent,Feuchtgebiete,,,,Fläche im Verhältnis zur gesamten Landfläche,0.45
-2015,Prozent,Künstliche oder erheblich veränderte große Seen,,,,Fläche im Verhältnis zur gesamten Landfläche,0.18
-2018,Prozent,Künstliche oder erheblich veränderte große Seen,,,,Fläche im Verhältnis zur gesamten Landfläche,0.18
-2021,Prozent,Künstliche oder erheblich veränderte große Seen,,,,Fläche im Verhältnis zur gesamten Landfläche,0.18
+Year,Units,ecosystem,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Series,Value
+2018,percentage,lakes and rivers permanent water area,,,,area change in comparison to 2015,0.72
+2021,percentage,lakes and rivers permanent water area,,,,area change in comparison to 2015,0.84
+2018,percentage,wetlands area,,,,area change in comparison to 2015,0.85
+2021,percentage,wetlands area,,,,area change in comparison to 2015,1.93
+2018,percentage,large artificial or heavily modified lakes,,,,area change in comparison to 2015,-1.38
+2021,percentage,large artificial or heavily modified lakes,,,,area change in comparison to 2015,2.79
+2015,km²,lakes and rivers permanent water area,,,,area,5446.0
+2018,km²,lakes and rivers permanent water area,,,,area,5485.0
+2021,km²,lakes and rivers permanent water area,,,,area,5491.0
+2015,km²,wetlands area,,,,area,1568.0
+2018,km²,wetlands area,,,,area,1581.0
+2021,km²,wetlands area,,,,area,1598.0
+2015,km²,large artificial or heavily modified lakes,,,,area,637.0
+2018,km²,large artificial or heavily modified lakes,,,,area,628.0
+2021,km²,large artificial or heavily modified lakes,,,,area,655.0
+2015,percentage,lakes and rivers permanent water area,,,,area as a proportion of total land area,1.52
+2018,percentage,lakes and rivers permanent water area,,,,area as a proportion of total land area,1.53
+2021,percentage,lakes and rivers permanent water area,,,,area as a proportion of total land area,1.54
+2015,percentage,wetlands area,,,,area as a proportion of total land area,0.44
+2018,percentage,wetlands area,,,,area as a proportion of total land area,0.44
+2021,percentage,wetlands area,,,,area as a proportion of total land area,0.45
+2015,percentage,large artificial or heavily modified lakes,,,,area as a proportion of total land area,0.18
+2018,percentage,large artificial or heavily modified lakes,,,,area as a proportion of total land area,0.18
+2021,percentage,large artificial or heavily modified lakes,,,,area as a proportion of total land area,0.18

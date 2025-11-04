@@ -52,12 +52,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Private households with at least one mobile phone",
-                "Mobile penetration rate",
+                "private households with at least one mobile phone",
+                "mobile penetration rate",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "Series"
           },
           {
             "name": "Value",

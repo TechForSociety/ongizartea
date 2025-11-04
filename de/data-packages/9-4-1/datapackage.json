@@ -52,17 +52,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CO₂-Emissionen zum realen BIP",
-                "CO₂-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe",
+                "co₂ emissions per real gdp",
+                "co₂ emissions per gross value added (price adjusted) in manufacturing industries",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

@@ -1,4 +1,4 @@
-Year,Speed,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
+Year,speed,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2010,,,,,32.6
 2011,,,,,33.9
 2012,,,,,34.7
@@ -14,21 +14,21 @@ Year,Speed,COMMENT_OBS_0,COMMENT_OBS_1,COMMENT_OBS_2,Value
 2022,,,,,44.5
 2023,,,,,45.3
 2024,,,,,46.1
-2010,a) Over 144 kbps to under 2 mbps,,,,4.2
-2011,a) Over 144 kbps to under 2 mbps,,,,4.1
-2012,a) Over 144 kbps to under 2 mbps,,,,2.6
-2013,a) Over 144 kbps to under 2 mbps,,,,1.9
-2014,a) Over 144 kbps to under 2 mbps,,,,1.6
-2015,a) Over 144 kbps to under 2 mbps,,,,1.2
-2016,a) Over 144 kbps to under 2 mbps,,,,0.8
-2017,a) Over 144 kbps to under 2 mbps,,,,0.4
-2018,a) Over 144 kbps to under 2 mbps,r,,,0.4
-2019,a) Over 144 kbps to under 2 mbps,,,,0.2
-2020,a) Over 144 kbps to under 2 mbps,,,,0.3
-2021,a) Over 144 kbps to under 2 mbps,,,,0.2
-2022,a) Over 144 kbps to under 2 mbps,,,,0.4
-2023,a) Over 144 kbps to under 2 mbps,,,,0.2
-2024,a) Over 144 kbps to under 2 mbps,,,,0.2
+2010,a) over 144 kbps to under 2 mbps,,,,4.2
+2011,a) over 144 kbps to under 2 mbps,,,,4.1
+2012,a) over 144 kbps to under 2 mbps,,,,2.6
+2013,a) over 144 kbps to under 2 mbps,,,,1.9
+2014,a) over 144 kbps to under 2 mbps,,,,1.6
+2015,a) over 144 kbps to under 2 mbps,,,,1.2
+2016,a) over 144 kbps to under 2 mbps,,,,0.8
+2017,a) over 144 kbps to under 2 mbps,,,,0.4
+2018,a) over 144 kbps to under 2 mbps,r,,,0.4
+2019,a) over 144 kbps to under 2 mbps,,,,0.2
+2020,a) over 144 kbps to under 2 mbps,,,,0.3
+2021,a) over 144 kbps to under 2 mbps,,,,0.2
+2022,a) over 144 kbps to under 2 mbps,,,,0.4
+2023,a) over 144 kbps to under 2 mbps,,,,0.2
+2024,a) over 144 kbps to under 2 mbps,,,,0.2
 2010,b) 2 mbps to under 10 mbps,,,,18.5
 2011,b) 2 mbps to under 10 mbps,,,,19.2
 2012,b) 2 mbps to under 10 mbps,,,,18.5

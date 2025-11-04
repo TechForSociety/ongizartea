@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nordsee",
-                "Ostsee",
+                "greater north sea",
+                "baltic sea",
                 ""
               ]
             },
-            "title": "Meer"
+            "title": "sea"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,17 +62,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nachhaltig befischte Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen",
-                "MSY-untersuchte Fischbestände an allen bewirtschafteten Beständen",
+                "sustainably managed fish stocks in the north and baltic seas on all msy examined stocks",
+                "msy examined fish stocks in all managed stocks",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "a) Herz-Kreislauferkrankungen",
-                "b) Bösartige Neubildungen",
-                "c) Diabetes mellitus",
-                "d) Chronische Atemwegserkrankungen",
+                "a) cardiovascular disease",
+                "b) cancer",
+                "c) diabetes mellitus",
+                "d) chronic respiratory disease",
                 ""
               ]
             },
-            "title": "Erkrankung"
+            "title": "disease"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -62,7 +62,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

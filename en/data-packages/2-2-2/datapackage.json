@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overweight",
-                "Wasting",
+                "overweight",
+                "wasting",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",

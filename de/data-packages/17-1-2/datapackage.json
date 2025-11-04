@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Steuern",
-                "Steuern und Sozialversicherungsausgaben",
+                "national taxes",
+                "national taxes and insurance contributions",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -61,7 +61,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

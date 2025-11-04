@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
-                "Number",
+                "percentage",
+                "number",
                 ""
               ]
             },
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "age group"
           },
           {
             "name": "COMMENT_OBS_0",

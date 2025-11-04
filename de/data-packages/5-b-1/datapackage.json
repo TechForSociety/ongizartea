@@ -52,17 +52,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Privathaushalte mit mindestens einem Mobiltelefon",
-                "Penetrationsrate Mobilfunk",
+                "private households with at least one mobile phone",
+                "mobile penetration rate",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "Series"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

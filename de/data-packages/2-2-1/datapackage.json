@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Männlich",
-                "Weiblich",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -60,7 +60,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

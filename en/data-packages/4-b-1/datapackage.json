@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million EUR",
-                "Million USD, constant prices (2023)",
+                "million eur",
+                "million usd, constant prices (2023)",
                 ""
               ]
             },
@@ -32,12 +32,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Scholarships",
-                "Imputed student costs",
+                "scholarships",
+                "imputed student costs",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "time series"
           },
           {
             "name": "COMMENT_OBS_0",

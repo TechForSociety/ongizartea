@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
-                "Hektar",
+                "percentage",
+                "hectare",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Schlüsselgebiete der biologischen Vielfalt in Gebirgen, die unter Schutz stehen",
-                "Flächen in Gebirgen, die unter Schutz stehen",
-                "Flächen in Gebirgen, die unter effektivem Schutz stehen",
+                "mountain key biodiversity areas (kbas) covered by protected areas",
+                "mountain regions, covered by protected areas",
+                "mountain regions, covered by effective protected areas",
                 ""
               ]
             },
-            "title": "Zeitreihe"
+            "title": "timeseries"
           },
           {
             "name": "COMMENT_OBS_0",
@@ -73,7 +73,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Wert"
+            "title": "Value"
           }
         ]
       }

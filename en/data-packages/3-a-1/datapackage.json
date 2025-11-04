@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Current tobacco use",
-                "Current tobacco use (age-standardised to WHO Standard Population)",
+                "current tobacco use",
+                "current tobacco use (age-standardised to who standard population)",
                 ""
               ]
             },
-            "title": "Time series"
+            "title": "timeseries"
           },
           {
             "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "female",
+                "male",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "sex"
           },
           {
             "name": "COMMENT_OBS_0",
