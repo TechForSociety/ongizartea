@@ -1276,7 +1276,7 @@
           }
         ]
       },
-      "title": "Hauteskundeetan parte-hartze handia duten biztanleen ehunekoa"
+      "title": "3-3-1"
     },
     {
       "path": "8-10-2/data.csv",
@@ -3338,7 +3338,7 @@
           }
         ]
       },
-      "title": "Biztanle euskaldunen ehunekoa"
+      "title": "3-4-1"
     },
     {
       "path": "9-2-2/data.csv",
@@ -5376,7 +5376,7 @@
           }
         ]
       },
-      "title": "Parte-hartze sozial eta politiko handia duten biztanleen ehunekoa"
+      "title": "3-3-2"
     },
     {
       "path": "1-2-2/data.csv",
@@ -10019,7 +10019,7 @@
           }
         ]
       },
-      "title": "Legegintza- eta gobernu-erakundeetan emakumeek betetako karguen proportzioa"
+      "title": "3-3-3"
     },
     {
       "path": "16-2-3/data.csv",
@@ -13498,7 +13498,7 @@
           }
         ]
       },
-      "title": "Euskara erabiltzen dutela adierazten duten pertsonen ehunekoa"
+      "title": "3-4-2"
     },
     {
       "path": "8-2-1/data.csv",
@@ -16467,30 +16467,6 @@
         ]
       },
       "title": "Ezkutuko Enpresa Txapeldun kopurua (INML)"
-    },
-    {
-      "path": "3-4-3/data.csv",
-      "name": "3-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
     },
     {
       "path": "3-5-7/data.csv",
