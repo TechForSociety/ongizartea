@@ -67,7 +67,7 @@
           }
         ]
       },
-      "title": "Hezkuntza"
+      "title": "3-1-2"
     },
     {
       "path": "11-3-1/data.csv",
@@ -7113,7 +7113,7 @@
           }
         ]
       },
-      "title": "Enplegua eta gai ekonomikoak"
+      "title": "2-4-1"
     },
     {
       "path": "10-7-2/data.csv",
@@ -15066,7 +15066,7 @@
           }
         ]
       },
-      "title": "Nortasuna"
+      "title": "3-1-1"
     },
     {
       "path": "6-a-1/data.csv",
@@ -16421,78 +16421,6 @@
       "title": "Azken 12 hilabeteetan diskriminazio motaren bat pairatu dutela adierazi duten helduen ehunekoa"
     },
     {
-      "path": "2-3-28/data.csv",
-      "name": "2-3-28",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gizarte-gaiak orokorrean"
-    },
-    {
-      "path": "2-3-27/data.csv",
-      "name": "2-3-27",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Politika eta Administrazio Publikoa"
-    },
-    {
-      "path": "2-4-2/data.csv",
-      "name": "2-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "ED/EE"
-    },
-    {
       "path": "3-1-4/data.csv",
       "name": "3-1-4",
       "profile": "tabular-data-resource",
@@ -16517,54 +16445,6 @@
       "title": "Beren identitatea (generoa, jatorria, ideologia, erlijioa, etab.) askatasunez adierazten dutela dioten helduen ehunekoa Gipuzkoan"
     },
     {
-      "path": "2-3-9/data.csv",
-      "name": "2-3-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Etxebizitza"
-    },
-    {
-      "path": "2-3-7/data.csv",
-      "name": "2-3-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Foru Gobernuaren informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
-    },
-    {
       "path": "3-1-3/data.csv",
       "name": "3-1-3",
       "profile": "tabular-data-resource",
@@ -16587,30 +16467,6 @@
         ]
       },
       "title": "Jasangarritasuna"
-    },
-    {
-      "path": "2-3-8/data.csv",
-      "name": "2-3-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
       "path": "3-1-6/data.csv",
@@ -16659,30 +16515,6 @@
         ]
       },
       "title": "Gizarte-erakunderen bateko bazkide edota afiliatu diren pertsonen ehunekoa"
-    },
-    {
-      "path": "2-3-29/data.csv",
-      "name": "2-3-29",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Migrazio-politika"
     },
     {
       "path": "3-2-4/data.csv",
