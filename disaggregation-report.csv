@@ -1,11 +1,11 @@
 Disaggregation,Number of indicators,Number of values
-age group,13,28
+age group,10,22
 age of mother,1,2
 area of law,1,4
 area2,1,4
 availability,1,2
 bound,1,2
-COMMENT_OBS_0,101,9
+COMMENT_OBS_0,96,9
 COMMENT_OBS_1,3,3
 completeness of disaggregation,1,3
 conversion,1,2
@@ -15,13 +15,10 @@ economic activity,2,5
 ecosystem,1,3
 educational level,2,4
 enterprise definition,1,2
-feelings of insecurity,1,4
 fields of work,1,4
-form of abuse,1,2
-form of exploitation,1,2
 goal,1,13
 grade,1,4
-Group,19,2
+Group,17,2
 indicator,1,5
 level of court,1,3
 level of proficiency,1,2
@@ -37,7 +34,7 @@ profession,1,4
 proportion of household expenditures on health,1,2
 section,1,5
 sector,2,11
-sex,24,4
+sex,20,4
 skill,1,2
 speed,1,5
 subject,1,2
@@ -46,7 +43,7 @@ technology sectors,1,2
 technology,1,3
 thematic area,1,4
 time series,10,14
-timeseries,17,55
+timeseries,16,51
 treatment,1,2
 type of account,1,2
 type of ict competence,1,8
