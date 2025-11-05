@@ -8771,33 +8771,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -11544,6 +11517,28 @@
         ]
       },
       "title": "17-15-1"
+    },
+    {
+      "path": "2-3-8/data.csv",
+      "name": "2-3-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
       "path": "15-3-1/data.csv",
@@ -16128,28 +16123,6 @@
         ]
       },
       "title": "Jasangarritasuna"
-    },
-    {
-      "path": "2-3-8/data.csv",
-      "name": "2-3-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
       "path": "3-4-3/data.csv",
