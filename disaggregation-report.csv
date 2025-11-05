@@ -5,7 +5,7 @@ area of law,1,4
 area2,1,4
 availability,1,2
 bound,1,2
-COMMENT_OBS_0,64,9
+COMMENT_OBS_0,62,9
 COMMENT_OBS_1,3,3
 conversion,1,2
 degree of urbanisation,1,2
@@ -26,7 +26,7 @@ political institution,1,4
 profession,1,4
 proportion of household expenditures on health,1,2
 section,1,5
-sex,15,3
+sex,14,3
 skill,1,2
 subject,1,2
 substance,1,2
