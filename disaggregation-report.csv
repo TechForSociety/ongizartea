@@ -2,7 +2,6 @@ Disaggregation,Number of indicators,Number of values
 age group,2,4
 COMMENT_OBS_0,27,8
 COMMENT_OBS_1,2,2
-ecosystem,1,3
 enterprise definition,1,2
 Group,3,2
 länder,3,17
@@ -10,6 +9,6 @@ mode of transport,1,6
 sex,6,2
 technology sectors,1,2
 technology,1,3
-time series,3,5
+time series,2,3
 timeseries,3,6
 type of account,1,2
