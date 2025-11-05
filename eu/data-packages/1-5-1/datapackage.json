@@ -16,60 +16,8 @@
             "title": "Año"
           },
           {
-            "name": "cause of death",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "exposure to excessive natural heat",
-                "exposure to excessive natural cold",
-                "exposure to sunlight",
-                "victim of lightning",
-                "victim of earthquake",
-                "victim of volcanic eruption",
-                "victim of avalanche, landslide and other earth movements",
-                "victim of cataclysmic storm",
-                "victim of flood",
-                "exposure to other and unspecified forces of nature",
-                ""
-              ]
-            },
-            "title": "cause of death"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                "‒",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
