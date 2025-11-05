@@ -5,8 +5,8 @@ area of law,1,4
 area2,1,4
 availability,1,2
 bound,1,2
-COMMENT_OBS_0,111,9
-COMMENT_OBS_1,4,4
+COMMENT_OBS_0,108,9
+COMMENT_OBS_1,3,3
 completeness of disaggregation,1,3
 conversion,1,2
 degree of urbanisation,1,2
@@ -21,7 +21,7 @@ form of abuse,1,2
 form of exploitation,1,2
 goal,1,13
 grade,1,4
-Group,20,2
+Group,19,2
 indicator,1,5
 level of court,1,3
 level of proficiency,1,2
@@ -46,10 +46,9 @@ technology sectors,1,2
 technology,1,3
 thematic area,1,4
 time series,10,14
-timeseries,22,67
+timeseries,19,59
 treatment,1,2
 type of account,1,2
-type of biomass,1,3
 type of ict competence,1,8
 type of service,1,4
 type of unpaid work,1,3
