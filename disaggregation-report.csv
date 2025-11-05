@@ -6,7 +6,7 @@ area2,3,4
 availability,1,2
 bound,1,2
 cause of death,2,10
-COMMENT_OBS_0,145,10
+COMMENT_OBS_0,142,10
 COMMENT_OBS_1,6,4
 completeness of disaggregation,1,3
 conversion,1,2
@@ -25,7 +25,7 @@ form of exploitation,1,2
 function,1,3
 goal,1,13
 grade,1,4
-Group,28,2
+Group,26,2
 indicator,1,5
 level of court,1,3
 level of proficiency,1,2
@@ -44,7 +44,7 @@ proportion of household expenditures on health,1,2
 sea,1,2
 section,1,5
 sector,2,11
-sex,31,4
+sex,29,4
 skill,1,2
 speed,1,5
 stages of the food chain,1,3
@@ -55,7 +55,7 @@ technology sectors,1,2
 technology,1,3
 thematic area,1,4
 time series,14,21
-timeseries,30,97
+timeseries,28,91
 treatment,1,2
 type of account,1,2
 type of biomass,1,3
