@@ -2193,28 +2193,6 @@
       "title": "16-9-1"
     },
     {
-      "path": "1-6-8/data.csv",
-      "name": "1-6-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Aisialdi orokorrarekiko gogobetetze-maila"
-    },
-    {
       "path": "11-b-2/data.csv",
       "name": "11-b-2",
       "profile": "tabular-data-resource",
@@ -2644,28 +2622,6 @@
       "title": "7-b-1"
     },
     {
-      "path": "1-5-5/data.csv",
-      "name": "1-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Mendekotasuna duten pertsonen zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
-    },
-    {
       "path": "17-9-1/data.csv",
       "name": "17-9-1",
       "profile": "tabular-data-resource",
@@ -3004,28 +2960,6 @@
         ]
       },
       "title": "9-2-2"
-    },
-    {
-      "path": "1-6-4/data.csv",
-      "name": "1-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
     },
     {
       "path": "5-a-2/data.csv",
@@ -3715,28 +3649,6 @@
         ]
       },
       "title": "16-8-1"
-    },
-    {
-      "path": "1-6-1/data.csv",
-      "name": "1-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Adingabeko seme-alaben zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
       "path": "12-4-1/data.csv",
@@ -5821,28 +5733,6 @@
       "title": "5-4-1"
     },
     {
-      "path": "1-6-6/data.csv",
-      "name": "1-6-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
-    },
-    {
       "path": "2-2-3/data.csv",
       "name": "2-2-3",
       "profile": "tabular-data-resource",
@@ -7079,28 +6969,6 @@
         ]
       },
       "title": "16-4-2"
-    },
-    {
-      "path": "1-6-5/data.csv",
-      "name": "1-6-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
     },
     {
       "path": "12-3-1/data.csv",
@@ -12414,28 +12282,6 @@
       "title": "12-c-1"
     },
     {
-      "path": "1-6-7/data.csv",
-      "name": "1-6-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Zainketa pertsonalean emandako denborarekiko gogobetetze-maila (batez bestekoa)"
-    },
-    {
       "path": "15-6-1/data.csv",
       "name": "15-6-1",
       "profile": "tabular-data-resource",
@@ -14988,6 +14834,72 @@
       "title": "Etxebizitzaren inguruko kanpo-zaratarekin arazoak dituzten biztanleen % (\"asko\")"
     },
     {
+      "path": "1-6-7/data.csv",
+      "name": "1-6-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Zainketa pertsonalean emandako denborarekiko gogobetetze-maila (batez bestekoa)"
+    },
+    {
+      "path": "1-6-5/data.csv",
+      "name": "1-6-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
+    },
+    {
+      "path": "1-6-8/data.csv",
+      "name": "1-6-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Aisialdi orokorrarekiko gogobetetze-maila"
+    },
+    {
       "path": "2-3-23/data.csv",
       "name": "2-3-23",
       "profile": "tabular-data-resource",
@@ -15868,6 +15780,28 @@
       "title": "Pobrezia- edo bazterketa-arriskuan dauden biztanleen % (AROPE)"
     },
     {
+      "path": "1-6-6/data.csv",
+      "name": "1-6-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
+    },
+    {
       "path": "3-4-3/data.csv",
       "name": "3-4-3",
       "profile": "tabular-data-resource",
@@ -15912,6 +15846,28 @@
       "title": "Banku komertzialen sukurtsalen kopurua 100.000 biztanleko (15 urte edo gehiago)"
     },
     {
+      "path": "1-6-1/data.csv",
+      "name": "1-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Adingabeko seme-alaben zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
+    },
+    {
       "path": "2-3-17/data.csv",
       "name": "2-3-17",
       "profile": "tabular-data-resource",
@@ -15932,6 +15888,28 @@
         ]
       },
       "title": "Zahartzea eta zainketak"
+    },
+    {
+      "path": "1-5-5/data.csv",
+      "name": "1-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Mendekotasuna duten pertsonen zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
       "path": "1-5-1/data.csv",
@@ -16284,6 +16262,28 @@
         ]
       },
       "title": "Alkohol-kontsumoaren ondorioz osasun-arazoak izateko arrisku handia duten biztanleen banaketa"
+    },
+    {
+      "path": "1-6-4/data.csv",
+      "name": "1-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
     },
     {
       "path": "1-2-5/data.csv",
