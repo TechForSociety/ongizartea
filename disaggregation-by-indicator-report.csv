@@ -1,11 +1,8 @@
 Indicator,Disaggregations,Number of disaggregations
-#9-2-1,COMMENT_OBS_0,1
-#9-2-2,"COMMENT_OBS_0, timeseries, sex",3
-#9-3-1,COMMENT_OBS_0,1
 #9-3-2,Group,1
 #9-4-1,COMMENT_OBS_0,1
-#9-5-1,"COMMENT_OBS_0, länder",2
+#9-5-1,"länder, COMMENT_OBS_0",2
 #9-5-2,COMMENT_OBS_0,1
 #9-a-1,time series,1
 #9-b-1,"COMMENT_OBS_0, enterprise definition, technology sectors",3
-#9-c-1,"COMMENT_OBS_0, länder, technology",3
+#9-c-1,"länder, COMMENT_OBS_0, technology",3
