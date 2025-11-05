@@ -136,39 +136,6 @@
       "title": "9-3-1"
     },
     {
-      "path": "11-c-1/data.csv",
-      "name": "11-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "11-c-1"
-    },
-    {
       "path": "9-5-1/data.csv",
       "name": "9-5-1",
       "profile": "tabular-data-resource",
@@ -994,92 +961,6 @@
       "title": "3-b-3"
     },
     {
-      "path": "12-4-2/data.csv",
-      "name": "12-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "kilogram per capita",
-                "percentage",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of waste treatment",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "energy recovery",
-                "incineration",
-                "recovery other than energy recovery",
-                "deposit onto or into land and land treatment and release into water bodies",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "a) hazardous waste generated per capita",
-                "b) hazardous waste treated",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "12-4-2"
-    },
-    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",
@@ -1818,46 +1699,6 @@
         ]
       },
       "title": "16-9-1"
-    },
-    {
-      "path": "11-b-2/data.csv",
-      "name": "11-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "11-b-2"
     },
     {
       "path": "8-1-1/data.csv",
@@ -2989,69 +2830,6 @@
         ]
       },
       "title": "16-8-1"
-    },
-    {
-      "path": "12-4-1/data.csv",
-      "name": "12-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "basel convention",
-                "montreal protocol",
-                "rotterdam convention",
-                "stockholm convention",
-                "minamata convention",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "12-4-1"
     },
     {
       "path": "3-8-1/data.csv",
@@ -6036,78 +5814,6 @@
       "title": "16-4-2"
     },
     {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1,000 tonnes",
-                "kilogram per capita",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "stages of the food chain",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "restaurants and food services",
-                "private households",
-                "retail and other distribution of food",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "12-3-1"
-    },
-    {
       "path": "3-d-2/data.csv",
       "name": "3-d-2",
       "profile": "tabular-data-resource",
@@ -7358,46 +7064,6 @@
         ]
       },
       "title": "13-b-1"
-    },
-    {
-      "path": "12-1-1/data.csv",
-      "name": "12-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "12-1-1"
     },
     {
       "path": "3-8-2/data.csv",
@@ -10725,80 +10391,6 @@
       "title": "17-11-1"
     },
     {
-      "path": "12-2-1/data.csv",
-      "name": "12-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "million tonnes",
-                "tonnes per capita",
-                "2020 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "raw material consumption (rmc)",
-                "raw material consumption per real gdp",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "12-2-1"
-    },
-    {
       "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
@@ -11946,80 +11538,6 @@
       "title": "16-b-1"
     },
     {
-      "path": "12-2-2/data.csv",
-      "name": "12-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "million tonnes",
-                "tonnes per capita",
-                "2020 = 100",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "domestic material consumption (dmc)",
-                "domestic material consumption per real gdp",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "12-2-2"
-    },
-    {
       "path": "16-5-2/data.csv",
       "name": "16-5-2",
       "profile": "tabular-data-resource",
@@ -12319,88 +11837,6 @@
         ]
       },
       "title": "4-2-2"
-    },
-    {
-      "path": "12-5-1/data.csv",
-      "name": "12-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage",
-                "1,000 tonnes",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "type of waste",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "municipal waste",
-                "total waste",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "national recycling rate",
-                "material recovery",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "12-5-1"
     },
     {
       "path": "4-7-1/data.csv",
