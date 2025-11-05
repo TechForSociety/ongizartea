@@ -1444,28 +1444,6 @@
       "title": "12-4-2"
     },
     {
-      "path": "1-1-10/data.csv",
-      "name": "1-1-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Suizidioagatiko heriotza-tasa"
-    },
-    {
       "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",
@@ -5658,28 +5636,6 @@
         ]
       },
       "title": "3-9-3"
-    },
-    {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
     },
     {
       "path": "10-3-1/data.csv",
@@ -15641,6 +15597,28 @@
       "title": "Politika eta Administrazio Publikoa"
     },
     {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
+    },
+    {
       "path": "1-8-5/data.csv",
       "name": "1-8-5",
       "profile": "tabular-data-resource",
@@ -15837,6 +15815,28 @@
         ]
       },
       "title": "20 eta 64 urte bitarteko biztanleriaren okupazio-tasa"
+    },
+    {
+      "path": "1-1-10/data.csv",
+      "name": "1-1-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Suizidioagatiko heriotza-tasa"
     },
     {
       "path": "1-2-4/data.csv",
