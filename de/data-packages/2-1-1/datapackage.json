@@ -16,37 +16,8 @@
             "title": "Jahr"
           },
           {
-            "name": "percentile",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p5",
-                "p10",
-                "p25",
-                "p50",
-                "p75",
-                "p90",
-                "p95",
-                ""
-              ]
-            },
-            "title": "percentile"
-          },
-          {
-            "name": "sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "female",
-                "male",
-                ""
-              ]
-            },
-            "title": "sex"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
