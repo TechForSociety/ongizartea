@@ -69,6 +69,28 @@
       "title": "Mendekotasuna duten pertsonen zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
+      "path": "1-6-4/data.csv",
+      "name": "1-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
+    },
+    {
       "path": "1-6-1/data.csv",
       "name": "1-6-1",
       "profile": "tabular-data-resource",
@@ -133,6 +155,50 @@
         ]
       },
       "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
+    },
+    {
+      "path": "1-6-6/data.csv",
+      "name": "1-6-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
+    },
+    {
+      "path": "1-6-5/data.csv",
+      "name": "1-6-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
     },
     {
       "path": "1-2-7/data.csv",
@@ -221,6 +287,28 @@
         ]
       },
       "title": "Banku komertzialen sukurtsalen kopurua 100.000 biztanleko (15 urte edo gehiago)"
+    },
+    {
+      "path": "1-6-7/data.csv",
+      "name": "1-6-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Zainketa pertsonalean emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
       "path": "1-4-3/data.csv",
@@ -551,50 +639,6 @@
         ]
       },
       "title": "Etxebizitzaren inguruko kanpo-zaratarekin arazoak dituzten biztanleen % (\"asko\")"
-    },
-    {
-      "path": "1-6-7/data.csv",
-      "name": "1-6-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Zainketa pertsonalean emandako denborarekiko gogobetetze-maila (batez bestekoa)"
-    },
-    {
-      "path": "1-6-5/data.csv",
-      "name": "1-6-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
     },
     {
       "path": "3-4-1/data.csv",
@@ -1631,28 +1675,6 @@
       "title": "Pobrezia- edo bazterketa-arriskuan dauden biztanleen % (AROPE)"
     },
     {
-      "path": "1-6-6/data.csv",
-      "name": "1-6-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
-    },
-    {
       "path": "3-4-3/data.csv",
       "name": "3-4-3",
       "profile": "tabular-data-resource",
@@ -2245,28 +2267,6 @@
         ]
       },
       "title": "Alkohol-kontsumoaren ondorioz osasun-arazoak izateko arrisku handia duten biztanleen banaketa"
-    },
-    {
-      "path": "1-6-4/data.csv",
-      "name": "1-6-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
     },
     {
       "path": "1-2-5/data.csv",
