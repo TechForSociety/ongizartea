@@ -3165,76 +3165,6 @@
       "title": "6-6-1"
     },
     {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "cause of death",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "exposure to excessive natural heat",
-                "exposure to excessive natural cold",
-                "exposure to sunlight",
-                "victim of lightning",
-                "victim of earthquake",
-                "victim of volcanic eruption",
-                "victim of avalanche, landslide and other earth movements",
-                "victim of cataclysmic storm",
-                "victim of flood",
-                "exposure to other and unspecified forces of nature",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                "‒",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "13-1-1"
-    },
-    {
       "path": "13-a-1/data.csv",
       "name": "13-a-1",
       "profile": "tabular-data-resource",
@@ -6322,67 +6252,6 @@
       "title": "5-6-2"
     },
     {
-      "path": "12-b-1/data.csv",
-      "name": "12-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "standard accounting system",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "seea tables",
-                "tsa tables",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "12-b-1"
-    },
-    {
       "path": "2-c-1/data.csv",
       "name": "2-c-1",
       "profile": "tabular-data-resource",
@@ -9463,46 +9332,6 @@
       "title": "5-5-1"
     },
     {
-      "path": "13-1-2/data.csv",
-      "name": "13-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "13-1-2"
-    },
-    {
       "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
@@ -9896,81 +9725,6 @@
         ]
       },
       "title": "Gipuzkoa haren parte izateko komunitate ona dela pentsatzen duten biztanleen ehunekoa"
-    },
-    {
-      "path": "12-c-1/data.csv",
-      "name": "12-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "million eur",
-                "percent of gdp",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "time series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "total",
-                "tax breaks",
-                "direct transfers of funds",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                "-",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "12-c-1"
     },
     {
       "path": "15-6-1/data.csv",
