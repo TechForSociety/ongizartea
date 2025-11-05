@@ -1,12 +1,11 @@
 Disaggregation,Number of indicators,Number of values
-age group,7,17
+age group,6,16
 area of law,1,4
 area2,1,4
 availability,1,2
-COMMENT_OBS_0,55,9
+COMMENT_OBS_0,54,9
 COMMENT_OBS_1,3,3
 degree of urbanisation,1,2
-disease,1,4
 economic activity,1,3
 ecosystem,1,3
 educational level,2,4
@@ -22,14 +21,14 @@ pathogens and resistance,1,2
 political institution,1,4
 profession,1,4
 section,1,5
-sex,13,2
+sex,11,2
 skill,1,2
 subject,1,2
 technology sectors,1,2
 technology,1,3
 thematic area,1,4
 time series,4,7
-timeseries,8,19
+timeseries,7,17
 treatment,1,2
 type of account,1,2
 type of ict competence,1,8
