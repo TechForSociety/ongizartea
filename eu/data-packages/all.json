@@ -3,73 +3,6 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "cp1252",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "child deliveries in hospitals",
-                "live births in total",
-                ""
-              ]
-            },
-            "title": "timeseries"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Hezkuntza"
-    },
-    {
       "path": "9-3-1/data.csv",
       "name": "9-3-1",
       "profile": "tabular-data-resource",
@@ -3943,60 +3876,6 @@
       "title": "5-6-2"
     },
     {
-      "path": "2-c-1/data.csv",
-      "name": "2-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "2-c-1"
-    },
-    {
       "path": "3-2-2/data.csv",
       "name": "3-2-2",
       "profile": "tabular-data-resource",
@@ -5633,72 +5512,6 @@
       "title": "6-4-2"
     },
     {
-      "path": "3-2-1/data.csv",
-      "name": "3-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "11 months and younger",
-                "4 years and younger",
-                ""
-              ]
-            },
-            "title": "age group"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gipuzkoa haren parte izateko komunitate ona dela pentsatzen duten biztanleen ehunekoa"
-    },
-    {
       "path": "3-5-5/data.csv",
       "name": "3-5-5",
       "profile": "tabular-data-resource",
@@ -6024,60 +5837,6 @@
         ]
       },
       "title": "4-5-1"
-    },
-    {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Nortasuna"
     },
     {
       "path": "6-a-1/data.csv",
@@ -7455,6 +7214,30 @@
       "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
     },
     {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Nortasuna"
+    },
+    {
       "path": "1-8-5/data.csv",
       "name": "1-8-5",
       "profile": "tabular-data-resource",
@@ -7525,6 +7308,30 @@
         ]
       },
       "title": "Hirigintza/azpiegiturak"
+    },
+    {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Hezkuntza"
     },
     {
       "path": "2-4-2/data.csv",
@@ -9301,6 +9108,30 @@
         ]
       },
       "title": "Botere publikoekiko konfiantza"
+    },
+    {
+      "path": "3-2-1/data.csv",
+      "name": "3-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gipuzkoa haren parte izateko komunitate ona dela pentsatzen duten biztanleen ehunekoa"
     },
     {
       "path": "3-2-4/data.csv",

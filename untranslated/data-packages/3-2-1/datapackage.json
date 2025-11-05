@@ -12,45 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "age group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "11 months and younger",
-                "4 years and younger",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

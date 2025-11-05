@@ -7,56 +7,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "child deliveries in hospitals",
-                "live births in total",
-                ""
-              ]
-            },
-            "title": "timeseries"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "…",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
           },
           {
             "name": "Value",

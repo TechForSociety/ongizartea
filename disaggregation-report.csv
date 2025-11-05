@@ -1,11 +1,11 @@
 Disaggregation,Number of indicators,Number of values
-age group,8,18
+age group,7,17
 age of mother,1,2
 area of law,1,4
 area2,1,4
 availability,1,2
 bound,1,2
-COMMENT_OBS_0,65,9
+COMMENT_OBS_0,64,9
 COMMENT_OBS_1,3,3
 conversion,1,2
 degree of urbanisation,1,2
@@ -34,7 +34,7 @@ technology sectors,1,2
 technology,1,3
 thematic area,1,4
 time series,5,9
-timeseries,9,21
+timeseries,8,19
 treatment,1,2
 type of account,1,2
 type of ict competence,1,8
