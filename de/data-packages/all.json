@@ -90,74 +90,6 @@
       "title": "9-5-1"
     },
     {
-      "path": "9-4-1/data.csv",
-      "name": "9-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "r",
-                "p",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "co₂ emissions per real gdp",
-                "co₂ emissions per gross value added (price adjusted) in manufacturing industries",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-4-1"
-    },
-    {
       "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
@@ -234,42 +166,6 @@
         ]
       },
       "title": "9-a-1"
-    },
-    {
-      "path": "9-3-2/data.csv",
-      "name": "9-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            },
-            "title": "Group"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-3-2"
     },
     {
       "path": "9-b-1/data.csv",
