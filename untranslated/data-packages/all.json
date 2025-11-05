@@ -647,66 +647,6 @@
       "title": "4-3-1"
     },
     {
-      "path": "3-7-2/data.csv",
-      "name": "3-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "age of mother",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "10 to under 15 years",
-                "15 to under 20 years",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "3-7-2"
-    },
-    {
       "path": "8-3-1/data.csv",
       "name": "8-3-1",
       "profile": "tabular-data-resource",
@@ -1283,39 +1223,6 @@
       "title": "3-9-1"
     },
     {
-      "path": "3-8-1/data.csv",
-      "name": "3-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "3-8-1"
-    },
-    {
       "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
@@ -1390,28 +1297,6 @@
       "title": "8-4-2"
     },
     {
-      "path": "3-5-7/data.csv",
-      "name": "3-5-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Enpresa kooperatiboen kontzentrazioa"
-    },
-    {
       "path": "8-8-1/data.csv",
       "name": "8-8-1",
       "profile": "tabular-data-resource",
@@ -1482,39 +1367,6 @@
         ]
       },
       "title": "8-8-1"
-    },
-    {
-      "path": "3-7-1/data.csv",
-      "name": "3-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "3-7-1"
     },
     {
       "path": "6-6-1/data.csv",
@@ -4297,56 +4149,6 @@
         ]
       },
       "title": "5-5-1"
-    },
-    {
-      "path": "3-6-1/data.csv",
-      "name": "3-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "p",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "3-6-1"
     },
     {
       "path": "8-2-1/data.csv",
@@ -7142,6 +6944,28 @@
         ]
       },
       "title": "Okupatutako biztanleriaren lanarekiko gogobetetze-maila (batez bestekoa)"
+    },
+    {
+      "path": "3-5-7/data.csv",
+      "name": "3-5-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Enpresa kooperatiboen kontzentrazioa"
     },
     {
       "path": "1-8-7/data.csv",
