@@ -804,61 +804,6 @@
       "title": "9-2-2"
     },
     {
-      "path": "5-a-2/data.csv",
-      "name": "5-a-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-a-2"
-    },
-    {
       "path": "6-4-1/data.csv",
       "name": "6-4-1",
       "profile": "tabular-data-resource",
@@ -1326,50 +1271,6 @@
       "title": "8-5-1"
     },
     {
-      "path": "5-c-1/data.csv",
-      "name": "5-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "timeseries"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-c-1"
-    },
-    {
       "path": "8-8-2/data.csv",
       "name": "8-8-2",
       "profile": "tabular-data-resource",
@@ -1672,74 +1573,6 @@
         ]
       },
       "title": "8-b-1"
-    },
-    {
-      "path": "5-b-1/data.csv",
-      "name": "5-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                "r",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "private households with at least one mobile phone",
-                "mobile penetration rate",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-b-1"
     },
     {
       "path": "9-b-1/data.csv",
@@ -2147,87 +1980,6 @@
       "title": "9-5-2"
     },
     {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "timeseries",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "population with (own) toilet",
-                "population with (own) bathtub or shower",
-                ""
-              ]
-            },
-            "title": "timeseries"
-          },
-          {
-            "name": "availability",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "yes",
-                "no",
-                ""
-              ]
-            },
-            "title": "availability"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "|",
-                "0",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0.0",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "6-2-1"
-    },
-    {
       "path": "9-c-1/data.csv",
       "name": "9-c-1",
       "profile": "tabular-data-resource",
@@ -2427,61 +2179,6 @@
         ]
       },
       "title": "7-2-1"
-    },
-    {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS_0",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ".",
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_0"
-          },
-          {
-            "name": "COMMENT_OBS_1",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_1"
-          },
-          {
-            "name": "COMMENT_OBS_2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COMMENT_OBS_2"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "6-1-1"
     },
     {
       "path": "8-2-1/data.csv",

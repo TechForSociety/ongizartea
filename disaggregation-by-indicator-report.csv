@@ -1,8 +1,4 @@
 Indicator,Disaggregations,Number of disaggregations
-#5-a-2,COMMENT_OBS_0,1
-#5-b-1,COMMENT_OBS_0,1
-#6-1-1,COMMENT_OBS_0,1
-#6-2-1,"COMMENT_OBS_0, COMMENT_OBS_1, timeseries, availability",4
 #6-3-1,"COMMENT_OBS_0, type of waste water, treatment",3
 #6-3-2,timeseries,1
 #6-4-1,"COMMENT_OBS_0, economic activity",2
