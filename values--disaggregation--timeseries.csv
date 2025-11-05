@@ -1,9 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 a) branches of payment service providers,1,1
 agricultural holdings with the legal form of a sole proprietorship,2,1
-at least one population and housing census in the last 10 years conducted,1,1
 b) atms of national payment service providers,2,1
-birth registration,1,1
 child deliveries in hospitals,2,1
 current tobacco use (age-standardised to who standard population),1,1
 current tobacco use,3,1
@@ -11,7 +9,6 @@ data from lfs from federal statistical office,6,1
 data from na from federal statistical office,2,1
 data from the federal ministry of food and agriculture,1,1
 data from the federal statistical office,43,1
-death registration,1,1
 dtp vaccination coverage at school entry,4,1
 fatal occupational accidents,2,1
 female owners of agricultural holdings with the legal form of a sole proprietorship,2,1
@@ -28,5 +25,3 @@ owned and leased agricultural land,6,1
 pneumococcal vaccination coverage at school entry,3,1
 population with (own) bathtub or shower,5,1
 population with (own) toilet,5,1
-proportion of bilateral and imputed multilateral oda (net disbursements) for ldcs to the gross national income (gni),2,1
-proportion of oda (net disbursements) to gni,2,1
