@@ -219,6 +219,30 @@
       "title": "BEGen urteko isurketak"
     },
     {
+      "path": "2-3-7/data.csv",
+      "name": "2-3-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Foru Gobernuaren informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -339,6 +363,30 @@
       "title": "Bizitzarekiko gogobetetze-maila orokorra"
     },
     {
+      "path": "3-2-3/data.csv",
+      "name": "3-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Genero berdintasunaren indizea"
+    },
+    {
       "path": "1-6-5/data.csv",
       "name": "1-6-5",
       "profile": "tabular-data-resource",
@@ -409,6 +457,30 @@
         ]
       },
       "title": "Okupatutako biztanleriaren lanarekiko gogobetetze-maila (batez bestekoa)"
+    },
+    {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Pertsonekiko konfiantza"
     },
     {
       "path": "1-2-7/data.csv",
@@ -553,6 +625,30 @@
         ]
       },
       "title": "Etxebizitza eta ingurunearekiko gogobetetze-maila"
+    },
+    {
+      "path": "2-3-8/data.csv",
+      "name": "2-3-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1755,30 +1851,6 @@
       "title": "Politika eta Administrazio Publikoa"
     },
     {
-      "path": "2-3-7/data.csv",
-      "name": "2-3-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Foru Gobernuaren informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
-    },
-    {
       "path": "2-3-18/data.csv",
       "name": "2-3-18",
       "profile": "tabular-data-resource",
@@ -1923,30 +1995,6 @@
       "title": "Enplegua eta gai ekonomikoak"
     },
     {
-      "path": "2-3-8/data.csv",
-      "name": "2-3-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
-    },
-    {
       "path": "1-5-3/data.csv",
       "name": "1-5-3",
       "profile": "tabular-data-resource",
@@ -1993,30 +2041,6 @@
         ]
       },
       "title": "Biztanle euskaldunen ehunekoa"
-    },
-    {
-      "path": "3-2-2/data.csv",
-      "name": "3-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Pertsonekiko konfiantza"
     },
     {
       "path": "2-3-17/data.csv",
@@ -2785,30 +2809,6 @@
         ]
       },
       "title": "Hirugarren sektoreko erakundeetako boluntarioen proportzioa"
-    },
-    {
-      "path": "3-2-3/data.csv",
-      "name": "3-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Genero berdintasunaren indizea"
     },
     {
       "path": "1-6-2/data.csv",
