@@ -299,6 +299,102 @@
       "title": "Foru Gobernuaren informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Lehen etxebizitza eskuratzeko beharra duten 18-44 urteko biztanleen banaketa"
+    },
+    {
+      "path": "1-1-9/data.csv",
+      "name": "1-1-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Alkohol-kontsumoaren ondorioz osasun-arazoak izateko arrisku handia duten biztanleen banaketa"
+    },
+    {
+      "path": "1-2-5/data.csv",
+      "name": "1-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Etxebizitza birgaitzeko beharra duten etxeguneen banaketa"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -319,6 +415,38 @@
         ]
       },
       "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Igogailurik gabeko etxebizitzen banaketa"
     },
     {
       "path": "1-6-6/data.csv",
@@ -519,6 +647,38 @@
       "title": "Pertsonekiko konfiantza"
     },
     {
+      "path": "1-2-3/data.csv",
+      "name": "1-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Emantzipatuta dauden pertsonen banaketa (18-44 urte)"
+    },
+    {
       "path": "1-2-7/data.csv",
       "name": "1-2-7",
       "profile": "tabular-data-resource",
@@ -639,6 +799,38 @@
       "title": "Udalekiko konfiantzaren balorazioa"
     },
     {
+      "path": "1-1-11/data.csv",
+      "name": "1-1-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Jarduera fisiko osasungarria egiten duten biztanleen banaketa"
+    },
+    {
       "path": "1-10-4/data.csv",
       "name": "1-10-4",
       "profile": "tabular-data-resource",
@@ -683,6 +875,38 @@
       "title": "Etxebizitza eta ingurunearekiko gogobetetze-maila"
     },
     {
+      "path": "1-1-7/data.csv",
+      "name": "1-1-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Osakidetzak bere osasun-behar guztiak betetzen ez dituela uste duten biztanleen banaketa"
+    },
+    {
       "path": "2-3-8/data.csv",
       "name": "2-3-8",
       "profile": "tabular-data-resource",
@@ -725,6 +949,38 @@
         ]
       },
       "title": "Banku komertzialen sukurtsalen kopurua 100.000 biztanleko (15 urte edo gehiago)"
+    },
+    {
+      "path": "1-1-12/data.csv",
+      "name": "1-1-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
     },
     {
       "path": "1-7-1/data.csv",
@@ -781,6 +1037,38 @@
       "title": "Osasun-arazo kronikorik ez duten biztanleen banaketa"
     },
     {
+      "path": "1-1-8/data.csv",
+      "name": "1-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "\"Erretzaile\" gisa sailkatutako biztanleen banaketa"
+    },
+    {
       "path": "1-6-7/data.csv",
       "name": "1-6-7",
       "profile": "tabular-data-resource",
@@ -823,6 +1111,38 @@
         ]
       },
       "title": "Ezkutuko Enpresa Txapeldun kopurua (INML)"
+    },
+    {
+      "path": "1-2-4/data.csv",
+      "name": "1-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Etxebizitzaz aldatzeko beharra duten etxeguneen banaketa"
     },
     {
       "path": "2-2-6/data.csv",
@@ -1507,50 +1827,6 @@
       "title": "20 eta 64 urte bitarteko biztanleriaren okupazio-tasa"
     },
     {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Lehen etxebizitza eskuratzeko beharra duten 18-44 urteko biztanleen banaketa"
-    },
-    {
-      "path": "1-2-4/data.csv",
-      "name": "1-2-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Etxebizitzaz aldatzeko beharra duten etxeguneen banaketa"
-    },
-    {
       "path": "2-3-22/data.csv",
       "name": "2-3-22",
       "profile": "tabular-data-resource",
@@ -1683,28 +1959,6 @@
       "title": "Hezkuntza"
     },
     {
-      "path": "1-2-3/data.csv",
-      "name": "1-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Emantzipatuta dauden pertsonen banaketa (18-44 urte)"
-    },
-    {
       "path": "1-8-6/data.csv",
       "name": "1-8-6",
       "profile": "tabular-data-resource",
@@ -1769,28 +2023,6 @@
         ]
       },
       "title": "Hauteskundeetan parte-hartze handia duten biztanleen ehunekoa"
-    },
-    {
-      "path": "1-1-12/data.csv",
-      "name": "1-1-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
     },
     {
       "path": "2-3-13/data.csv",
@@ -2079,28 +2311,6 @@
       "title": "Legegintza- eta gobernu-erakundeetan emakumeek betetako karguen proportzioa"
     },
     {
-      "path": "1-1-8/data.csv",
-      "name": "1-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "\"Erretzaile\" gisa sailkatutako biztanleen banaketa"
-    },
-    {
       "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
@@ -2189,28 +2399,6 @@
       "title": "Gutxienez goi-mailako ikasketak (gradua edo gehiago) dituzten 25-64 biztanleen %"
     },
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Igogailurik gabeko etxebizitzen banaketa"
-    },
-    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -2231,28 +2419,6 @@
         ]
       },
       "title": "Elkarteetan parte-hartze handia duten pertsonen ehunekoa"
-    },
-    {
-      "path": "1-1-7/data.csv",
-      "name": "1-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Osakidetzak bere osasun-behar guztiak betetzen ez dituela uste duten biztanleen banaketa"
     },
     {
       "path": "2-3-19/data.csv",
@@ -2277,28 +2443,6 @@
       "title": "Bat ere ez"
     },
     {
-      "path": "1-1-11/data.csv",
-      "name": "1-1-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Jarduera fisiko osasungarria egiten duten biztanleen banaketa"
-    },
-    {
       "path": "1-9-2/data.csv",
       "name": "1-9-2",
       "profile": "tabular-data-resource",
@@ -2319,50 +2463,6 @@
         ]
       },
       "title": "Lantokira/ikaslekura iristeko normalean 30 minutu edo gutxiago behar izaten duten pertsonen %"
-    },
-    {
-      "path": "1-1-9/data.csv",
-      "name": "1-1-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Alkohol-kontsumoaren ondorioz osasun-arazoak izateko arrisku handia duten biztanleen banaketa"
-    },
-    {
-      "path": "1-2-5/data.csv",
-      "name": "1-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Etxebizitza birgaitzeko beharra duten etxeguneen banaketa"
     },
     {
       "path": "3-2-5/data.csv",
