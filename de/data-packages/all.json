@@ -156,6 +156,41 @@
       "title": "MHI-5 osasun mentalaren indizearen banaketa Gipuzkoan"
     },
     {
+      "path": "2-3-11/data.csv",
+      "name": "2-3-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Osasuna/osasun publikoa"
+    },
+    {
       "path": "1-1-10/data.csv",
       "name": "1-1-10",
       "profile": "tabular-data-resource",
@@ -414,6 +449,41 @@
         ]
       },
       "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
+    },
+    {
+      "path": "2-3-12/data.csv",
+      "name": "2-3-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Migrazio-politika"
     },
     {
       "path": "1-6-1/data.csv",
@@ -1067,6 +1137,41 @@
       "title": "Okupatutako biztanleriaren lanarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
+      "path": "2-3-13/data.csv",
+      "name": "2-3-13",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Politika eta Administrazio Publikoa"
+    },
+    {
       "path": "3-2-2/data.csv",
       "name": "3-2-2",
       "profile": "tabular-data-resource",
@@ -1253,6 +1358,41 @@
         ]
       },
       "title": "Gipuzkoako etxeguneek aisialdi eta kulturan egindako urteroko gastuaren %"
+    },
+    {
+      "path": "2-3-14/data.csv",
+      "name": "2-3-14",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gizarte-gaiak orokorrean"
     },
     {
       "path": "1-5-1/data.csv",
@@ -2258,54 +2398,6 @@
       "title": "Osasuna/osasun publikoa"
     },
     {
-      "path": "2-3-11/data.csv",
-      "name": "2-3-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Osasuna/osasun publikoa"
-    },
-    {
-      "path": "2-3-12/data.csv",
-      "name": "2-3-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Migrazio-politika"
-    },
-    {
       "path": "2-3-27/data.csv",
       "name": "2-3-27",
       "profile": "tabular-data-resource",
@@ -2666,30 +2758,6 @@
       "title": "Hauteskundeetan parte-hartze handia duten biztanleen ehunekoa"
     },
     {
-      "path": "2-3-13/data.csv",
-      "name": "2-3-13",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Politika eta Administrazio Publikoa"
-    },
-    {
       "path": "2-3-18/data.csv",
       "name": "2-3-18",
       "profile": "tabular-data-resource",
@@ -2928,30 +2996,6 @@
         ]
       },
       "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
-    },
-    {
-      "path": "2-3-14/data.csv",
-      "name": "2-3-14",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gizarte-gaiak orokorrean"
     },
     {
       "path": "2-3-15/data.csv",
