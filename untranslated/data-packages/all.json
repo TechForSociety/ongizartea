@@ -91,6 +91,28 @@
       "title": "Sortutako eta tratatutako hondakinekiko birziklatze-tasa"
     },
     {
+      "path": "1-6-5/data.csv",
+      "name": "1-6-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Aisialdi orokorrarekiko gogobetetze-maila"
+    },
+    {
       "path": "1-4-4/data.csv",
       "name": "1-4-4",
       "profile": "tabular-data-resource",
@@ -133,6 +155,28 @@
         ]
       },
       "title": "Gipuzkoaren puntuazioa osasunarekin zerikusia duen bizi-kalitatean"
+    },
+    {
+      "path": "1-6-3/data.csv",
+      "name": "1-6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
     },
     {
       "path": "1-4-3/data.csv",
@@ -465,6 +509,28 @@
       "title": "Adingabeko seme-alaben zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
+      "path": "1-6-6/data.csv",
+      "name": "1-6-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Etxeko ekonomiarekiko gogobetetze-maila"
+    },
+    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -485,6 +551,50 @@
         ]
       },
       "title": "Posta bulegoak 10.000 biztanleko"
+    },
+    {
+      "path": "1-6-1/data.csv",
+      "name": "1-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
+    },
+    {
+      "path": "1-5-5/data.csv",
+      "name": "1-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Nahi izan gabeko bakardadea pairatzen dutela adierazten duten biztanleen %"
     },
     {
       "path": "1-5-1/data.csv",
@@ -707,6 +817,28 @@
       "title": "Alkohol-kontsumoaren ondorioz osasun-arazoak izateko arrisku handia duten biztanleen banaketa"
     },
     {
+      "path": "1-6-4/data.csv",
+      "name": "1-6-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Zainketa pertsonalean emandako denborarekiko gogobetetze-maila (batez bestekoa)"
+    },
+    {
       "path": "1-2-5/data.csv",
       "name": "1-2-5",
       "profile": "tabular-data-resource",
@@ -793,6 +925,28 @@
         ]
       },
       "title": "Airearen poluzioaren eraginpean dagoen hiri-biztanleriaren indizea"
+    },
+    {
+      "path": "1-6-2/data.csv",
+      "name": "1-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
     }
   ]
 }
