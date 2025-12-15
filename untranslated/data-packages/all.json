@@ -91,28 +91,6 @@
       "title": "Gizarte-gaiak orokorrean"
     },
     {
-      "path": "2-2-6/data.csv",
-      "name": "2-2-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Lurraldeko politikariekiko konfiantzaren balorazioa"
-    },
-    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -137,28 +115,6 @@
     {
       "path": "2-3-23/data.csv",
       "name": "2-3-23",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Osasuna/osasun publikoa"
-    },
-    {
-      "path": "2-3-11/data.csv",
-      "name": "2-3-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -991,28 +947,6 @@
         ]
       },
       "title": "Gizarte-erakunderen bateko bazkide edota afiliatu diren pertsonen ehunekoa"
-    },
-    {
-      "path": "2-3-10/data.csv",
-      "name": "2-3-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Enplegua eta gai ekonomikoak"
     },
     {
       "path": "2-3-29/data.csv",
