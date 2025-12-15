@@ -35,38 +35,6 @@
       "title": "Enpresa berritzaileen ehunekoa"
     },
     {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Parte-hartze sozial eta politiko handia duten biztanleen ehunekoa"
-    },
-    {
       "path": "3-5-9/data.csv",
       "name": "3-5-9",
       "profile": "tabular-data-resource",
@@ -248,38 +216,6 @@
         ]
       },
       "title": "Euskara erabiltzen dutela adierazten duten pertsonen ehunekoa"
-    },
-    {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Legegintza- eta gobernu-erakundeetan emakumeek betetako karguen proportzioa"
     },
     {
       "path": "3-4-3/data.csv",
@@ -674,6 +610,28 @@
         ]
       },
       "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Parte-hartze sozial eta politiko handia duten biztanleen ehunekoa"
     },
     {
       "path": "1-6-8/data.csv",
@@ -1972,6 +1930,28 @@
         ]
       },
       "title": "Komunitatearen parte izatearen sentimendua dutela adierazten duten biztanleen ehunekoa"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Legegintza- eta gobernu-erakundeetan emakumeek betetako karguen proportzioa"
     },
     {
       "path": "1-1-8/data.csv",
