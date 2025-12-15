@@ -168,6 +168,41 @@
       "title": "Gipuzkoako Foru Aldundiarekiko konfiantzaren balorazioa"
     },
     {
+      "path": "1-8-2/data.csv",
+      "name": "1-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "20 eta 64 urte bitarteko biztanleriaren okupazio-tasa"
+    },
+    {
       "path": "3-5-3/data.csv",
       "name": "3-5-3",
       "profile": "tabular-data-resource",
@@ -190,6 +225,41 @@
         ]
       },
       "title": "Ezkutuko Enpresa Txapeldun kopurua (INML)"
+    },
+    {
+      "path": "1-6-8/data.csv",
+      "name": "1-6-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gipuzkoako etxeguneek jatetxe eta hoteletan egindako urteroko gastuaren %"
     },
     {
       "path": "1-4-1/data.csv",
@@ -273,6 +343,40 @@
         ]
       },
       "title": "BEGen urteko isurketak"
+    },
+    {
+      "path": "1-5-5/data.csv",
+      "name": "1-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Nahi izan gabeko bakardadea pairatzen dutela adierazten duten biztanleen %"
     },
     {
       "path": "1-6-4/data.csv",
@@ -963,6 +1067,41 @@
       "title": "Alokairuan bizitzearekiko batez besteko gogobetetze-maila"
     },
     {
+      "path": "1-7-2/data.csv",
+      "name": "1-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gutxienez goi-mailako ikasketak (gradua edo gehiago) dituzten 25-64 biztanleen %"
+    },
+    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -1352,6 +1491,41 @@
       "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
     },
     {
+      "path": "1-7-1/data.csv",
+      "name": "1-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gehienez Bigarren Hezkuntzako behe-mailako ikasketak (DBH edo gutxiago) dituzten 25-64 urteko biztanleen %"
+    },
+    {
       "path": "1-1-5/data.csv",
       "name": "1-1-5",
       "profile": "tabular-data-resource",
@@ -1420,6 +1594,41 @@
         ]
       },
       "title": "\"Erretzaile\" gisa sailkatutako biztanleen banaketa"
+    },
+    {
+      "path": "1-6-7/data.csv",
+      "name": "1-6-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gipuzkoako etxeguneek aisialdi eta kulturan egindako urteroko gastuaren %"
     },
     {
       "path": "3-5-5/data.csv",
@@ -1780,30 +1989,6 @@
       "title": "Migrazio-politika"
     },
     {
-      "path": "1-6-7/data.csv",
-      "name": "1-6-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gipuzkoako etxeguneek aisialdi eta kulturan egindako urteroko gastuaren %"
-    },
-    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -1826,30 +2011,6 @@
         ]
       },
       "title": "Biztanle euskaldunen ehunekoa"
-    },
-    {
-      "path": "1-6-8/data.csv",
-      "name": "1-6-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gipuzkoako etxeguneek jatetxe eta hoteletan egindako urteroko gastuaren %"
     },
     {
       "path": "2-4-11/data.csv",
@@ -2066,30 +2227,6 @@
         ]
       },
       "title": "Hezkuntza"
-    },
-    {
-      "path": "1-7-2/data.csv",
-      "name": "1-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gutxienez goi-mailako ikasketak (gradua edo gehiago) dituzten 25-64 biztanleen %"
     },
     {
       "path": "1-8-4/data.csv",
@@ -2524,30 +2661,6 @@
       "title": "Osasuna/osasun publikoa"
     },
     {
-      "path": "1-5-5/data.csv",
-      "name": "1-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Nahi izan gabeko bakardadea pairatzen dutela adierazten duten biztanleen %"
-    },
-    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -2740,30 +2853,6 @@
       "title": "Zuzendaritza-karguetan dauden emakumeen ehunekoa"
     },
     {
-      "path": "1-8-2/data.csv",
-      "name": "1-8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "20 eta 64 urte bitarteko biztanleriaren okupazio-tasa"
-    },
-    {
       "path": "2-4-3/data.csv",
       "name": "2-4-3",
       "profile": "tabular-data-resource",
@@ -2810,30 +2899,6 @@
         ]
       },
       "title": "Parte-hartze sozial eta politiko handia duten biztanleen ehunekoa"
-    },
-    {
-      "path": "1-7-1/data.csv",
-      "name": "1-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gehienez Bigarren Hezkuntzako behe-mailako ikasketak (DBH edo gutxiago) dituzten 25-64 urteko biztanleen %"
     },
     {
       "path": "2-3-5/data.csv",
