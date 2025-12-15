@@ -1275,30 +1275,6 @@
       "title": "Hauteskundeetan parte-hartze handia duten biztanleen ehunekoa"
     },
     {
-      "path": "1-1-12/data.csv",
-      "name": "1-1-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
-    },
-    {
       "path": "2-3-13/data.csv",
       "name": "2-3-13",
       "profile": "tabular-data-resource",
