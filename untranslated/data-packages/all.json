@@ -35,38 +35,6 @@
       "title": "Hezkuntza"
     },
     {
-      "path": "2-3-23/data.csv",
-      "name": "2-3-23",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Osasuna/osasun publikoa"
-    },
-    {
       "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
@@ -268,38 +236,6 @@
         ]
       },
       "title": "Enplegua eta gai ekonomikoak"
-    },
-    {
-      "path": "2-3-20/data.csv",
-      "name": "2-3-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Jasangarritasuna"
     },
     {
       "path": "3-5-7/data.csv",
@@ -646,38 +582,6 @@
       "title": "Hirugarren sektoreko erakundeetako boluntarioen proportzioa"
     },
     {
-      "path": "2-3-19/data.csv",
-      "name": "2-3-19",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Bat ere ez"
-    },
-    {
       "path": "3-5-4/data.csv",
       "name": "3-5-4",
       "profile": "tabular-data-resource",
@@ -924,38 +828,6 @@
       "title": "ED/EE"
     },
     {
-      "path": "2-3-21/data.csv",
-      "name": "2-3-21",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Hezkuntza"
-    },
-    {
       "path": "2-3-8/data.csv",
       "name": "2-3-8",
       "profile": "tabular-data-resource",
@@ -976,38 +848,6 @@
         ]
       },
       "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
-    },
-    {
-      "path": "2-3-22/data.csv",
-      "name": "2-3-22",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Bat ere ez"
     },
     {
       "path": "3-5-1/data.csv",
@@ -1288,38 +1128,6 @@
       "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
     },
     {
-      "path": "2-3-18/data.csv",
-      "name": "2-3-18",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Nortasuna"
-    },
-    {
       "path": "3-1-4/data.csv",
       "name": "3-1-4",
       "profile": "tabular-data-resource",
@@ -1438,6 +1246,28 @@
         ]
       },
       "title": "Osasun-arazo kronikorik ez duten biztanleen banaketa"
+    },
+    {
+      "path": "2-3-20/data.csv",
+      "name": "2-3-20",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Jasangarritasuna"
     },
     {
       "path": "1-4-1/data.csv",
@@ -1614,6 +1444,28 @@
         ]
       },
       "title": "Aisialdi orokorrarekiko gogobetetze-maila"
+    },
+    {
+      "path": "2-3-23/data.csv",
+      "name": "2-3-23",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Osasuna/osasun publikoa"
     },
     {
       "path": "2-3-11/data.csv",
@@ -1968,6 +1820,28 @@
       "title": "Bizitzari orokorrean emandako balioa"
     },
     {
+      "path": "2-3-22/data.csv",
+      "name": "2-3-22",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Bat ere ez"
+    },
+    {
       "path": "2-3-16/data.csv",
       "name": "2-3-16",
       "profile": "tabular-data-resource",
@@ -2010,6 +1884,28 @@
         ]
       },
       "title": "Erabilgarri dauden gelen batezbestekoa / etxebizitzan bizi diren pertsonak"
+    },
+    {
+      "path": "2-3-21/data.csv",
+      "name": "2-3-21",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Hezkuntza"
     },
     {
       "path": "2-1-2/data.csv",
@@ -2186,6 +2082,28 @@
         ]
       },
       "title": "Bizi-itxaropena jaiotzean"
+    },
+    {
+      "path": "2-3-18/data.csv",
+      "name": "2-3-18",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Nortasuna"
     },
     {
       "path": "1-2-8/data.csv",
@@ -2670,6 +2588,28 @@
         ]
       },
       "title": "Osakidetzak bere osasun-behar guztiak betetzen ez dituela uste duten biztanleen banaketa"
+    },
+    {
+      "path": "2-3-19/data.csv",
+      "name": "2-3-19",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Bat ere ez"
     },
     {
       "path": "1-7-1/data.csv",
