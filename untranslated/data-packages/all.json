@@ -1163,6 +1163,38 @@
       "title": "Zahartzea eta zainketak"
     },
     {
+      "path": "2-4-13/data.csv",
+      "name": "2-4-13",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Jasangarritasuna"
+    },
+    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -1649,6 +1681,38 @@
       "title": "Hurbileko pertsonen sarea tamaina txikikoa duten biztanleen %"
     },
     {
+      "path": "2-4-12/data.csv",
+      "name": "2-4-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Hezkuntza"
+    },
+    {
       "path": "1-10-1/data.csv",
       "name": "1-10-1",
       "profile": "tabular-data-resource",
@@ -2069,6 +2133,38 @@
       "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
     },
     {
+      "path": "2-4-11/data.csv",
+      "name": "2-4-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Nortasuna"
+    },
+    {
       "path": "1-7-1/data.csv",
       "name": "1-7-1",
       "profile": "tabular-data-resource",
@@ -2325,6 +2421,38 @@
         ]
       },
       "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
+    },
+    {
+      "path": "2-4-10/data.csv",
+      "name": "2-4-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "ED/EE"
     },
     {
       "path": "2-2-6/data.csv",
@@ -2597,28 +2725,6 @@
       "title": "Biztanle euskaldunen ehunekoa"
     },
     {
-      "path": "2-4-11/data.csv",
-      "name": "2-4-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Nortasuna"
-    },
-    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -2661,28 +2767,6 @@
         ]
       },
       "title": "Azken 12 hilabeteetan diskriminazio motaren bat pairatu dutela adierazi duten helduen ehunekoa"
-    },
-    {
-      "path": "2-4-12/data.csv",
-      "name": "2-4-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Hezkuntza"
     },
     {
       "path": "3-1-4/data.csv",
@@ -2771,28 +2855,6 @@
         ]
       },
       "title": "Komunitatearen parte izatearen sentimendua dutela adierazten duten biztanleen ehunekoa"
-    },
-    {
-      "path": "2-4-13/data.csv",
-      "name": "2-4-13",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Jasangarritasuna"
     },
     {
       "path": "3-4-3/data.csv",
@@ -2947,28 +3009,6 @@
         ]
       },
       "title": "Berrikuntza egiten duten 10 langile edo gehiagoko establezimenduen ehunekoa"
-    },
-    {
-      "path": "2-4-10/data.csv",
-      "name": "2-4-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "ED/EE"
     },
     {
       "path": "3-5-6/data.csv",
