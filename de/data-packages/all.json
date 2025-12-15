@@ -291,30 +291,6 @@
       "title": "Nortasuna"
     },
     {
-      "path": "1-8-5/data.csv",
-      "name": "1-8-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16 urte edo gehiagoko biztanleriaren langabezia-tasa"
-    },
-    {
       "path": "2-3-24/data.csv",
       "name": "2-3-24",
       "profile": "tabular-data-resource",
@@ -481,30 +457,6 @@
         ]
       },
       "title": "Enplegua eta gai ekonomikoak"
-    },
-    {
-      "path": "1-8-4/data.csv",
-      "name": "1-8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "20 eta 64 urte bitarteko biztanleriaren okupazio-tasa"
     },
     {
       "path": "3-5-5/data.csv",
@@ -697,30 +649,6 @@
         ]
       },
       "title": "Gogo-aldarte partikularraren kalifikazioa"
-    },
-    {
-      "path": "1-8-6/data.csv",
-      "name": "1-8-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-74 urte bitarteko biztanleriaren iraupen luzeko langabezia-tasa"
     },
     {
       "path": "1-9-1/data.csv",
@@ -1035,30 +963,6 @@
       "title": "Euskara erabiltzen dutela adierazten duten pertsonen ehunekoa"
     },
     {
-      "path": "1-8-3/data.csv",
-      "name": "1-8-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Okupatutako biztanleriaren lanarekiko gogobetetze-maila (batez bestekoa)"
-    },
-    {
       "path": "3-5-7/data.csv",
       "name": "3-5-7",
       "profile": "tabular-data-resource",
@@ -1081,30 +985,6 @@
         ]
       },
       "title": "Enpresa kooperatiboen kontzentrazioa"
-    },
-    {
-      "path": "1-8-7/data.csv",
-      "name": "1-8-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "16-64 urte bitarteko biztanleria okupatuaren egonkortasun-tasa"
     },
     {
       "path": "3-1-6/data.csv",
