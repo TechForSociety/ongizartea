@@ -147,30 +147,6 @@
       "title": "Osasuna/osasun publikoa"
     },
     {
-      "path": "2-3-12/data.csv",
-      "name": "2-3-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Migrazio-politika"
-    },
-    {
       "path": "2-3-27/data.csv",
       "name": "2-3-27",
       "profile": "tabular-data-resource",
@@ -435,30 +411,6 @@
       "title": "Beren identitatea (generoa, jatorria, ideologia, erlijioa, etab.) askatasunez adierazten dutela dioten helduen ehunekoa Gipuzkoan"
     },
     {
-      "path": "2-3-16/data.csv",
-      "name": "2-3-16",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "ED/EE"
-    },
-    {
       "path": "2-3-9/data.csv",
       "name": "2-3-9",
       "profile": "tabular-data-resource",
@@ -531,30 +483,6 @@
       "title": "Hauteskundeetan parte-hartze handia duten biztanleen ehunekoa"
     },
     {
-      "path": "2-3-13/data.csv",
-      "name": "2-3-13",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Politika eta Administrazio Publikoa"
-    },
-    {
       "path": "2-3-7/data.csv",
       "name": "2-3-7",
       "profile": "tabular-data-resource",
@@ -577,30 +505,6 @@
         ]
       },
       "title": "Foru Gobernuaren informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
-    },
-    {
-      "path": "2-3-18/data.csv",
-      "name": "2-3-18",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Nortasuna"
     },
     {
       "path": "3-5-3/data.csv",
@@ -747,30 +651,6 @@
       "title": "Pertsonekiko konfiantza"
     },
     {
-      "path": "2-3-17/data.csv",
-      "name": "2-3-17",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Zahartzea eta zainketak"
-    },
-    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -891,30 +771,6 @@
       "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
     },
     {
-      "path": "2-3-14/data.csv",
-      "name": "2-3-14",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gizarte-gaiak orokorrean"
-    },
-    {
       "path": "3-5-6/data.csv",
       "name": "3-5-6",
       "profile": "tabular-data-resource",
@@ -937,30 +793,6 @@
         ]
       },
       "title": "Sorkuntza berriko kooperatibak"
-    },
-    {
-      "path": "2-3-15/data.csv",
-      "name": "2-3-15",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Hirigintza/azpiegiturak"
     },
     {
       "path": "3-3-2/data.csv",
