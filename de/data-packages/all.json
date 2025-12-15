@@ -332,6 +332,41 @@
       "title": "Politika eta Administrazio Publikoa"
     },
     {
+      "path": "2-4-3/data.csv",
+      "name": "2-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Etxebizitza"
+    },
+    {
       "path": "1-6-8/data.csv",
       "name": "1-6-8",
       "profile": "tabular-data-resource",
@@ -670,6 +705,41 @@
         ]
       },
       "title": "Pertsonekiko konfiantza"
+    },
+    {
+      "path": "2-3-12/data.csv",
+      "name": "2-3-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Jasangarritasuna"
     },
     {
       "path": "1-6-1/data.csv",
@@ -1096,6 +1166,41 @@
       "title": "Gipuzkoa bide onetik doala baieztatzearekin adostasun-maila"
     },
     {
+      "path": "2-4-1/data.csv",
+      "name": "2-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Bat ere ez"
+    },
+    {
       "path": "2-3-9/data.csv",
       "name": "2-3-9",
       "profile": "tabular-data-resource",
@@ -1345,6 +1450,41 @@
       "title": "16 urte edo gehiagoko biztanleriaren langabezia-tasa"
     },
     {
+      "path": "2-3-13/data.csv",
+      "name": "2-3-13",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Hezkuntza"
+    },
+    {
       "path": "1-2-3/data.csv",
       "name": "1-2-3",
       "profile": "tabular-data-resource",
@@ -1485,6 +1625,41 @@
         ]
       },
       "title": "Alokairuan bizitzearekiko batez besteko gogobetetze-maila"
+    },
+    {
+      "path": "2-4-5/data.csv",
+      "name": "2-4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Hirigintza/azpiegiturak"
     },
     {
       "path": "1-7-2/data.csv",
@@ -1734,6 +1909,41 @@
       "title": "Etxebizitza eta ingurunearekiko gogobetetze-maila"
     },
     {
+      "path": "2-4-2/data.csv",
+      "name": "2-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Osasuna/osasun publikoa"
+    },
+    {
       "path": "1-4-5/data.csv",
       "name": "1-4-5",
       "profile": "tabular-data-resource",
@@ -1767,6 +1977,41 @@
         ]
       },
       "title": "Aitortutako murriztapen ekonomikoak dituzten familien %"
+    },
+    {
+      "path": "2-4-4/data.csv",
+      "name": "2-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Enplegua eta gai ekonomikoak"
     },
     {
       "path": "1-1-7/data.csv",
@@ -2453,30 +2698,6 @@
       "title": "Enplegua eta gai ekonomikoak"
     },
     {
-      "path": "2-4-4/data.csv",
-      "name": "2-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Enplegua eta gai ekonomikoak"
-    },
-    {
       "path": "2-4-8/data.csv",
       "name": "2-4-8",
       "profile": "tabular-data-resource",
@@ -2499,30 +2720,6 @@
         ]
       },
       "title": "Migrazio-politika"
-    },
-    {
-      "path": "2-4-5/data.csv",
-      "name": "2-4-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Hirigintza/azpiegiturak"
     },
     {
       "path": "3-4-1/data.csv",
@@ -2573,30 +2770,6 @@
       "title": "Nortasuna"
     },
     {
-      "path": "2-3-12/data.csv",
-      "name": "2-3-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Jasangarritasuna"
-    },
-    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -2643,30 +2816,6 @@
         ]
       },
       "title": "Azken 12 hilabeteetan diskriminazio motaren bat pairatu dutela adierazi duten helduen ehunekoa"
-    },
-    {
-      "path": "2-4-2/data.csv",
-      "name": "2-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Osasuna/osasun publikoa"
     },
     {
       "path": "2-4-12/data.csv",
@@ -2765,30 +2914,6 @@
       "title": "Erabilgarri dauden gelen batezbestekoa / etxebizitzan bizi diren pertsonak"
     },
     {
-      "path": "2-3-13/data.csv",
-      "name": "2-3-13",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Hezkuntza"
-    },
-    {
       "path": "2-4-7/data.csv",
       "name": "2-4-7",
       "profile": "tabular-data-resource",
@@ -2859,30 +2984,6 @@
         ]
       },
       "title": "Politika eta Administrazio Publikoa"
-    },
-    {
-      "path": "2-4-1/data.csv",
-      "name": "2-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Bat ere ez"
     },
     {
       "path": "2-4-13/data.csv",
@@ -3123,30 +3224,6 @@
         ]
       },
       "title": "Zuzendaritza-karguetan dauden emakumeen ehunekoa"
-    },
-    {
-      "path": "2-4-3/data.csv",
-      "name": "2-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Etxebizitza"
     },
     {
       "path": "3-3-2/data.csv",
