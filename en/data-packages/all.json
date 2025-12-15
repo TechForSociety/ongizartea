@@ -27,6 +27,41 @@
       "title": "Lurraldeko politikariekiko konfiantzaren balorazioa"
     },
     {
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Azken 12 hilabeteetan diskriminazio motaren bat pairatu dutela adierazi duten helduen ehunekoa"
+    },
+    {
       "path": "1-5-4/data.csv",
       "name": "1-5-4",
       "profile": "tabular-data-resource",
@@ -869,6 +904,41 @@
         ]
       },
       "title": "Airearen kalitatea ona edo oso ona duten egunen %"
+    },
+    {
+      "path": "3-1-3/data.csv",
+      "name": "3-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Komunitatearen parte izatearen sentimendua dutela adierazten duten biztanleen ehunekoa"
     },
     {
       "path": "1-8-8/data.csv",
@@ -2624,6 +2694,41 @@
       "title": "Etxebizitzaz aldatzeko beharra duten etxeguneen banaketa"
     },
     {
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Beren identitatea (generoa, jatorria, ideologia, erlijioa, etab.) askatasunez adierazten dutela dioten helduen ehunekoa Gipuzkoan"
+    },
+    {
       "path": "1-6-2/data.csv",
       "name": "1-6-2",
       "profile": "tabular-data-resource",
@@ -2978,54 +3083,6 @@
       "title": "Biztanle euskaldunen ehunekoa"
     },
     {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Beren identitatea (generoa, jatorria, ideologia, erlijioa, etab.) askatasunez adierazten dutela dioten helduen ehunekoa Gipuzkoan"
-    },
-    {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Azken 12 hilabeteetan diskriminazio motaren bat pairatu dutela adierazi duten helduen ehunekoa"
-    },
-    {
       "path": "3-1-4/data.csv",
       "name": "3-1-4",
       "profile": "tabular-data-resource",
@@ -3096,30 +3153,6 @@
         ]
       },
       "title": "Erabilgarri dauden gelen batezbestekoa / etxebizitzan bizi diren pertsonak"
-    },
-    {
-      "path": "3-1-3/data.csv",
-      "name": "3-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Komunitatearen parte izatearen sentimendua dutela adierazten duten biztanleen ehunekoa"
     },
     {
       "path": "3-4-3/data.csv",
