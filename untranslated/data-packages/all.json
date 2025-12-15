@@ -355,6 +355,28 @@
       "title": "Aisialdi orokorrarekiko gogobetetze-maila"
     },
     {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Biztanle euskaldunen ehunekoa"
+    },
+    {
       "path": "1-6-8/data.csv",
       "name": "1-6-8",
       "profile": "tabular-data-resource",
@@ -1653,6 +1675,28 @@
       "title": "Genero berdintasunaren indizea"
     },
     {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Euskara erabiltzen dutela adierazten duten pertsonen ehunekoa"
+    },
+    {
       "path": "1-1-8/data.csv",
       "name": "1-1-8",
       "profile": "tabular-data-resource",
@@ -1849,6 +1893,28 @@
         ]
       },
       "title": "Igogailurik gabeko etxebizitzen banaketa"
+    },
+    {
+      "path": "3-3-2/data.csv",
+      "name": "3-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Parte-hartze sozial eta politiko handia duten biztanleen ehunekoa"
     },
     {
       "path": "1-1-7/data.csv",
@@ -2093,6 +2159,28 @@
       "title": "Etxebizitza birgaitzeko beharra duten etxeguneen banaketa"
     },
     {
+      "path": "3-2-5/data.csv",
+      "name": "3-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Lankidetzarako prestasun altua erakusten duten biztanleen ehunekoa"
+    },
+    {
       "path": "2-3-10/data.csv",
       "name": "2-3-10",
       "profile": "tabular-data-resource",
@@ -2201,6 +2289,50 @@
         ]
       },
       "title": "Airearen poluzioaren eraginpean dagoen hiri-biztanleriaren indizea"
+    },
+    {
+      "path": "3-3-1/data.csv",
+      "name": "3-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Hauteskundeetan parte-hartze handia duten biztanleen ehunekoa"
+    },
+    {
+      "path": "3-3-3/data.csv",
+      "name": "3-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Legegintza- eta gobernu-erakundeetan emakumeek betetako karguen proportzioa"
     },
     {
       "path": "2-2-3/data.csv",
