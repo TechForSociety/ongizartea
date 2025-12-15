@@ -2453,6 +2453,38 @@
       "title": "Beren denbora librean nahi duten ariketa fisikoa egiten duten biztanleen banaketa"
     },
     {
+      "path": "3-5-1/data.csv",
+      "name": "3-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Enpresa berritzaileen ehunekoa"
+    },
+    {
       "path": "2-4-11/data.csv",
       "name": "2-4-11",
       "profile": "tabular-data-resource",
@@ -2581,6 +2613,38 @@
       "title": "\"Erretzaile\" gisa sailkatutako biztanleen banaketa"
     },
     {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Euskara erabiltzen dutela adierazten duten pertsonen ehunekoa"
+    },
+    {
       "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
@@ -2611,6 +2675,38 @@
         ]
       },
       "title": "Hirugarren sektoreko erakundeetako boluntarioen proportzioa"
+    },
+    {
+      "path": "3-4-3/data.csv",
+      "name": "3-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
     },
     {
       "path": "1-6-7/data.csv",
@@ -2947,6 +3043,38 @@
       "title": "Bizi-itxaropena jaiotzean"
     },
     {
+      "path": "3-5-2/data.csv",
+      "name": "3-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Berrikuntza egiten duten 10 langile edo gehiagoko establezimenduen ehunekoa"
+    },
+    {
       "path": "3-1-4/data.csv",
       "name": "3-1-4",
       "profile": "tabular-data-resource",
@@ -3163,50 +3291,6 @@
       "title": "Erabilgarri dauden gelen batezbestekoa / etxebizitzan bizi diren pertsonak"
     },
     {
-      "path": "3-4-3/data.csv",
-      "name": "3-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
-    },
-    {
-      "path": "3-5-1/data.csv",
-      "name": "3-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Enpresa berritzaileen ehunekoa"
-    },
-    {
       "path": "3-5-7/data.csv",
       "name": "3-5-7",
       "profile": "tabular-data-resource",
@@ -3249,50 +3333,6 @@
         ]
       },
       "title": "Lantokira/ikaslekura iristeko normalean 30 minutu edo gutxiago behar izaten duten pertsonen %"
-    },
-    {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Euskara erabiltzen dutela adierazten duten pertsonen ehunekoa"
-    },
-    {
-      "path": "3-5-2/data.csv",
-      "name": "3-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Berrikuntza egiten duten 10 langile edo gehiagoko establezimenduen ehunekoa"
     },
     {
       "path": "3-5-6/data.csv",
