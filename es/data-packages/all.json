@@ -563,7 +563,7 @@
           }
         ]
       },
-      "title": "Pobrezia- edo bazterketa-arriskuan dauden biztanleen % (AROPE)"
+      "title": "1-4-6"
     },
     {
       "path": "1-3-1/data.csv",
@@ -2090,7 +2090,7 @@
           }
         ]
       },
-      "title": "Batez besteko pertsona-errenta 18 urte edo gehiagoko pertsonen artean"
+      "title": "1-4-4"
     },
     {
       "path": "1-2-7/data.csv",
@@ -2536,7 +2536,7 @@
           }
         ]
       },
-      "title": "Aitortutako murriztapen ekonomikoak dituzten familien %"
+      "title": "1-4-5"
     },
     {
       "path": "2-4-4/data.csv",
@@ -3334,7 +3334,7 @@
           }
         ]
       },
-      "title": "Eguneko zentroen (3. adinekoak eta desgaituak) betetze-maila"
+      "title": "1-4-3"
     },
     {
       "path": "2-3-6/data.csv",
