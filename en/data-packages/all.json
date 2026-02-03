@@ -473,6 +473,41 @@
       "title": "Etxebizitza"
     },
     {
+      "path": "1-6-8/data.csv",
+      "name": "1-6-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Gipuzkoako etxeguneek jatetxe eta hoteletan egindako urteroko gastuaren %"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -3632,30 +3667,6 @@
         ]
       },
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
-    },
-    {
-      "path": "1-6-8/data.csv",
-      "name": "1-6-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gipuzkoako etxeguneek jatetxe eta hoteletan egindako urteroko gastuaren %"
     },
     {
       "path": "1-8-6/data.csv",
