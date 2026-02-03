@@ -2893,41 +2893,6 @@
       "title": "ETE berritzaileak, guztira (CORE jarduerak dituzten ETEen %)"
     },
     {
-      "path": "2-4-11/data.csv",
-      "name": "2-4-11",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Nortasuna"
-    },
-    {
       "path": "1-7-1/data.csv",
       "name": "1-7-1",
       "profile": "tabular-data-resource",
@@ -3562,6 +3527,41 @@
       "title": "Gipuzkoa haren parte izateko komunitate ona dela pentsatzen duten biztanleen ehunekoa"
     },
     {
+      "path": "2-4-9/data.csv",
+      "name": "2-4-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Enplegua eta gai ekonomikoak"
+    },
+    {
       "path": "2-3-4/data.csv",
       "name": "2-3-4",
       "profile": "tabular-data-resource",
@@ -3680,8 +3680,8 @@
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
     },
     {
-      "path": "2-4-9/data.csv",
-      "name": "2-4-9",
+      "path": "2-4-11/data.csv",
+      "name": "2-4-11",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3701,7 +3701,7 @@
           }
         ]
       },
-      "title": "Enplegua eta gai ekonomikoak"
+      "title": "Nortasuna"
     }
   ]
 }
