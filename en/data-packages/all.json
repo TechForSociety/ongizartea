@@ -3361,41 +3361,6 @@
       "title": "Udalen informazioaren gardentasunaren eta irisgarritasunaren balorazioa"
     },
     {
-      "path": "1-4-3/data.csv",
-      "name": "1-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Eguneko zentroen (3. adinekoak eta desgaituak) betetze-maila"
-    },
-    {
       "path": "2-3-6/data.csv",
       "name": "2-3-6",
       "profile": "tabular-data-resource",
@@ -3665,6 +3630,30 @@
         ]
       },
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
+    },
+    {
+      "path": "1-4-3/data.csv",
+      "name": "1-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Eguneko zentroen (3. adinekoak eta desgaituak) betetze-maila"
     },
     {
       "path": "1-8-6/data.csv",
