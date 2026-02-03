@@ -1564,41 +1564,6 @@
       "title": "Zahartzea eta zainketak"
     },
     {
-      "path": "2-4-13/data.csv",
-      "name": "2-4-13",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Jasangarritasuna"
-    },
-    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -2893,6 +2858,41 @@
       "title": "ETE berritzaileak, guztira (CORE jarduerak dituzten ETEen %)"
     },
     {
+      "path": "2-4-11/data.csv",
+      "name": "2-4-11",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Nortasuna"
+    },
+    {
       "path": "1-7-1/data.csv",
       "name": "1-7-1",
       "profile": "tabular-data-resource",
@@ -3680,8 +3680,8 @@
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
     },
     {
-      "path": "2-4-11/data.csv",
-      "name": "2-4-11",
+      "path": "2-4-13/data.csv",
+      "name": "2-4-13",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3701,7 +3701,7 @@
           }
         ]
       },
-      "title": "Nortasuna"
+      "title": "Jasangarritasuna"
     }
   ]
 }
