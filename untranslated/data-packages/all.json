@@ -85,7 +85,7 @@
           }
         ]
       },
-      "title": "1-5-4"
+      "title": "Lagun minik ez dutela adierazi duten biztanleen %"
     },
     {
       "path": "1-1-6/data.csv",
@@ -632,7 +632,7 @@
           }
         ]
       },
-      "title": "1-5-5"
+      "title": "Nahi izan gabeko bakardadea pairatzen dutela adierazten duten biztanleen %"
     },
     {
       "path": "2-3-2/data.csv",
@@ -826,7 +826,7 @@
           }
         ]
       },
-      "title": "1-6-1"
+      "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
     },
     {
       "path": "1-9-2/data.csv",
@@ -1524,7 +1524,7 @@
           }
         ]
       },
-      "title": "1-5-3"
+      "title": "Adingabeko seme-alaben zainketan emandako denborarekiko gogobetetze-maila (batez bestekoa)"
     },
     {
       "path": "1-6-5/data.csv",
@@ -2406,7 +2406,7 @@
           }
         ]
       },
-      "title": "1-6-3"
+      "title": "Zainketa pertsonalean emandako batez besteko denbora (loaldia, garbitasuna, etab.)"
     },
     {
       "path": "2-3-8/data.csv",
@@ -2964,7 +2964,7 @@
           }
         ]
       },
-      "title": "1-6-2"
+      "title": "Aisialdi aktiborako eta kiroletarako batez besteko gizarte-denbora"
     },
     {
       "path": "2-4-10/data.csv",
