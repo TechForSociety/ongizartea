@@ -2119,6 +2119,28 @@
       "title": "Hezkuntza"
     },
     {
+      "path": "1-10-1/data.csv",
+      "name": "1-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "Bizitzari orokorrean emandako balioa"
+    },
+    {
       "path": "1-1-4/data.csv",
       "name": "1-1-4",
       "profile": "tabular-data-resource",
@@ -3309,28 +3331,6 @@
         ]
       },
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
-    },
-    {
-      "path": "1-10-1/data.csv",
-      "name": "1-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Bizitzari orokorrean emandako balioa"
     },
     {
       "path": "1-8-6/data.csv",
