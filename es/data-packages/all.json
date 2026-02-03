@@ -938,7 +938,7 @@
           }
         ]
       },
-      "title": "1-9-2"
+      "title": "Ilunabarrean bere zonaldean bakarrik ibiltzean seguru sentitzen diren biztanleen %"
     },
     {
       "path": "3-5-6/data.csv",
@@ -1067,7 +1067,7 @@
           }
         ]
       },
-      "title": "1-8-8"
+      "title": "Baja eragindako lan-istripuak Gipuzkoan"
     },
     {
       "path": "3-3-2/data.csv",
@@ -1207,7 +1207,7 @@
           }
         ]
       },
-      "title": "1-8-7"
+      "title": "Lantokira/ikaslekura iristeko normalean 30 minutu edo gutxiago behar izaten duten pertsonen %"
     },
     {
       "path": "1-9-1/data.csv",
@@ -1242,7 +1242,7 @@
           }
         ]
       },
-      "title": "1-9-1"
+      "title": "Delinkuentzia-tasa 1.000 biztanleko"
     },
     {
       "path": "1-1-9/data.csv",
@@ -3617,6 +3617,30 @@
         ]
       },
       "title": "2-1-2"
+    },
+    {
+      "path": "1-8-6/data.csv",
+      "name": "1-8-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Portzentajezko aldea gizonen eta emakumeen lan-errentan (soldata-arraila)"
     },
     {
       "path": "1-2-9/data.csv",
