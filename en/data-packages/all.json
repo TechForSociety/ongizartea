@@ -938,7 +938,7 @@
           }
         ]
       },
-      "title": "Ilunabarrean bere zonaldean bakarrik ibiltzean seguru sentitzen diren biztanleen %"
+      "title": "1-9-2"
     },
     {
       "path": "3-5-6/data.csv",
@@ -1242,7 +1242,7 @@
           }
         ]
       },
-      "title": "Delituen indizea (1000 biztanleko proportzioa)"
+      "title": "1-9-1"
     },
     {
       "path": "1-1-9/data.csv",
@@ -1572,7 +1572,7 @@
           }
         ]
       },
-      "title": "Gipuzkoan erakunde publikoek egindako kudeaketarekin gogobetetze-maila"
+      "title": "2-1-1"
     },
     {
       "path": "3-2-3/data.csv",
@@ -3616,7 +3616,7 @@
           }
         ]
       },
-      "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
+      "title": "2-1-2"
     },
     {
       "path": "3-5-7/data.csv",
