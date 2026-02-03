@@ -2839,6 +2839,38 @@
       "title": "Hirugarren sektoreko erakundeetako boluntarioen proportzioa"
     },
     {
+      "path": "3-4-3/data.csv",
+      "name": "3-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
+    },
+    {
       "path": "1-6-7/data.csv",
       "name": "1-6-7",
       "profile": "tabular-data-resource",
@@ -2885,8 +2917,18 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3365,28 +3407,6 @@
         ]
       },
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
-    },
-    {
-      "path": "3-4-3/data.csv",
-      "name": "3-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "5 urteko edo gehiagoko biztanle elebidunak (gutxienez)"
     }
   ]
 }
