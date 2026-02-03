@@ -863,38 +863,6 @@
       "title": "Gizarte-bizitzari eskainitako batez besteko gizarte-denbora"
     },
     {
-      "path": "1-9-2/data.csv",
-      "name": "1-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Ilunabarrean bere zonaldean bakarrik ibiltzean seguru sentitzen diren biztanleen %"
-    },
-    {
       "path": "3-5-6/data.csv",
       "name": "3-5-6",
       "profile": "tabular-data-resource",
@@ -3387,6 +3355,28 @@
         ]
       },
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
+    },
+    {
+      "path": "1-9-2/data.csv",
+      "name": "1-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Ilunabarrean bere zonaldean bakarrik ibiltzean seguru sentitzen diren biztanleen %"
     }
   ]
 }
