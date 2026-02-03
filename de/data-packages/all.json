@@ -364,7 +364,7 @@
           }
         ]
       },
-      "title": "Ezkutuko Enpresa Txapeldun kopurua (INML)"
+      "title": "3-5-3"
     },
     {
       "path": "2-4-8/data.csv",
@@ -973,7 +973,7 @@
           }
         ]
       },
-      "title": "Zuzendaritza-karguetan dauden emakumeen ehunekoa"
+      "title": "3-5-6"
     },
     {
       "path": "1-3-2/data.csv",
@@ -1808,7 +1808,7 @@
           }
         ]
       },
-      "title": "Sorkuntza berriko kooperatibak"
+      "title": "3-5-4"
     },
     {
       "path": "2-2-1/data.csv",
@@ -3087,7 +3087,7 @@
           }
         ]
       },
-      "title": "Enpresa kooperatiboen kontzentrazioa"
+      "title": "3-5-5"
     },
     {
       "path": "1-10-3/data.csv",
@@ -3428,7 +3428,7 @@
           }
         ]
       },
-      "title": "Berrikuntza egiten duten 10 langile edo gehiagoko establezimenduen ehunekoa"
+      "title": "3-5-2"
     },
     {
       "path": "3-1-4/data.csv",
