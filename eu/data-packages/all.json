@@ -2106,6 +2106,41 @@
       "title": "Erabilgarri dauden gelen batezbestekoa / etxebizitzan bizi diren pertsonak"
     },
     {
+      "path": "3-3-3/data.csv",
+      "name": "3-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Legegintza- eta gobernu-erakundeetan emakumeek betetako karguen proportzioa"
+    },
+    {
       "path": "1-4-4/data.csv",
       "name": "1-4-4",
       "profile": "tabular-data-resource",
@@ -3678,30 +3713,6 @@
         ]
       },
       "title": "Baliabide publikoak inbertitzen diren moduarekin gogobetetze-maila"
-    },
-    {
-      "path": "3-3-3/data.csv",
-      "name": "3-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Legegintza- eta gobernu-erakundeetan emakumeek betetako karguen proportzioa"
     }
   ]
 }
