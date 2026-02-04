@@ -993,15 +993,16 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "male",
+                "female",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "sex"
           },
           {
             "name": "Value",
