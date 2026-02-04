@@ -16,15 +16,21 @@
             "title": "Año"
           },
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Group"
           },
           {
             "name": "Value",
