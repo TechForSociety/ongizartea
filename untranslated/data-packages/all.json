@@ -91,7 +91,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "uds",
+                "%",
                 ""
               ]
             }
