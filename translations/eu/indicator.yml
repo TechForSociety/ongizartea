@@ -9,8 +9,8 @@ download_csv: Deskargatu datuak (.csv)
 download_csv_title: Deskargatu datuak CSV gisa
 download_headline: Descargar los datos de los titulares (.csv)
 download_headline_title: Jatorrizko datuak deskargatu (.csv)
-download_source: Descargar datos de origen (.csv)
-download_source_title: Descargar los datos fuente como CSV
+download_source: Jatorrizko datuak deskargatu (.csv)
+download_source_title: Deskargatu iturri-datuak CSV gisa
 download_source_sdmx: Descargar el código fuente SDMX (.xml)
 download_source_sdmx_title: Descargar los datos fuente como SDMX
 download_table: Deskargatu taulako datuak (.csv)
