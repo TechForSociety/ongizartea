@@ -3116,6 +3116,22 @@
             "type": "integer"
           },
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
