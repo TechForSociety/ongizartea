@@ -1,47 +1,45 @@
-chart: Gráfico
-clear_all: Limpiar todo
-clear_selections: Borrar selecciones
-data_not_available: Este indicador está pendiente de carga de valores.
+chart: Grafikoa
+clear_all: Dena garbitu
+clear_selections: Ezabatu aukeraketak
+data_not_available: Adierazle hori balioak kargatzeko zain dago.
 dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
   No todo se mostrará hasta que elimine algunas selecciones.
-download_chart: Descargar los datos del gráfico (.csv)
-download_csv: Descargar los datos (.csv)
-download_csv_title: Descargar los datos como CSV
+download_chart: Deskargatu grafikoko datuak (.csv)
+download_csv: Deskargatu datuak (.csv)
+download_csv_title: Deskargatu datuak CSV gisa
 download_headline: Descargar los datos de los titulares (.csv)
-download_headline_title: Descargar datos globales como CSV
+download_headline_title: Jatorrizko datuak deskargatu (.csv)
 download_source: Descargar datos de origen (.csv)
 download_source_title: Descargar los datos fuente como CSV
 download_source_sdmx: Descargar el código fuente SDMX (.xml)
 download_source_sdmx_title: Descargar los datos fuente como SDMX
-download_table: Descargar los datos de la tabla (.csv)
-download_chart_image: Descargar la imagen del gráfico (.png)
-download_chart_image_title: Descargar la imagen del gráfico como PNG
+download_table: Deskargatu taulako datuak (.csv)
+download_chart_image: Deskargatu grafikoaren irudia (.png)
+download_chart_image_title: Deskargatu grafikoaren irudia PNG gisa
 download_geojson: Descargar los datos del mapa (.geojson)
 download_geojson_title: Descargar los datos del mapa como GeoJSON
 edit: Editar el indicador
 edit_data: Editar datos
 edit_metadata: Editar metadatos
 footnote: Nota
-geographical_area: Escala
-global_metadata: Otros
+geographical_area: Eskala
+global_metadata: Bestelakoak
 global_metadata_blurb: 
 legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
-loading: Cargando
+loading: Kargatzen
 loading_map: Cargando mapa
 map: Mapa
-national_metadata: Metadatos generales
+national_metadata: Metadatu orokorrak
 national_metadata_blurb: 
-no_data_hint: No hay opciones disponibles debido a los filtros anteriores
-select_all: Seleccionar todo
-series: Serie
-series_help: Elija categorías de las listas desplegables a continuación para ver diferentes
-  desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel
-  superior.
-source: Fuente
-sources: Fuentes
-sub_categories: Subcategorías
-table: Tabla
-unit_of_measurement: Unidad de medida
+no_data_hint: Ez dago aukerarik aurreko iragazkiak direla eta
+select_all: Hautatu dena
+series: Datu-seriea
+series_help: Aukeratu goitibeherako zerrenden kategoriak jarraian, datuen banakapenak ikusteko. Batzuk ez dira erabilgarri egongo goragoko maila bat aukeratu arte.
+source: Datu-iturriak
+sources: Datu-iturriak
+sub_categories: Azpikategoria
+table: Taula
+unit_of_measurement: Unitate-neurria
 units_type: Tipo de unidades
 variable_hint: Disponible cuando se selecciona «%field»
 view_indicator_list: Ver la lista de indicadores de este objetivo
