@@ -1,6 +1,5 @@
-previous: 'Objetivo anterior'
-next: 'Siguiente objetivo'
-goal: Objetivo
-description: Haz clic en cada objetivo para ver las estadísticas de los indicadores
-  globales de %country.name Objetivos de Desarrollo Sostenible.
-indicators_for_goal: Ver las metas e indicadores del Objetivo
+previous: 'Aurreko dimentsioa'
+next: 'Hurrengo dimentsioa'
+goal: Dimentsioa
+description: Egin klik dimentsio bakoitzean Gipuzkoako Ongizate Integralaren Monitorearen adierazle globalen estatistikak ikusteko.
+indicators_for_goal: Dimentsioaren azpidimentsioak eta adierazleak ikustea
