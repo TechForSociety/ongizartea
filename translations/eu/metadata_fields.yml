@@ -129,10 +129,10 @@ SDG_INDICATOR: Indicador
 SDG_TARGET: Subdimensión
 SDG_GOAL: Dimensión
 SDG_INDICATOR_INFO: Información del indicador
-indicator_reporting_format: Formato
-indicator_reporting_periodicity: Periodicidad
-indicator_last_update: Última actualización
+indicator_reporting_format: Formatua
+indicator_reporting_periodicity: Maiztasuna
+indicator_last_update: Azken eguneraketa
 indicator_evaluation_type: Tipo de valoración
-data_last_update: Última actualización
-metadata_fields.comparison_sdg: Unidad de medida
-comparison_sdg: Unidad de medida
+data_last_update: Azken eguneraketa
+metadata_fields.comparison_sdg: Unitate-neurria
+comparison_sdg: Unitate-neurria
