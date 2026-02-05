@@ -1,88 +1,100 @@
-chart: Grafikoa
-clear_all: Dena garbitu
-clear_selections: Ezabatu aukeraketak
-data_not_available: Adierazle hau balio-kargaren zain dago.
-dataset_size_warning: Datu multzo gehiegi daude grafikoan erakusteko.
-Dena ez da erakutsiko selekzio batzuk kendu arte.
-download_chart: Deskargatu grafikoko datuak .csv
-download_csv: Deskargatu datuak .csv
-download_csv_title: Deskargatu CSV datuak
-download_headline: Deskargatu titularren datuak(.csv
-download_headline_title: Deskargatu CSV bezalako datu globalak
-download_source: Jatorrizko datuak deskargatu .csv
-download_source_title: CSV bezalako iturri-datuak deskargatu
-download_source_sdmx: SDMX iturburu-kodea deskargatu .xml
-download_source_sdmx_title: Deskargatu iturburu-datuak SDMX bezala
-download_table: Deskargatu taulako datuak .csv
-download_chart_image: Deskargatu grafikoaren irudia .png
-download_chart_image_title: Deskargatu grafikoaren irudia PNG gisa
-download_geojson: Deskargatu mapako datuak .geojson
-download_geojson_title: Deskargatu mapako datuak GeoJSON bezala
-edit: Editatu adierazlea
-edit_data: Editatu datuak
-edit_metadata: Metadatuak editatu
-footnote: Oharra
-geographical_area: Eskala
-global_metadata: Bestelakoak
-global_metadata_blurb:
-legend_help: Egin klik legendan grafikotik banakako lerroak ezabatzeko.
-loading: Kargatzen
-loading_map: Mapa kargatzen
-Map: Mapa
-national_metadata: Metadatu orokorrak
-national_metadata_blurb:
-no_data_hint: Ez dago aukerarik eskuragarri aurreko iragazkiak direla eta
-select_all: Dena hautatu
-Serieak: Serie
-series_help: Aukeratu goitibeherako zerrenden kategoriak jarraian, desberdinak ikusteko
-datuen banakapena. Batzuk ez dira erabilgarri egongo maila bat aukeratu arte
-goikoa.
-source: Iturria
-Sources: Iturriak
-sub_categories: Azpikategoriak
-Taula: Taula
-unit_of_measurement: Neurri-unitatea
-units_type: Unitate mota
-variable_hint: «% field» hautatzen denean eskuragarri
-view_indicator_list: Ikusi helburu honen adierazleen zerrenda
-edit_configuration: Konfigurazioa editatu
-next: Hurrengo adierazlea
-previous: Aurreko adierazlea
-tags: Etiketak
-status: adierazlearen egoera
-table_column_sort: Sakatu zutabe honen bidez ordenatzeko
-map_search_show: Mapan bilaketa erakutsi
-map_search_hide: Mapetan bilaketa ezkutatzea
-map_search: Bilaketa mapan
-map_year_slider: Urteko irristagailua
-chart_annotation: Grafiko batean idaztea
-annotation_2030_target: 2030erako adierazlearen helburua
-plot_legend_description: 'Grafikoaren legenda: grafikoan sartutako lerroen zerrenda'
-data_keyboard_navigation: Sakatu Enter datu-puntuetan
-ezkerreko eta eskuineko gezi-teklak.
-data_tabular_alternative: Taula formako datuen alternatibarako, ikus
-Taula erlaitza.
-announce_data_removed: Grafiko eta taula eguneratuak datuak baztertzeko.
-announce_data_added: Grafiko eta taula eguneratuak datuak sartzeko.
-announce_data_not_available: Taulak eta grafikoak ez dute daturik erakusten.
-sub_categories_show: 'Azpikategoriak erakutsi:'
-unit: Unitatea
-headline_data: Datu nagusiak
-no_headline_data: Ez dago datu nagusi erabilgarririk
-download_source_for_disaggregations: Deskargatu banakapenetarako jatorrizko datuak
-.csv
-apply: Aplikatu
-cancel: Ezeztatu
-change_breakdowns: Banakapenak aldatu
-empty_metadata_placeholder: Ez dago eskuragarri adierazle honetarako
-Guztira: Guztira
-map_zoom_home: Maparen zoom lehenetsia berrezartzea
-map_slider_mouse: Mapako datuetan zehar nabigatu, denbora-tartearen arabera
-map_search_cancel: Ezabatu bilaketa mapan
-map_zoom_in: Zoom mapan
-map_zoom_out: Mapa murriztea
-map_fullscreen: Ikusi mapa pantaila osoan
-map_fullscreen_exit: Mapatik pantaila osora ateratzea
-map_slider_back: Ikusi aurreko denboraldirako mapen datuak
-map_slider_forward: Ikusi hurrengo denbora-tarterako maparen datuak
-map_slider_keyboard: Ikusi maparen datuak denbora-tarte erabilgarrian
+chart: Gráfico
+clear_all: Limpiar todo
+clear_selections: Borrar selecciones
+data_not_available: Este indicador está pendiente de carga de valores.
+dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
+  No todo se mostrará hasta que elimine algunas selecciones.
+download_chart: Descargar los datos del gráfico (.csv)
+download_csv: Descargar los datos (.csv)
+download_csv_title: Descargar los datos como CSV
+download_headline: Descargar los datos de los titulares (.csv)
+download_headline_title: Descargar datos globales como CSV
+download_source: Descargar datos de origen (.csv)
+download_source_title: Descargar los datos fuente como CSV
+download_source_sdmx: Descargar el código fuente SDMX (.xml)
+download_source_sdmx_title: Descargar los datos fuente como SDMX
+download_table: Descargar los datos de la tabla (.csv)
+download_chart_image: Descargar la imagen del gráfico (.png)
+download_chart_image_title: Descargar la imagen del gráfico como PNG
+download_geojson: Descargar los datos del mapa (.geojson)
+download_geojson_title: Descargar los datos del mapa como GeoJSON
+edit: Editar el indicador
+edit_data: Editar datos
+edit_metadata: Editar metadatos
+footnote: Nota
+geographical_area: Escala
+global_metadata: Otros
+global_metadata_blurb: 
+legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
+loading: Cargando
+loading_map: Cargando mapa
+map: Mapa
+national_metadata: Metadatos generales
+national_metadata_blurb: 
+no_data_hint: No hay opciones disponibles debido a los filtros anteriores
+select_all: Seleccionar todo
+series: Serie
+series_help: Elija categorías de las listas desplegables a continuación para ver diferentes
+  desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel
+  superior.
+source: Fuente
+sources: Fuentes
+sub_categories: Subcategorías
+table: Tabla
+unit_of_measurement: Unidad de medida
+units_type: Tipo de unidades
+variable_hint: Disponible cuando se selecciona «%field»
+view_indicator_list: Ver la lista de indicadores de este objetivo
+edit_configuration: Editar la configuración
+next: Siguiente indicador
+previous: Indicador anterior
+tags: Etiquetas
+status: Estado del indicador
+table_column_sort: Pulse para ordenar por esta columna
+map_search_show: Mostrar búsqueda en el mapa
+map_search_hide: Ocultar la búsqueda en los mapas
+map_search: Búsqueda en el mapa
+map_year_slider: Deslizador del año
+chart_annotation: Anotación en un gráfico
+annotation_2030_target: Objetivo del indicador para 2030
+plot_legend_description: 'Leyenda del gráfico: lista de líneas incluidas en el gráfico'
+data_keyboard_navigation: Pulse Enter para navegar por los puntos de datos con las
+  teclas de flecha izquierda y derecha.
+data_tabular_alternative: Para la alternativa de datos en forma de tabla, véase la
+  pestaña Tabla.
+announce_data_removed: Gráfico y tabla actualizados para excluir los datos.
+announce_data_added: Gráfico y tabla actualizados para incluir los datos.
+announce_data_not_available: La tabla y el gráfico no muestran datos.
+sub_categories_show: 'Mostrar subcategorías:'
+unit: Unidad
+headline_data: Datos principales
+no_headline_data: No hay datos principales disponibles
+download_source_for_disaggregations: Descargar los datos de origen para los desgloses
+  (.csv)
+apply: Aplicar
+cancel: Cancelar
+change_breakdowns: Cambiar los desgloses
+empty_metadata_placeholder: No disponible para este indicador
+total: Total
+map_zoom_home: Restablecer el zoom predeterminado del mapa
+map_slider_mouse: Navegar por los datos del mapa por periodo de tiempo
+map_search_cancel: Borrar búsqueda en el mapa
+map_zoom_in: Zoom en el mapa
+map_zoom_out: Reducir el mapa
+map_fullscreen: Ver mapa a pantalla completa
+map_fullscreen_exit: Salir del mapa a pantalla completa
+map_slider_back: Ver datos de los mapas para el período de tiempo anterior
+map_slider_forward: Ver los datos del mapa para el siguiente periodo de tiempo
+map_slider_keyboard: Vea los datos del mapa a lo largo del periodo de tiempo utilizando
+  las teclas de flecha izquierda y derecha
+annotation_series_break: Ruptura de la serie
+empty_metadata_placeholder_sources: No disponible para esta fuente
+proxy: Proxy
+proxy_description: Este indicador contiene algunos datos alternativos a los especificados
+  por la Organización de las Naciones Unidas (ONU). Este indicador es la coincidencia
+  más adecuada disponible actualmente.
+note: nota
+announce_series_switched: Gráfico y tabla actualizados para mostrar una serie diferente.
+announce_unit_switched: Gráfico y tabla actualizados para mostrar una unidad diferente.
+affirmative: Sí
+negative: 'No'
