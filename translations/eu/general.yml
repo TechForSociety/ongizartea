@@ -1,8 +1,8 @@
-goal: Objetivo
-goals: Objetivos
-home: Inicio
-indicator: Indicador
-indicators: Indicadores
+goal: Dimentsioa
+goals: Dimentsioak
+home: Hasiera
+indicator: Adierazlea
+indicators: Adierazleak
 loading: Cargando resultados de búsqueda
 opens_new_window: Se abre en una nueva ventana
 hide: Ocultar
@@ -11,10 +11,10 @@ target: Meta
 targets: Metas
 twitter: Twitter
 facebook: Facebook
-built_using_open_sdg: Construido usando Open SDG
+built_using_open_sdg: Open SDG erabiliz eraikia
 page: página web
 pages: páginas web
 site_title: Indicadores para los Objetivos de Desarrollo Sostenible
 label_warning: 'Advertencia:'
 targets_and_indicators: Metas e indicadores
-back_to_top: Volver arriba
+back_to_top: Itzuli gora
