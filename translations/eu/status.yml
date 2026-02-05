@@ -15,8 +15,6 @@ disaggregation_status_notapplicable: 'Irismenetik kanpo'
 disaggregation_status_by_field: 'Desagregazioa % field bidez'
 not_specified: Ez da zehazten
 reported: Informatua
-description: Txostenen egoerak kantitatearen deskribapen orokorra ematen du
-% country.name informatzen duen Garapen Iraunkorreko Helburuei (GJH) buruzko datuak.
 progress_status: Aurrerapenaren egoera
 progress_not_available: Ez dago daturik
 progress_challenges_remain: Erronkei jarraitzen diete
