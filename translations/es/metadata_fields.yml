@@ -1,140 +1,102 @@
-other_info: Otra información
-computation_calculations: Cálculos
-computation_definitions: Definiciones
-computation_units: Neurri-unitatea
-goal_meta_link: Enlace a los metadatos de la ONU
-indicator: Número del indicador
-indicator_definition: Descripción del indicador global
-indicator_name: Nombre del indicador
-indicator_sort_order: Orden de visualización del indicador (dentro de la página de
-  Objetivo)
-national_data_update_url: Datos actualizados por última vez
-national_geographical_coverage: Cobertura geográfica
-national_indicator_available: Maiztasuna
-national_indicator_description: Descripción del indicador
-national_metadata_update_url: Metadatos actualizados por última vez
-source_contact_1: Detalles de contacto
-source_contact_2: Detalles de contacto
-source_contact_3: Detalles de contacto
-source_contact_4: Detalles de contacto
-source_contact_5: Detalles de contacto
-source_contact_6: Detalles de contacto
-source_earliest_available_1: Los datos disponibles más antiguos
-source_earliest_available_2: Los datos disponibles más antiguos
-source_earliest_available_3: Los datos disponibles más antiguos
-source_earliest_available_4: Los datos disponibles más antiguos
-source_earliest_available_5: Los datos disponibles más antiguos
-source_earliest_available_6: Los datos disponibles más antiguos
-source_geographical_coverage_1: Cobertura geográfica
-source_geographical_coverage_2: Cobertura geográfica
-source_geographical_coverage_3: Cobertura geográfica
-source_geographical_coverage_4: Cobertura geográfica
-source_geographical_coverage_5: Cobertura geográfica
-source_geographical_coverage_6: Cobertura geográfica
-source_next_release_1: Siguiente lanzamiento
-source_next_release_2: Siguiente lanzamiento
-source_next_release_3: Siguiente lanzamiento
-source_next_release_4: Siguiente lanzamiento
-source_next_release_5: Siguiente lanzamiento
-source_next_release_6: Siguiente lanzamiento
-source_organisation_1: Erakundea
-source_organisation_2: Erakundea
-source_organisation_3: Erakundea
-source_organisation_4: Erakundea
-source_organisation_5: Erakundea
-source_organisation_6: Erakundea
-source_other_info_1: Otra información
-source_other_info_2: Otra información
-source_other_info_3: Otra información
-source_other_info_4: Otra información
-source_other_info_5: Otra información
-source_other_info_6: Otra información
-source_periodicity_1: Maiztasuna
-source_periodicity_2: Maiztasuna
-source_periodicity_3: Maiztasuna
-source_periodicity_4: Maiztasuna
-source_periodicity_5: Maiztasuna
-source_periodicity_6: Maiztasuna
-source_release_date_1: Fecha de lanzamiento
-source_release_date_2: Fecha de lanzamiento
-source_release_date_3: Fecha de lanzamiento
-source_release_date_4: Fecha de lanzamiento
-source_release_date_5: Fecha de lanzamiento
-source_release_date_6: Fecha de lanzamiento
-source_statistical_classification_1: Clasificación estadística
-source_statistical_classification_2: Clasificación estadística
-source_statistical_classification_3: Clasificación estadística
-source_statistical_classification_4: Clasificación estadística
-source_statistical_classification_5: Clasificación estadística
-source_statistical_classification_6: Clasificación estadística
-source_url_1: Enlace a la fuente de datos
-source_url_2: Enlace a la fuente de datos
-source_url_3: Enlace a la fuente de datos
-source_url_4: Enlace a la fuente de datos
-source_url_5: Enlace a la fuente de datos
-source_url_6: Enlace a la fuente de datos
-target: Nombre de la subdimensión
-target_id: Número de subdimensión
-un_custodian_agency: Tipo de valoración
-un_designated_tier: Nivel designado por la ONU
-quality_assurance: Seguro de calidad
-international_comparability: Comparabilidad con datos / estándares internacionales
-comments_limitations: Comentarios y limitaciones
-rationale_interpretation: Racionalidad e interpretación
-rational_interpretation: Racionalidad e interpretación
-copyright: Derechos de autor
-OTHER_DOC: Referencias y documentación
-COMPARABILITY: Comparabilidad/desviación de las normas internacionales
-COVERAGE: Disponibilidad y desglose de datos
-QUALITY_ASSMNT: Evaluación de la calidad
-QUALITY_ASSURE: Seguro de calidad
-QUALITY_MGMNT: Gestión de la calidad
-DOC_METHOD: Métodos y orientaciones a disposición de los países para la recopilación
-  de los datos a nivel nacional
-REG_AGG: Agregaciones regionales
-IMPUTATION: Tratamiento de los valores perdidos (i) a nivel de país y (ii) a nivel
-  regional
-ADJUSTMENT: Ajustes
-DATA_VALIDATION: Validación
-DATA_COMP: Método de cálculo
-REC_USE_LIM: Comentarios y limitaciones
-RATIONALE: Justificación
-OTHER_METHOD: Otras consideraciones metodológicas
-INST_MANDATE: Mandato institucional
-COMPILING_ORG: Compiladores de datos
-DATA_SOURCE: Proveedores de datos
-REL_CAL_POLICY: Calendario de publicación de datos
-FREQ_COLL: Calendario de recopilación de datos
-COLL_METHOD: Método de recogida de datos
-SOURCE_TYPE: Fuentes de datos
-SRC_TYPE_COLL_METHOD: Tipo de fuente de datos y método de recogida
-CLASS_SYSTEM: Clasificaciones
-UNIT_MEASURE: Neurri-unitatea
-STAT_CONC_DEF: Definición y conceptos
-IND_DEF_CON_CLASS: Definición, conceptos y clasificaciones
-CONTACT_EMAIL: Correo electrónico de contacto
-CONTACT_MAIL: Correo electrónico de contacto
-CONTACT_PHONE: Teléfono de contacto
-CONTACT_FUNCT: Función de la persona de contacto
-ORGANISATION_UNIT: Unidad de organización de contactos
-CONTACT_NAME: Persona(s) de contacto
-CONTACT_ORGANISATION: Erakundea
-CONTACT: Reportero de datos
-SDG_CUSTODIAN_AGENCIES: Organizaciones internacionales responsables del seguimiento
-  global
-SDG_RELATED_INDICATORS: Indicadores relacionados
-META_LAST_UPDATE: Actualización de metadatos
-SDG_SERIES_DESCR: Series
-SDG_INDICATOR: Indicador
-SDG_TARGET: Subdimensión
-SDG_GOAL: Dimensión
-SDG_INDICATOR_INFO: Información del indicador
-indicator_reporting_format: Formato
-indicator_reporting_periodicity: Periodicidad
-indicator_last_update: Última actualización
-indicator_evaluation_type: Tipo de valoración
-data_last_update: Última actualización
-metadata_fields.comparison_sdg: Unidad de medida
-comparison_sdg: Unidad de medida
+chart: Gráfico
+clear_all: Limpiar todo
+clear_selections: Borrar selecciones
+data_not_available: Este indicador está pendiente de carga de valores.
+dataset_size_warning: Hay demasiados conjuntos de datos para mostrar en el gráfico.
+  No todo se mostrará hasta que elimine algunas selecciones.
+download_chart: Descargar los datos del gráfico (.csv)
+download_csv: Descargar los datos (.csv)
+download_csv_title: Descargar los datos como CSV
+download_headline: Descargar los datos de los titulares (.csv)
+download_headline_title: Descargar datos globales como CSV
+download_source: Descargar datos de origen (.csv)
+download_source_title: Descargar los datos fuente como CSV
+download_source_sdmx: Descargar el código fuente SDMX (.xml)
+download_source_sdmx_title: Descargar los datos fuente como SDMX
+download_table: Descargar los datos de la tabla (.csv)
+download_chart_image: Descargar la imagen del gráfico (.png)
+download_chart_image_title: Descargar la imagen del gráfico como PNG
+download_geojson: Descargar los datos del mapa (.geojson)
+download_geojson_title: Descargar los datos del mapa como GeoJSON
+edit: Editar el indicador
+edit_data: Editar datos
+edit_metadata: Editar metadatos
+footnote: Nota
+geographical_area: Escala
+global_metadata: Otros
+global_metadata_blurb: 
+legend_help: Haga clic en la leyenda para eliminar líneas individuales del gráfico.
+loading: Cargando
+loading_map: Cargando mapa
+map: Mapa
+national_metadata: Metadatos generales
+national_metadata_blurb: 
+no_data_hint: No hay opciones disponibles debido a los filtros anteriores
+select_all: Seleccionar todo
+series: Serie
+series_help: Elija categorías de las listas desplegables a continuación para ver diferentes
+  desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel
+  superior.
+source: Fuente
+sources: Fuentes
+sub_categories: Subcategorías
+table: Tabla
+unit_of_measurement: Unidad de medida
+units_type: Tipo de unidades
+variable_hint: Disponible cuando se selecciona «%field»
+view_indicator_list: Ver la lista de indicadores de este objetivo
+edit_configuration: Editar la configuración
+next: Siguiente indicador
+previous: Indicador anterior
+tags: Etiquetas
+status: Estado del indicador
+table_column_sort: Pulse para ordenar por esta columna
+map_search_show: Mostrar búsqueda en el mapa
+map_search_hide: Ocultar la búsqueda en los mapas
+map_search: Búsqueda en el mapa
+map_year_slider: Deslizador del año
+chart_annotation: Anotación en un gráfico
+annotation_2030_target: Objetivo del indicador para 2030
+plot_legend_description: 'Leyenda del gráfico: lista de líneas incluidas en el gráfico'
+data_keyboard_navigation: Pulse Enter para navegar por los puntos de datos con las
+  teclas de flecha izquierda y derecha.
+data_tabular_alternative: Para la alternativa de datos en forma de tabla, véase la
+  pestaña Tabla.
+announce_data_removed: Gráfico y tabla actualizados para excluir los datos.
+announce_data_added: Gráfico y tabla actualizados para incluir los datos.
+announce_data_not_available: La tabla y el gráfico no muestran datos.
+sub_categories_show: 'Mostrar subcategorías:'
+unit: Unidad
+headline_data: Datos principales
+no_headline_data: No hay datos principales disponibles
+download_source_for_disaggregations: Descargar los datos de origen para los desgloses
+  (.csv)
+apply: Aplicar
+cancel: Cancelar
+change_breakdowns: Cambiar los desgloses
+empty_metadata_placeholder: No disponible para este indicador
+total: Total
+map_zoom_home: Restablecer el zoom predeterminado del mapa
+map_slider_mouse: Navegar por los datos del mapa por periodo de tiempo
+map_search_cancel: Borrar búsqueda en el mapa
+map_zoom_in: Zoom en el mapa
+map_zoom_out: Reducir el mapa
+map_fullscreen: Ver mapa a pantalla completa
+map_fullscreen_exit: Salir del mapa a pantalla completa
+map_slider_back: Ver datos de los mapas para el período de tiempo anterior
+map_slider_forward: Ver los datos del mapa para el siguiente periodo de tiempo
+map_slider_keyboard: Vea los datos del mapa a lo largo del periodo de tiempo utilizando
+  las teclas de flecha izquierda y derecha
+annotation_series_break: Ruptura de la serie
+empty_metadata_placeholder_sources: No disponible para esta fuente
+proxy: Proxy
+proxy_description: Este indicador contiene algunos datos alternativos a los especificados
+  por la Organización de las Naciones Unidas (ONU). Este indicador es la coincidencia
+  más adecuada disponible actualmente.
+note: nota
+announce_series_switched: Gráfico y tabla actualizados para mostrar una serie diferente.
+announce_unit_switched: Gráfico y tabla actualizados para mostrar una unidad diferente.
+affirmative: Sí
+negative: 'No'
 
 
