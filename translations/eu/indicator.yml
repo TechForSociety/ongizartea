@@ -1,23 +1,22 @@
-
 chart: Grafikoa
 clear_all: Dena garbitu
 clear_selections: Ezabatu aukeraketak
 data_not_available: Adierazle hau balio-kargaren zain dago.
 dataset_size_warning: Datu multzo gehiegi daude grafikoan erakusteko.
 Dena ez da erakutsiko selekzio batzuk kendu arte.
-download_chart: Deskargatu grafikoko datuak (.csv)
-download_csv: Deskargatu datuak (.csv)
+download_chart: Deskargatu grafikoko datuak .csv
+download_csv: Deskargatu datuak .csv
 download_csv_title: Deskargatu CSV datuak
-download_headline: Deskargatu titularren datuak (.csv)
+download_headline: Deskargatu titularren datuak(.csv
 download_headline_title: Deskargatu CSV bezalako datu globalak
-download_source: Jatorrizko datuak deskargatu (.csv)
+download_source: Jatorrizko datuak deskargatu .csv
 download_source_title: CSV bezalako iturri-datuak deskargatu
-download_source_sdmx: SDMX iturburu-kodea deskargatu (.xml)
+download_source_sdmx: SDMX iturburu-kodea deskargatu .xml
 download_source_sdmx_title: Deskargatu iturburu-datuak SDMX bezala
-download_table: Deskargatu taulako datuak (.csv)
-download_chart_image: Deskargatu grafikoaren irudia (.png)
+download_table: Deskargatu taulako datuak .csv
+download_chart_image: Deskargatu grafikoaren irudia .png
 download_chart_image_title: Deskargatu grafikoaren irudia PNG gisa
-download_geojson: Deskargatu mapako datuak (.geojson)
+download_geojson: Deskargatu mapako datuak .geojson
 download_geojson_title: Deskargatu mapako datuak GeoJSON bezala
 edit: Editatu adierazlea
 edit_data: Editatu datuak
@@ -71,7 +70,7 @@ unit: Unitatea
 headline_data: Datu nagusiak
 no_headline_data: Ez dago datu nagusi erabilgarririk
 download_source_for_disaggregations: Deskargatu banakapenetarako jatorrizko datuak
-(.csv)
+.csv
 apply: Aplikatu
 cancel: Ezeztatu
 change_breakdowns: Banakapenak aldatu
