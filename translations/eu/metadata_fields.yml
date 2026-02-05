@@ -1,7 +1,7 @@
 other_info: Otra información
 computation_calculations: Cálculos
 computation_definitions: Definiciones
-computation_units: Unidad de medida
+computation_units: Neurri-unitatea
 goal_meta_link: Enlace a los metadatos de la ONU
 indicator: Número del indicador
 indicator_definition: Descripción del indicador global
@@ -10,7 +10,7 @@ indicator_sort_order: Orden de visualización del indicador (dentro de la págin
   Objetivo)
 national_data_update_url: Datos actualizados por última vez
 national_geographical_coverage: Cobertura geográfica
-national_indicator_available: Periodicidad
+national_indicator_available: Maiztasuna
 national_indicator_description: Descripción del indicador
 national_metadata_update_url: Metadatos actualizados por última vez
 source_contact_1: Detalles de contacto
@@ -37,24 +37,24 @@ source_next_release_3: Siguiente lanzamiento
 source_next_release_4: Siguiente lanzamiento
 source_next_release_5: Siguiente lanzamiento
 source_next_release_6: Siguiente lanzamiento
-source_organisation_1: Organización
-source_organisation_2: Organización
-source_organisation_3: Organización
-source_organisation_4: Organización
-source_organisation_5: Organización
-source_organisation_6: Organización
+source_organisation_1: Erakundea
+source_organisation_2: Erakundea
+source_organisation_3: Erakundea
+source_organisation_4: Erakundea
+source_organisation_5: Erakundea
+source_organisation_6: Erakundea
 source_other_info_1: Otra información
 source_other_info_2: Otra información
 source_other_info_3: Otra información
 source_other_info_4: Otra información
 source_other_info_5: Otra información
 source_other_info_6: Otra información
-source_periodicity_1: Periodicidad
-source_periodicity_2: Periodicidad
-source_periodicity_3: Periodicidad
-source_periodicity_4: Periodicidad
-source_periodicity_5: Periodicidad
-source_periodicity_6: Periodicidad
+source_periodicity_1: Maiztasuna
+source_periodicity_2: Maiztasuna
+source_periodicity_3: Maiztasuna
+source_periodicity_4: Maiztasuna
+source_periodicity_5: Maiztasuna
+source_periodicity_6: Maiztasuna
 source_release_date_1: Fecha de lanzamiento
 source_release_date_2: Fecha de lanzamiento
 source_release_date_3: Fecha de lanzamiento
@@ -109,7 +109,7 @@ COLL_METHOD: Método de recogida de datos
 SOURCE_TYPE: Fuentes de datos
 SRC_TYPE_COLL_METHOD: Tipo de fuente de datos y método de recogida
 CLASS_SYSTEM: Clasificaciones
-UNIT_MEASURE: Unidad de medida
+UNIT_MEASURE: Neurri-unitatea
 STAT_CONC_DEF: Definición y conceptos
 IND_DEF_CON_CLASS: Definición, conceptos y clasificaciones
 CONTACT_EMAIL: Correo electrónico de contacto
@@ -118,7 +118,7 @@ CONTACT_PHONE: Teléfono de contacto
 CONTACT_FUNCT: Función de la persona de contacto
 ORGANISATION_UNIT: Unidad de organización de contactos
 CONTACT_NAME: Persona(s) de contacto
-CONTACT_ORGANISATION: Organización
+CONTACT_ORGANISATION: Erakundea
 CONTACT: Reportero de datos
 SDG_CUSTODIAN_AGENCIES: Organizaciones internacionales responsables del seguimiento
   global
@@ -136,5 +136,3 @@ indicator_evaluation_type: Tipo de valoración
 data_last_update: Última actualización
 metadata_fields.comparison_sdg: Unidad de medida
 comparison_sdg: Unidad de medida
-
-
