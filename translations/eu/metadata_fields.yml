@@ -8,7 +8,7 @@ indicator_definition: Descripción del indicador global
 indicator_name: Nombre del indicador
 indicator_sort_order: Orden de visualización del indicador (dentro de la página de
   Objetivo)
-national_data_update_url: Datos actualizados por última vez
+national_data_update_url: Azken aldiz eguneratutako datuak
 national_geographical_coverage: Cobertura geográfica
 national_indicator_available: Maiztasuna
 national_indicator_description: Descripción del indicador
