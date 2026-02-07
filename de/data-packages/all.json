@@ -2195,7 +2195,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Eskualdea",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2210,7 +2210,7 @@
                 ""
               ]
             },
-            "title": "Eskualdea"
+            "title": "Group"
           },
           {
             "name": "Units",
