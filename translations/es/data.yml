@@ -1,1 +1,3 @@
 Year: 'Año'
+data_fields:
+  group: "Comarca"
