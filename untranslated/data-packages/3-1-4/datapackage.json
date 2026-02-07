@@ -26,6 +26,7 @@
                 "Goierri",
                 "Tolosaldea",
                 "Urola-Kosta",
+                "Gipuzkoa",
                 ""
               ]
             }
@@ -42,7 +43,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
