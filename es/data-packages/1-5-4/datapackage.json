@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "Eskualdea",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
@@ -31,7 +31,7 @@
                 ""
               ]
             },
-            "title": "Eskualdea"
+            "title": "Comarca"
           },
           {
             "name": "Units",

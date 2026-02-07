@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Eskualdea",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
