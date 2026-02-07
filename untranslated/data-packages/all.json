@@ -88,7 +88,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Eskualdea",
             "type": "string",
             "constraints": {
               "enum": [
@@ -685,7 +685,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Eskualdea",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1586,7 +1586,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Eskualdea",
             "type": "string",
             "constraints": {
               "enum": [

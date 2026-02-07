@@ -95,7 +95,7 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "Eskualdea",
             "type": "string",
             "constraints": {
               "enum": [
@@ -110,7 +110,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Eskualdea"
           },
           {
             "name": "Units",
@@ -747,7 +747,7 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "Eskualdea",
             "type": "string",
             "constraints": {
               "enum": [
@@ -762,7 +762,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Eskualdea"
           },
           {
             "name": "Units",
@@ -1729,7 +1729,7 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "Eskualdea",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1744,7 +1744,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Eskualdea"
           },
           {
             "name": "Value",
