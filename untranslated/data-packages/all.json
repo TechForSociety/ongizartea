@@ -3167,7 +3167,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Tasa",
                 ""
               ]
             }
