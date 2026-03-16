@@ -16,15 +16,17 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Gipuzkoako Batzar Nagusiak",
+                "Zinegotzigoak",
+                "Udalak",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Group"
           },
           {
             "name": "Value",

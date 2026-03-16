@@ -16,15 +16,17 @@
             "title": "Urtea"
           },
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Gipuzkoako Batzar Nagusiak",
+                "Zinegotzigoak",
+                "Udalak",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Eskualdea"
           },
           {
             "name": "Value",

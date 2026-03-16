@@ -3485,11 +3485,13 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Gipuzkoako Batzar Nagusiak",
+                "Zinegotzigoak",
+                "Udalak",
                 ""
               ]
             }
