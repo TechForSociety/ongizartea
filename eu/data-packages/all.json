@@ -4035,7 +4035,7 @@
             "title": "Urtea"
           },
           {
-            "name": "Group",
+            "name": "Serie",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4045,7 +4045,7 @@
                 ""
               ]
             },
-            "title": "Eskualdea"
+            "title": "Serie"
           },
           {
             "name": "Value",

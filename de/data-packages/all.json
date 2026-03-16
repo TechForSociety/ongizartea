@@ -4035,7 +4035,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Serie",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4045,7 +4045,7 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Serie"
           },
           {
             "name": "Value",

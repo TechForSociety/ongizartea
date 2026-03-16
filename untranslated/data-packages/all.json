@@ -3706,7 +3706,7 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Serie",
             "type": "string",
             "constraints": {
               "enum": [
