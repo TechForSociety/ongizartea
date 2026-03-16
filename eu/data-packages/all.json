@@ -2430,6 +2430,24 @@
             "title": "Urtea"
           },
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gipuzkoa",
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
+                ""
+              ]
+            },
+            "title": "Eskualdea"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2529,6 +2547,24 @@
             "name": "Year",
             "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gipuzkoa",
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
+                ""
+              ]
+            },
+            "title": "Eskualdea"
           },
           {
             "name": "Value",

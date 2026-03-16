@@ -2233,6 +2233,23 @@
             "type": "integer"
           },
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gipuzkoa",
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -2324,6 +2341,23 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gipuzkoa",
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
