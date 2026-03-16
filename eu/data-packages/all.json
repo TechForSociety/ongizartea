@@ -3965,6 +3965,24 @@
             "title": "Urtea"
           },
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gipuzkoa",
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
+                ""
+              ]
+            },
+            "title": "Eskualdea"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
