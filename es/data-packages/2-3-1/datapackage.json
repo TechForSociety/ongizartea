@@ -16,6 +16,24 @@
             "title": "Año"
           },
           {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Debagoiena",
+                "Bidasoa",
+                "Debabarrena",
+                "Donostialdea",
+                "Goierri",
+                "Tolosaldea",
+                "Urola-Kosta",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Comarca"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
